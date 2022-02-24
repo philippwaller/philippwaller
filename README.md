@@ -59,8 +59,8 @@
 
 #### 👯 Check out some of my recent followers
 
-- [sriram-km](https://github.com/sriram-km)
 - [jasineri](https://github.com/jasineri)
 - [wallernetwork-bot](https://github.com/wallernetwork-bot)
 - [preethamb97](https://github.com/preethamb97)
 - [TopCodeBeast](https://github.com/TopCodeBeast)
+- [snowwhite-boss](https://github.com/snowwhite-boss)
