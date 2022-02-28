@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: refactor integration pipeline](https://github.com/philippwaller/helm-charts/pull/13) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (today)
 - [docs: update readme](https://github.com/philippwaller/helm-charts/pull/12) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 week ago)
 - [refactor: update list of supported k8s version](https://github.com/philippwaller/helm-charts/pull/11) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 week ago)
 - [feat: add k3s-traefik-config chart](https://github.com/philippwaller/helm-charts/pull/10) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 week ago)
@@ -41,7 +42,6 @@
 - [feat: add external-service helm chart](https://github.com/philippwaller/helm-charts/pull/6) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 weeks ago)
 - [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/5) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 weeks ago)
 - [feat: add inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/4) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
-- [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/3) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 
 #### ⭐ Recent Stars
 
