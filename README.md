@@ -58,8 +58,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ethanflower1903](https://github.com/ethanflower1903)
 - [armancodv](https://github.com/armancodv)
 - [jasineri](https://github.com/jasineri)
 - [wallernetwork-bot](https://github.com/wallernetwork-bot)
 - [preethamb97](https://github.com/preethamb97)
-- [TopCodeBeast](https://github.com/TopCodeBeast)
