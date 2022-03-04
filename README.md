@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (today)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (2 weeks ago)
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar (3 weeks ago)
 - [gabrielperales/streamdeck-osascript](https://github.com/gabrielperales/streamdeck-osascript) -  (3 weeks ago)
@@ -54,7 +55,6 @@
 - [LunaticMuch/synology-conbee](https://github.com/LunaticMuch/synology-conbee) - Documentation and script for DSM7 / Conbee  (3 months ago)
 - [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) - Node-RED - Home Assistant Community Add-ons (3 months ago)
 - [PiotrMachowski/lovelace-xiaomi-vacuum-map-card](https://github.com/PiotrMachowski/lovelace-xiaomi-vacuum-map-card) - This card provides a user-friendly way to fully control Xiaomi (Roborock/Viomi/Dreame/Roidmi) and Neato (&#43; possibly other) vacuums in Home Assistant. (3 months ago)
-- [artem-sedykh/mini-climate-card](https://github.com/artem-sedykh/mini-climate-card) - Minimalistic climate card for Home Assistant Lovelace UI (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
