@@ -23,7 +23,7 @@
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([k3s-traefik-config-1.0.2](https://github.com/philippwaller/helm-charts/releases/tag/k3s-traefik-config-1.0.2), 1 week ago) - Helm Chart Repository
 - [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v11.0.4](https://github.com/hassio-addons/addon-node-red/releases/tag/v11.0.4), 1 week ago) - Node-RED - Home Assistant Community Add-ons
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.1](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.1), 2 weeks ago) - The purpose of this role is to add users and groups on your system.
-- [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) ([3.2.3](https://github.com/robertdebock/ansible-role-docker/releases/tag/3.2.3), 2 weeks ago) - Install and configure Docker (non-CE) on your system.
+- [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) ([3.2.3](https://github.com/robertdebock/ansible-role-docker/releases/tag/3.2.3), 3 weeks ago) - Install and configure Docker (non-CE) on your system.
 - [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) ([4.2.0](https://github.com/robertdebock/ansible-role-openssh/releases/tag/4.2.0), 2 months ago) - Install and configure openssh on your system.
 - [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) ([3.2.0](https://github.com/robertdebock/ansible-role-reboot/releases/tag/3.2.0), 2 months ago) - The purpose of this role is to reboot your system.
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.0](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.0), 2 months ago) - Install and configure Docker CE on your system.
@@ -45,11 +45,11 @@
 
 #### ⭐ Recent Stars
 
-- [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows (1 day ago)
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (4 days ago)
+- [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows (2 days ago)
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (5 days ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (3 weeks ago)
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar (4 weeks ago)
-- [gabrielperales/streamdeck-osascript](https://github.com/gabrielperales/streamdeck-osascript) -  (4 weeks ago)
+- [gabrielperales/streamdeck-osascript](https://github.com/gabrielperales/streamdeck-osascript) -  (1 month ago)
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less (1 month ago)
 - [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) - Dynamic sub-dir volume provisioner on a remote NFS server. (1 month ago)
 - [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) - The purpose of this role is to reboot your system. (2 months ago)
