@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v11.1.0](https://github.com/hassio-addons/addon-node-red/releases/tag/v11.1.0), 1 day ago) - Node-RED - Home Assistant Community Add-ons
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v11.1.0](https://github.com/hassio-addons/addon-node-red/releases/tag/v11.1.0), 2 days ago) - Node-RED - Home Assistant Community Add-ons
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([k3s-traefik-config-1.0.2](https://github.com/philippwaller/helm-charts/releases/tag/k3s-traefik-config-1.0.2), 1 week ago) - Helm Chart Repository
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.1](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.1), 2 weeks ago) - The purpose of this role is to add users and groups on your system.
 - [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) ([3.2.3](https://github.com/robertdebock/ansible-role-docker/releases/tag/3.2.3), 3 weeks ago) - Install and configure Docker (non-CE) on your system.
@@ -40,13 +40,13 @@
 - [ci: reference reusable workflows via local path](https://github.com/philippwaller/helm-charts/pull/8) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 weeks ago)
 - [ci: fix template generation for conformity check](https://github.com/philippwaller/helm-charts/pull/7) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 weeks ago)
 - [feat: add external-service helm chart](https://github.com/philippwaller/helm-charts/pull/6) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 weeks ago)
-- [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/5) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 weeks ago)
+- [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/5) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 weeks ago)
 - [feat: add inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/4) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 
 #### ⭐ Recent Stars
 
-- [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows (3 days ago)
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (6 days ago)
+- [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows (4 days ago)
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (1 week ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (3 weeks ago)
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar (1 month ago)
 - [gabrielperales/streamdeck-osascript](https://github.com/gabrielperales/streamdeck-osascript) -  (1 month ago)
