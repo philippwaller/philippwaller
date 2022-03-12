@@ -58,8 +58,8 @@
 
 #### 👯 Check out some of my recent followers
 
+- [jestemAria](https://github.com/jestemAria)
 - [BEPb](https://github.com/BEPb)
 - [MosFazli](https://github.com/MosFazli)
 - [Solex202](https://github.com/Solex202)
 - [PremChapagain](https://github.com/PremChapagain)
-- [ethanflower1903](https://github.com/ethanflower1903)
