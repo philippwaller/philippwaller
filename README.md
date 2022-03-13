@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: fix broken pipeline](https://github.com/philippwaller/helm-charts/pull/17) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (today)
 - [fix(external-service): bump chart version](https://github.com/philippwaller/helm-charts/pull/15) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (today)
 - [ci: refactor integration pipeline](https://github.com/philippwaller/helm-charts/pull/13) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 week ago)
 - [docs: update readme](https://github.com/philippwaller/helm-charts/pull/12) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 weeks ago)
@@ -41,7 +42,6 @@
 - [ci: reference reusable workflows via local path](https://github.com/philippwaller/helm-charts/pull/8) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 weeks ago)
 - [ci: fix template generation for conformity check](https://github.com/philippwaller/helm-charts/pull/7) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 weeks ago)
 - [feat: add external-service helm chart](https://github.com/philippwaller/helm-charts/pull/6) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 weeks ago)
-- [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/5) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 
 #### ⭐ Recent Stars
 
