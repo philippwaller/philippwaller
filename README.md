@@ -59,7 +59,7 @@
 #### 👯 Check out some of my recent followers
 
 - [mateuszdrab](https://github.com/mateuszdrab)
-- [AlfredoBellini](https://github.com/AlfredoBellini)
+- [YetkinBozkan](https://github.com/YetkinBozkan)
 - [jestemAria](https://github.com/jestemAria)
 - [BEPb](https://github.com/BEPb)
 - [MosFazli](https://github.com/MosFazli)
