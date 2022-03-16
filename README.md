@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (today)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (1 day ago)
 - [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows (1 week ago)
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (1 week ago)
@@ -54,7 +55,6 @@
 - [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) - Dynamic sub-dir volume provisioner on a remote NFS server. (2 months ago)
 - [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) - The purpose of this role is to reboot your system. (2 months ago)
 - [LunaticMuch/synology-conbee](https://github.com/LunaticMuch/synology-conbee) - Documentation and script for DSM7 / Conbee  (3 months ago)
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) - Node-RED - Home Assistant Community Add-ons (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
