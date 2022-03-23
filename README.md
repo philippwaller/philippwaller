@@ -60,8 +60,8 @@
 
 - [CarlosDevBr](https://github.com/CarlosDevBr)
 - [mateuszdrab](https://github.com/mateuszdrab)
-- [jestemAria](https://github.com/jestemAria)
 - [BEPb](https://github.com/BEPb)
 - [MosFazli](https://github.com/MosFazli)
+- [Solex202](https://github.com/Solex202)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
