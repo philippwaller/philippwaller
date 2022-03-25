@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v11.1.1](https://github.com/hassio-addons/addon-node-red/releases/tag/v11.1.1), 2 days ago) - Node-RED - Home Assistant Community Add-ons
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v11.1.1](https://github.com/hassio-addons/addon-node-red/releases/tag/v11.1.1), 3 days ago) - Node-RED - Home Assistant Community Add-ons
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([external-service-1.0.4](https://github.com/philippwaller/helm-charts/releases/tag/external-service-1.0.4), 1 week ago) - Helm Chart Repository
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.2](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.2), 1 week ago) - The purpose of this role is to add users and groups on your system.
 - [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) ([3.2.3](https://github.com/robertdebock/ansible-role-docker/releases/tag/3.2.3), 1 month ago) - Install and configure Docker (non-CE) on your system.
@@ -48,7 +48,7 @@
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (1 week ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (1 week ago)
 - [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows (2 weeks ago)
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (2 weeks ago)
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (3 weeks ago)
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar (1 month ago)
 - [gabrielperales/streamdeck-osascript](https://github.com/gabrielperales/streamdeck-osascript) -  (1 month ago)
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less (1 month ago)
