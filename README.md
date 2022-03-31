@@ -58,10 +58,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [jsgosol](https://github.com/jsgosol)
 - [BEPb](https://github.com/BEPb)
 - [mateuszdrab](https://github.com/mateuszdrab)
 - [MosFazli](https://github.com/MosFazli)
 - [Solex202](https://github.com/Solex202)
-- [PremChapagain](https://github.com/PremChapagain)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
