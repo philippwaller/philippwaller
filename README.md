@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules (today)
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (2 weeks ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (3 weeks ago)
 - [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows (4 weeks ago)
@@ -54,7 +55,6 @@
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less (2 months ago)
 - [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) - Dynamic sub-dir volume provisioner on a remote NFS server. (2 months ago)
 - [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) - The purpose of this role is to reboot your system. (3 months ago)
-- [LunaticMuch/synology-conbee](https://github.com/LunaticMuch/synology-conbee) - Documentation and script for DSM7 / Conbee  (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
