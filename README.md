@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.0](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.0), today) - Helm Chart Repository
 - [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v11.1.1](https://github.com/hassio-addons/addon-node-red/releases/tag/v11.1.1), 2 weeks ago) - Node-RED - Home Assistant Community Add-ons
-- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([external-service-1.0.4](https://github.com/philippwaller/helm-charts/releases/tag/external-service-1.0.4), 3 weeks ago) - Helm Chart Repository
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.2](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.2), 3 weeks ago) - The purpose of this role is to add users and groups on your system.
 - [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) ([3.2.3](https://github.com/robertdebock/ansible-role-docker/releases/tag/3.2.3), 1 month ago) - Install and configure Docker (non-CE) on your system.
 - [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) ([4.2.0](https://github.com/robertdebock/ansible-role-openssh/releases/tag/4.2.0), 3 months ago) - Install and configure openssh on your system.
@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: fix release pipeline by skip existing releases](https://github.com/philippwaller/helm-charts/pull/21) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (today)
 - [feat: add whoami chart](https://github.com/philippwaller/helm-charts/pull/20) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 day ago)
 - [docs: add code of conduct](https://github.com/philippwaller/helm-charts/pull/19) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 weeks ago)
 - [feat: evaluate .ignore files during the change detection process](https://github.com/helm/chart-testing/pull/411) on [helm/chart-testing](https://github.com/helm/chart-testing) (3 weeks ago)
@@ -41,7 +42,6 @@
 - [ci: refactor integration pipeline](https://github.com/philippwaller/helm-charts/pull/13) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 - [docs: update readme](https://github.com/philippwaller/helm-charts/pull/12) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 - [refactor: update list of supported k8s version](https://github.com/philippwaller/helm-charts/pull/11) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
-- [feat: add k3s-traefik-config chart](https://github.com/philippwaller/helm-charts/pull/10) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 
 #### ⭐ Recent Stars
 
