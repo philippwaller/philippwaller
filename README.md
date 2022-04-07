@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card (today)
 - [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules (2 days ago)
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (3 weeks ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (3 weeks ago)
@@ -54,7 +55,6 @@
 - [gabrielperales/streamdeck-osascript](https://github.com/gabrielperales/streamdeck-osascript) -  (1 month ago)
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less (2 months ago)
 - [kubernetes-sigs/nfs-subdir-external-provisioner](https://github.com/kubernetes-sigs/nfs-subdir-external-provisioner) - Dynamic sub-dir volume provisioner on a remote NFS server. (2 months ago)
-- [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) - The purpose of this role is to reboot your system. (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
