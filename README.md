@@ -8,8 +8,8 @@
 - [wallernetwork/ansible-role-banner](https://github.com/wallernetwork/ansible-role-banner) - Manages your Linux banner files (3 months ago)
 - [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) - Install and configure openssh on your system. (3 months ago)
 - [wallernetwork/docker-genisoimage](https://github.com/wallernetwork/docker-genisoimage) - genisoimage Docker image - create ISO9660/Joliet/HFS filesystem with optional Rock Ridge attributes (3 months ago)
-- [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) - Install and configure Docker CE on your system. (3 months ago)
-- [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) - Install and configure Docker (non-CE) on your system. (3 months ago)
+- [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) - Install and configure Docker CE on your system. (4 months ago)
+- [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) - Install and configure Docker (non-CE) on your system. (4 months ago)
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) - The purpose of this role is to add users and groups on your system. (4 months ago)
 - [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) - The purpose of this role is to reboot your system. (4 months ago)
 
@@ -21,7 +21,7 @@
 #### 🔭 Latest releases I've contributed to
 
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.0](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.0), 1 week ago) - Helm Chart Repository
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v11.1.1](https://github.com/hassio-addons/addon-node-red/releases/tag/v11.1.1), 3 weeks ago) - Node-RED - Home Assistant Community Add-ons
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v11.1.1](https://github.com/hassio-addons/addon-node-red/releases/tag/v11.1.1), 4 weeks ago) - Node-RED - Home Assistant Community Add-ons
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.2](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.2), 1 month ago) - The purpose of this role is to add users and groups on your system.
 - [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) ([3.2.3](https://github.com/robertdebock/ansible-role-docker/releases/tag/3.2.3), 2 months ago) - Install and configure Docker (non-CE) on your system.
 - [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) ([4.2.0](https://github.com/robertdebock/ansible-role-openssh/releases/tag/4.2.0), 3 months ago) - Install and configure openssh on your system.
@@ -33,7 +33,7 @@
 #### 🔨 My recent Pull Requests
 
 - [ci: fix release pipeline by skip existing releases](https://github.com/philippwaller/helm-charts/pull/21) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 week ago)
-- [feat: add whoami chart](https://github.com/philippwaller/helm-charts/pull/20) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 week ago)
+- [feat: add whoami chart](https://github.com/philippwaller/helm-charts/pull/20) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 weeks ago)
 - [docs: add code of conduct](https://github.com/philippwaller/helm-charts/pull/19) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 - [feat: evaluate .ignore files during the change detection process](https://github.com/helm/chart-testing/pull/411) on [helm/chart-testing](https://github.com/helm/chart-testing) (1 month ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/18) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
@@ -46,7 +46,7 @@
 #### ⭐ Recent Stars
 
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card (1 week ago)
-- [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules (1 week ago)
+- [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules (2 weeks ago)
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (1 month ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (1 month ago)
 - [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows (1 month ago)
