@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (1 week ago)
+- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (2 weeks ago)
 - [philippwaller/philippwaller.github.io](https://github.com/philippwaller/philippwaller.github.io) - Website (2 months ago)
 - [wallernetwork/ansible-role-qemu_guest_agent](https://github.com/wallernetwork/ansible-role-qemu_guest_agent) - Install and configure the QEMU Guest Agent on your systems. (3 months ago)
 - [wallernetwork/ansible-role-banner](https://github.com/wallernetwork/ansible-role-banner) - Manages your Linux banner files (3 months ago)
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.0](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.0), 1 week ago) - Helm Chart Repository
+- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.0](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.0), 2 weeks ago) - Helm Chart Repository
 - [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v11.1.1](https://github.com/hassio-addons/addon-node-red/releases/tag/v11.1.1), 4 weeks ago) - Node-RED - Home Assistant Community Add-ons
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.2](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.2), 1 month ago) - The purpose of this role is to add users and groups on your system.
 - [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) ([3.2.3](https://github.com/robertdebock/ansible-role-docker/releases/tag/3.2.3), 2 months ago) - Install and configure Docker (non-CE) on your system.
@@ -32,7 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [ci: fix release pipeline by skip existing releases](https://github.com/philippwaller/helm-charts/pull/21) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 week ago)
+- [ci: fix release pipeline by skip existing releases](https://github.com/philippwaller/helm-charts/pull/21) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 weeks ago)
 - [feat: add whoami chart](https://github.com/philippwaller/helm-charts/pull/20) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 weeks ago)
 - [docs: add code of conduct](https://github.com/philippwaller/helm-charts/pull/19) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 - [feat: evaluate .ignore files during the change detection process](https://github.com/helm/chart-testing/pull/411) on [helm/chart-testing](https://github.com/helm/chart-testing) (1 month ago)
