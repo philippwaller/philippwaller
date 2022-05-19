@@ -61,7 +61,7 @@
 - [AYIDouble](https://github.com/AYIDouble)
 - [Arshiamidos](https://github.com/Arshiamidos)
 - [BEPb](https://github.com/BEPb)
-- [jsgosol](https://github.com/jsgosol)
 - [mateuszdrab](https://github.com/mateuszdrab)
+- [MosFazli](https://github.com/MosFazli)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
