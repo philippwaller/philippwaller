@@ -53,7 +53,7 @@
 - [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows (3 months ago)
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (3 months ago)
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar (3 months ago)
-- [gabrielperales/streamdeck-osascript](https://github.com/gabrielperales/streamdeck-osascript) -  (3 months ago)
+- [gabrielperales/streamdeck-osascript](https://github.com/gabrielperales/streamdeck-osascript) -  (4 months ago)
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less (4 months ago)
 
 #### 👯 Check out some of my recent followers
