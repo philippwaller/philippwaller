@@ -1,7 +1,7 @@
 #### 🔭 Releases I've contributed to
 
-- [robertdebock/ansible-role-locale](https://github.com/robertdebock/ansible-role-locale) ([3.3.4](https://github.com/robertdebock/ansible-role-locale/releases/tag/3.3.4), today) - Configure locale on your system.
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v12.0.2](https://github.com/hassio-addons/addon-node-red/releases/tag/v12.0.2), 5 days ago) - Node-RED - Home Assistant Community Add-ons
+- [robertdebock/ansible-role-locale](https://github.com/robertdebock/ansible-role-locale) ([3.3.4](https://github.com/robertdebock/ansible-role-locale/releases/tag/3.3.4), 1 day ago) - Configure locale on your system.
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v12.0.2](https://github.com/hassio-addons/addon-node-red/releases/tag/v12.0.2), 6 days ago) - Node-RED - Home Assistant Community Add-ons
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.0](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.0), 2 months ago) - Helm Chart Repository
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.2](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.2), 3 months ago) - The purpose of this role is to add users and groups on your system.
 - [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) ([3.2.3](https://github.com/robertdebock/ansible-role-docker/releases/tag/3.2.3), 3 months ago) - Install and configure Docker (non-CE) on your system.
