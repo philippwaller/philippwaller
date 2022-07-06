@@ -20,13 +20,13 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), today) - Install and configure Docker CE on your system.
+- [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 1 day ago) - Install and configure Docker CE on your system.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.3](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.3), 3 weeks ago) - The purpose of this role is to add users and groups on your system.
 - [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) ([3.2.1](https://github.com/robertdebock/ansible-role-reboot/releases/tag/3.2.1), 3 weeks ago) - The purpose of this role is to reboot your system.
 - [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) ([4.2.1](https://github.com/robertdebock/ansible-role-openssh/releases/tag/4.2.1), 3 weeks ago) - Install and configure openssh on your system.
 - [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) ([3.2.4](https://github.com/robertdebock/ansible-role-docker/releases/tag/3.2.4), 3 weeks ago) - Install and configure Docker (non-CE) on your system.
 - [robertdebock/ansible-role-locale](https://github.com/robertdebock/ansible-role-locale) ([3.3.4](https://github.com/robertdebock/ansible-role-locale/releases/tag/3.3.4), 3 weeks ago) - Configure locale on your system.
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v12.0.2](https://github.com/hassio-addons/addon-node-red/releases/tag/v12.0.2), 3 weeks ago) - Node-RED - Home Assistant Community Add-ons
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v12.0.2](https://github.com/hassio-addons/addon-node-red/releases/tag/v12.0.2), 4 weeks ago) - Node-RED - Home Assistant Community Add-ons
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.0](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.0), 3 months ago) - Helm Chart Repository
 - [See all releases](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
@@ -46,7 +46,7 @@
 #### ⭐ Recent Stars
 
 - [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (2 months ago)
-- [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card (2 months ago)
+- [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card (3 months ago)
 - [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules (3 months ago)
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (3 months ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (3 months ago)
