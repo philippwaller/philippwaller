@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 1 day ago) - Install and configure Docker CE on your system.
+- [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 2 days ago) - Install and configure Docker CE on your system.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.3](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.3), 3 weeks ago) - The purpose of this role is to add users and groups on your system.
 - [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) ([3.2.1](https://github.com/robertdebock/ansible-role-reboot/releases/tag/3.2.1), 3 weeks ago) - The purpose of this role is to reboot your system.
 - [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) ([4.2.1](https://github.com/robertdebock/ansible-role-openssh/releases/tag/4.2.1), 3 weeks ago) - Install and configure openssh on your system.
@@ -53,7 +53,7 @@
 - [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows (4 months ago)
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (4 months ago)
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar (4 months ago)
-- [gabrielperales/streamdeck-osascript](https://github.com/gabrielperales/streamdeck-osascript) -  (4 months ago)
+- [gabrielperales/streamdeck-osascript](https://github.com/gabrielperales/streamdeck-osascript) -  (5 months ago)
 - [aosabook/500lines](https://github.com/aosabook/500lines) - 500 Lines or Less (5 months ago)
 
 #### 👯 Check out some of my recent followers
