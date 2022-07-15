@@ -62,6 +62,6 @@
 - [AYIDouble](https://github.com/AYIDouble)
 - [BEPb](https://github.com/BEPb)
 - [mateuszdrab](https://github.com/mateuszdrab)
-- [MosFazli](https://github.com/MosFazli)
+- [Solex202](https://github.com/Solex202)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
