@@ -8,8 +8,8 @@
 - [wallernetwork/ansible-role-banner](https://github.com/wallernetwork/ansible-role-banner) - Manages your Linux banner files (6 months ago)
 - [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) - Install and configure openssh on your system. (6 months ago)
 - [wallernetwork/docker-genisoimage](https://github.com/wallernetwork/docker-genisoimage) - genisoimage Docker image - create ISO9660/Joliet/HFS filesystem with optional Rock Ridge attributes (6 months ago)
-- [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) - Install and configure Docker CE on your system. (6 months ago)
-- [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) - Install and configure Docker (non-CE) on your system. (6 months ago)
+- [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) - Install and configure Docker CE on your system. (7 months ago)
+- [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) - Install and configure Docker (non-CE) on your system. (7 months ago)
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) - The purpose of this role is to add users and groups on your system. (7 months ago)
 - [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) - The purpose of this role is to reboot your system. (7 months ago)
 
@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.0.0](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.0.0), today) - Node-RED - Home Assistant Community Add-ons
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.0.0](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.0.0), 1 day ago) - Node-RED - Home Assistant Community Add-ons
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 1 week ago) - Install and configure Docker CE on your system.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.3](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.3), 1 month ago) - The purpose of this role is to add users and groups on your system.
 - [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) ([3.2.1](https://github.com/robertdebock/ansible-role-reboot/releases/tag/3.2.1), 1 month ago) - The purpose of this role is to reboot your system.
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (4 days ago)
+- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (5 days ago)
 - [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (2 months ago)
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card (3 months ago)
 - [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules (3 months ago)
