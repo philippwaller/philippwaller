@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [custom-cards/button-card](https://github.com/custom-cards/button-card) - ❇️ Lovelace button-card for home assistant (today)
 - [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (2 weeks ago)
 - [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (3 months ago)
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card (3 months ago)
@@ -54,7 +55,6 @@
 - [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows (4 months ago)
 - [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (4 months ago)
 - [go-vgo/robotgo](https://github.com/go-vgo/robotgo) - RobotGo, Go Native cross-platform GUI automation  @vcaesar (5 months ago)
-- [gabrielperales/streamdeck-osascript](https://github.com/gabrielperales/streamdeck-osascript) -  (5 months ago)
 
 #### 👯 Check out some of my recent followers
 
