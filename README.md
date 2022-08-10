@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.3.1](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.3.1), 4 days ago) - Node-RED - Home Assistant Community Add-ons
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.3.1](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.3.1), 5 days ago) - Node-RED - Home Assistant Community Add-ons
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 1 month ago) - Install and configure Docker CE on your system.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.3](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.3), 1 month ago) - The purpose of this role is to add users and groups on your system.
 - [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) ([3.2.1](https://github.com/robertdebock/ansible-role-reboot/releases/tag/3.2.1), 1 month ago) - The purpose of this role is to reboot your system.
@@ -37,16 +37,16 @@
 - [feat: add whoami chart](https://github.com/philippwaller/helm-charts/pull/20) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 months ago)
 - [docs: add code of conduct](https://github.com/philippwaller/helm-charts/pull/19) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 months ago)
 - [feat: evaluate .ignore files during the change detection process](https://github.com/helm/chart-testing/pull/411) on [helm/chart-testing](https://github.com/helm/chart-testing) (4 months ago)
-- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/18) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 months ago)
-- [ci: fix broken pipeline](https://github.com/philippwaller/helm-charts/pull/17) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 months ago)
-- [fix(external-service): bump chart version](https://github.com/philippwaller/helm-charts/pull/15) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 months ago)
+- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/18) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (5 months ago)
+- [ci: fix broken pipeline](https://github.com/philippwaller/helm-charts/pull/17) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (5 months ago)
+- [fix(external-service): bump chart version](https://github.com/philippwaller/helm-charts/pull/15) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (5 months ago)
 - [ci: refactor integration pipeline](https://github.com/philippwaller/helm-charts/pull/13) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (5 months ago)
 - [docs: update readme](https://github.com/philippwaller/helm-charts/pull/12) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (5 months ago)
 
 #### ⭐ Recent Stars
 
 - [custom-cards/button-card](https://github.com/custom-cards/button-card) - ❇️ Lovelace button-card for home assistant (1 week ago)
-- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (3 weeks ago)
+- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (4 weeks ago)
 - [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (3 months ago)
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card (4 months ago)
 - [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules (4 months ago)
