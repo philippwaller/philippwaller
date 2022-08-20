@@ -41,7 +41,7 @@
 - [ci: fix broken pipeline](https://github.com/philippwaller/helm-charts/pull/17) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (5 months ago)
 - [fix(external-service): bump chart version](https://github.com/philippwaller/helm-charts/pull/15) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (5 months ago)
 - [ci: refactor integration pipeline](https://github.com/philippwaller/helm-charts/pull/13) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (5 months ago)
-- [docs: update readme](https://github.com/philippwaller/helm-charts/pull/12) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (5 months ago)
+- [docs: update readme](https://github.com/philippwaller/helm-charts/pull/12) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (6 months ago)
 
 #### ⭐ Recent Stars
 
