@@ -32,8 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add field &#34;unique_id&#34; to &#34;config/entity_registry/list&#34; websocket response](https://github.com/home-assistant/core/pull/77476) on [home-assistant/core](https://github.com/home-assistant/core) (1 day ago)
-- [Table: Catch exception if multiSortMeta array is empty](https://github.com/primefaces/primeng/pull/11869) on [primefaces/primeng](https://github.com/primefaces/primeng) (6 days ago)
+- [Add field &#34;unique_id&#34; to &#34;config/entity_registry/list&#34; websocket response](https://github.com/home-assistant/core/pull/77476) on [home-assistant/core](https://github.com/home-assistant/core) (2 days ago)
+- [Table: Catch exception if multiSortMeta array is empty](https://github.com/primefaces/primeng/pull/11869) on [primefaces/primeng](https://github.com/primefaces/primeng) (1 week ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/23) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 months ago)
 - [ci: fix release pipeline by skip existing releases](https://github.com/philippwaller/helm-charts/pull/21) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 months ago)
 - [feat: add whoami chart](https://github.com/philippwaller/helm-charts/pull/20) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 months ago)
@@ -45,7 +45,7 @@
 
 #### ⭐ Recent Stars
 
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (1 day ago)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (2 days ago)
 - [custom-cards/button-card](https://github.com/custom-cards/button-card) - ❇️ Lovelace button-card for home assistant (1 month ago)
 - [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (1 month ago)
 - [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (4 months ago)
@@ -54,7 +54,7 @@
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (5 months ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (5 months ago)
 - [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows (5 months ago)
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (5 months ago)
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (6 months ago)
 
 #### 👯 Check out some of my recent followers
 
