@@ -5,7 +5,7 @@
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (5 months ago)
 - [philippwaller/philippwaller.github.io](https://github.com/philippwaller/philippwaller.github.io) - Website (7 months ago)
 - [wallernetwork/ansible-role-qemu_guest_agent](https://github.com/wallernetwork/ansible-role-qemu_guest_agent) - Install and configure the QEMU Guest Agent on your systems. (7 months ago)
-- [wallernetwork/ansible-role-banner](https://github.com/wallernetwork/ansible-role-banner) - Manages your Linux banner files (7 months ago)
+- [wallernetwork/ansible-role-banner](https://github.com/wallernetwork/ansible-role-banner) - Manages your Linux banner files (8 months ago)
 - [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) - Install and configure openssh on your system. (8 months ago)
 - [wallernetwork/docker-genisoimage](https://github.com/wallernetwork/docker-genisoimage) - genisoimage Docker image - create ISO9660/Joliet/HFS filesystem with optional Rock Ridge attributes (8 months ago)
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) - Install and configure Docker CE on your system. (8 months ago)
