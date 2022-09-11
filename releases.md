@@ -7,5 +7,5 @@
 - [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) ([3.2.1](https://github.com/robertdebock/ansible-role-reboot/releases/tag/3.2.1), 2 months ago) - The purpose of this role is to reboot your system.
 - [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) ([4.2.1](https://github.com/robertdebock/ansible-role-openssh/releases/tag/4.2.1), 2 months ago) - Install and configure openssh on your system.
 - [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) ([3.2.4](https://github.com/robertdebock/ansible-role-docker/releases/tag/3.2.4), 2 months ago) - Install and configure Docker (non-CE) on your system.
-- [robertdebock/ansible-role-locale](https://github.com/robertdebock/ansible-role-locale) ([3.3.4](https://github.com/robertdebock/ansible-role-locale/releases/tag/3.3.4), 2 months ago) - Configure locale on your system.
+- [robertdebock/ansible-role-locale](https://github.com/robertdebock/ansible-role-locale) ([3.3.4](https://github.com/robertdebock/ansible-role-locale/releases/tag/3.3.4), 3 months ago) - Configure locale on your system.
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.0](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.0), 5 months ago) - Helm Chart Repository
