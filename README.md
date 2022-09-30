@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [primefaces/primeng](https://github.com/primefaces/primeng) ([14.1.2](https://github.com/primefaces/primeng/releases/tag/14.1.2), 1 day ago) - The Most Complete Angular UI Component Library
+- [primefaces/primeng](https://github.com/primefaces/primeng) ([14.1.2](https://github.com/primefaces/primeng/releases/tag/14.1.2), 2 days ago) - The Most Complete Angular UI Component Library
 - [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.4.0](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.4.0), 1 week ago) - Node-RED - Home Assistant Community Add-ons
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 2 months ago) - Install and configure Docker CE on your system.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.3](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.3), 3 months ago) - The purpose of this role is to add users and groups on your system.
@@ -55,7 +55,7 @@
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (6 months ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (6 months ago)
 - [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows (6 months ago)
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (6 months ago)
+- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
