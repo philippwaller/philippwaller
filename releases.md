@@ -1,6 +1,6 @@
 #### 🔭 Releases I've contributed to
 
-- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([external-service-1.0.5](https://github.com/philippwaller/helm-charts/releases/tag/external-service-1.0.5), today) - Helm Chart Repository
+- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.1](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.1), today) - Helm Chart Repository
 - [primefaces/primeng](https://github.com/primefaces/primeng) ([14.1.2](https://github.com/primefaces/primeng/releases/tag/14.1.2), 5 days ago) - The Most Complete Angular UI Component Library
 - [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.4.0](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.4.0), 2 weeks ago) - Node-RED - Home Assistant Community Add-ons
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 3 months ago) - Install and configure Docker CE on your system.
