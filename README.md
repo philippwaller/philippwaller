@@ -46,6 +46,7 @@
 
 #### ⭐ Recent Stars
 
+- [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨  A feature-rich yet lightweight data-table crafted for Angular (today)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (1 month ago)
 - [custom-cards/button-card](https://github.com/custom-cards/button-card) - ❇️ Lovelace button-card for home assistant (2 months ago)
 - [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (3 months ago)
@@ -55,7 +56,6 @@
 - [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (6 months ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (7 months ago)
 - [thomasloven/lovelace-fold-entity-row](https://github.com/thomasloven/lovelace-fold-entity-row) - 🔹 A foldable row for entities card, containing other rows (7 months ago)
-- [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30&#43; plugins and 200&#43; options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON! (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
