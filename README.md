@@ -9,8 +9,8 @@
 - [wallernetwork/ansible-role-banner](https://github.com/wallernetwork/ansible-role-banner) - Manages your Linux banner files (9 months ago)
 - [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) - Install and configure openssh on your system. (9 months ago)
 - [wallernetwork/docker-genisoimage](https://github.com/wallernetwork/docker-genisoimage) - genisoimage Docker image - create ISO9660/Joliet/HFS filesystem with optional Rock Ridge attributes (9 months ago)
-- [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) - Install and configure Docker CE on your system. (9 months ago)
-- [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) - Install and configure Docker (non-CE) on your system. (9 months ago)
+- [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) - Install and configure Docker CE on your system. (10 months ago)
+- [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) - Install and configure Docker (non-CE) on your system. (10 months ago)
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) - The purpose of this role is to add users and groups on your system. (10 months ago)
 
 #### 🌱 My latest projects
@@ -22,7 +22,7 @@
 
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.1](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.1), 1 week ago) - Helm Chart Repository
 - [primefaces/primeng](https://github.com/primefaces/primeng) ([14.1.2](https://github.com/primefaces/primeng/releases/tag/14.1.2), 2 weeks ago) - The Most Complete Angular UI Component Library
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.4.0](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.4.0), 3 weeks ago) - Node-RED - Home Assistant Community Add-ons
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.4.0](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.4.0), 4 weeks ago) - Node-RED - Home Assistant Community Add-ons
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 3 months ago) - Install and configure Docker CE on your system.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.3](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.3), 4 months ago) - The purpose of this role is to add users and groups on your system.
 - [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) ([3.2.1](https://github.com/robertdebock/ansible-role-reboot/releases/tag/3.2.1), 4 months ago) - The purpose of this role is to reboot your system.
@@ -46,7 +46,7 @@
 
 #### ⭐ Recent Stars
 
-- [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨  A feature-rich yet lightweight data-table crafted for Angular (4 days ago)
+- [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨  A feature-rich yet lightweight data-table crafted for Angular (5 days ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (1 month ago)
 - [custom-cards/button-card](https://github.com/custom-cards/button-card) - ❇️ Lovelace button-card for home assistant (2 months ago)
 - [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (3 months ago)
