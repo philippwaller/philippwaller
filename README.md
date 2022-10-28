@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/28) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (today)
 - [ci: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/27) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 weeks ago)
 - [ci: update node version](https://github.com/philippwaller/helm-charts/pull/26) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 weeks ago)
 - [Add field &#34;unique_id&#34; to &#34;config/entity_registry/list&#34; websocket response](https://github.com/home-assistant/core/pull/77476) on [home-assistant/core](https://github.com/home-assistant/core) (2 months ago)
@@ -42,7 +43,6 @@
 - [feat: add whoami chart](https://github.com/philippwaller/helm-charts/pull/20) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (6 months ago)
 - [docs: add code of conduct](https://github.com/philippwaller/helm-charts/pull/19) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (7 months ago)
 - [feat: evaluate .ignore files during the change detection process](https://github.com/helm/chart-testing/pull/411) on [helm/chart-testing](https://github.com/helm/chart-testing) (7 months ago)
-- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/18) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (7 months ago)
 
 #### ⭐ Recent Stars
 
