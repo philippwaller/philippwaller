@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.5.0](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.5.0), 1 day ago) - Node-RED - Home Assistant Community Add-ons
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.5.0](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.5.0), 2 days ago) - Node-RED - Home Assistant Community Add-ons
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.1](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.1), 3 weeks ago) - Helm Chart Repository
 - [primefaces/primeng](https://github.com/primefaces/primeng) ([14.1.2](https://github.com/primefaces/primeng/releases/tag/14.1.2), 1 month ago) - The Most Complete Angular UI Component Library
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 3 months ago) - Install and configure Docker CE on your system.
@@ -33,7 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/28) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (today)
+- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/28) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 day ago)
 - [ci: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/27) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 weeks ago)
 - [ci: update node version](https://github.com/philippwaller/helm-charts/pull/26) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 weeks ago)
 - [Add field &#34;unique_id&#34; to &#34;config/entity_registry/list&#34; websocket response](https://github.com/home-assistant/core/pull/77476) on [home-assistant/core](https://github.com/home-assistant/core) (2 months ago)
