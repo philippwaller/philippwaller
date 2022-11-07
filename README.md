@@ -59,10 +59,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [isyuricunha](https://github.com/isyuricunha)
 - [XCBA](https://github.com/XCBA)
 - [mdhachem](https://github.com/mdhachem)
 - [nowjin](https://github.com/nowjin)
 - [MosFazli](https://github.com/MosFazli)
-- [CodeWhiteWeb](https://github.com/CodeWhiteWeb)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
