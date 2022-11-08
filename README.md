@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.5.2](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.5.2), today) - Node-RED - Home Assistant Community Add-ons
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.5.2](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.5.2), 1 day ago) - Node-RED - Home Assistant Community Add-ons
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.1](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.1), 1 month ago) - Helm Chart Repository
 - [primefaces/primeng](https://github.com/primefaces/primeng) ([14.1.2](https://github.com/primefaces/primeng/releases/tag/14.1.2), 1 month ago) - The Most Complete Angular UI Component Library
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 4 months ago) - Install and configure Docker CE on your system.
@@ -46,8 +46,8 @@
 
 #### ⭐ Recent Stars
 
-- [nhooyr/websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go (6 days ago)
-- [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨  A feature-rich yet lightweight data-table crafted for Angular (3 weeks ago)
+- [nhooyr/websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go (1 week ago)
+- [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨  A feature-rich yet lightweight data-table crafted for Angular (4 weeks ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (2 months ago)
 - [custom-cards/button-card](https://github.com/custom-cards/button-card) - ❇️ Lovelace button-card for home assistant (3 months ago)
 - [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (3 months ago)
