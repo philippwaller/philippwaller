@@ -20,20 +20,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [primefaces/primeng](https://github.com/primefaces/primeng) ([v14.2.1](https://github.com/primefaces/primeng/releases/tag/v14.2.1), 1 day ago) - The Most Complete Angular UI Component Library
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.5.2](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.5.2), 3 days ago) - Node-RED - Home Assistant Community Add-ons
+- [primefaces/primeng](https://github.com/primefaces/primeng) ([v14.2.1](https://github.com/primefaces/primeng/releases/tag/v14.2.1), 2 days ago) - The Most Complete Angular UI Component Library
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.5.2](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.5.2), 4 days ago) - Node-RED - Home Assistant Community Add-ons
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.1](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.1), 1 month ago) - Helm Chart Repository
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 4 months ago) - Install and configure Docker CE on your system.
-- [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.3](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.3), 4 months ago) - The purpose of this role is to add users and groups on your system.
-- [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) ([3.2.1](https://github.com/robertdebock/ansible-role-reboot/releases/tag/3.2.1), 4 months ago) - The purpose of this role is to reboot your system.
-- [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) ([4.2.1](https://github.com/robertdebock/ansible-role-openssh/releases/tag/4.2.1), 4 months ago) - Install and configure openssh on your system.
-- [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) ([3.2.4](https://github.com/robertdebock/ansible-role-docker/releases/tag/3.2.4), 4 months ago) - Install and configure Docker (non-CE) on your system.
+- [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.3](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.3), 5 months ago) - The purpose of this role is to add users and groups on your system.
+- [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) ([3.2.1](https://github.com/robertdebock/ansible-role-reboot/releases/tag/3.2.1), 5 months ago) - The purpose of this role is to reboot your system.
+- [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) ([4.2.1](https://github.com/robertdebock/ansible-role-openssh/releases/tag/4.2.1), 5 months ago) - Install and configure openssh on your system.
+- [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) ([3.2.4](https://github.com/robertdebock/ansible-role-docker/releases/tag/3.2.4), 5 months ago) - Install and configure Docker (non-CE) on your system.
 - [robertdebock/ansible-role-locale](https://github.com/robertdebock/ansible-role-locale) ([3.3.4](https://github.com/robertdebock/ansible-role-locale/releases/tag/3.3.4), 5 months ago) - Configure locale on your system.
 - [See all releases](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
 #### 🔨 My recent Pull Requests
 
-- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/28) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 week ago)
+- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/28) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 weeks ago)
 - [ci: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/27) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 - [ci: update node version](https://github.com/philippwaller/helm-charts/pull/26) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 - [Add field &#34;unique_id&#34; to &#34;config/entity_registry/list&#34; websocket response](https://github.com/home-assistant/core/pull/77476) on [home-assistant/core](https://github.com/home-assistant/core) (2 months ago)
@@ -41,7 +41,7 @@
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/23) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (6 months ago)
 - [ci: fix release pipeline by skip existing releases](https://github.com/philippwaller/helm-charts/pull/21) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (7 months ago)
 - [feat: add whoami chart](https://github.com/philippwaller/helm-charts/pull/20) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (7 months ago)
-- [docs: add code of conduct](https://github.com/philippwaller/helm-charts/pull/19) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (7 months ago)
+- [docs: add code of conduct](https://github.com/philippwaller/helm-charts/pull/19) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (8 months ago)
 - [feat: evaluate .ignore files during the change detection process](https://github.com/helm/chart-testing/pull/411) on [helm/chart-testing](https://github.com/helm/chart-testing) (8 months ago)
 
 #### ⭐ Recent Stars
@@ -54,7 +54,7 @@
 - [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (6 months ago)
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card (7 months ago)
 - [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules (7 months ago)
-- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (7 months ago)
+- [helm/chart-testing](https://github.com/helm/chart-testing) - CLI tool for linting and testing Helm charts (8 months ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (8 months ago)
 
 #### 👯 Check out some of my recent followers
