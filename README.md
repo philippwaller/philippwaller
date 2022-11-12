@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [primefaces/primeng](https://github.com/primefaces/primeng) ([v14.2.1](https://github.com/primefaces/primeng/releases/tag/v14.2.1), 2 days ago) - The Most Complete Angular UI Component Library
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.5.2](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.5.2), 4 days ago) - Node-RED - Home Assistant Community Add-ons
+- [primefaces/primeng](https://github.com/primefaces/primeng) ([v14.2.1](https://github.com/primefaces/primeng/releases/tag/v14.2.1), 3 days ago) - The Most Complete Angular UI Component Library
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.5.2](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.5.2), 5 days ago) - Node-RED - Home Assistant Community Add-ons
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.1](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.1), 1 month ago) - Helm Chart Repository
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 4 months ago) - Install and configure Docker CE on your system.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.3](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.3), 5 months ago) - The purpose of this role is to add users and groups on your system.
@@ -59,10 +59,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [0xN0x](https://github.com/0xN0x)
 - [isyuricunha](https://github.com/isyuricunha)
 - [XCBA](https://github.com/XCBA)
 - [mdhachem](https://github.com/mdhachem)
 - [nowjin](https://github.com/nowjin)
-- [MosFazli](https://github.com/MosFazli)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
