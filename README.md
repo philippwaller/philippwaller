@@ -46,6 +46,7 @@
 
 #### ⭐ Recent Stars
 
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (today)
 - [TekWizely/pre-commit-golang](https://github.com/TekWizely/pre-commit-golang) - Pre-commit hooks for Golang with support for monorepos, the ability to pass arguments and environment variables to all hooks, and the ability to invoke custom go tools. (today)
 - [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (2 days ago)
 - [nhooyr/websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go (1 week ago)
@@ -55,7 +56,6 @@
 - [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (4 months ago)
 - [MiczFlor/RPi-Jukebox-RFID](https://github.com/MiczFlor/RPi-Jukebox-RFID) - A Raspberry Pi jukebox, playing local music, podcasts, web radio and streams triggered by RFID cards, web app or home automation. All plug and play via USB. GPIO scripts available. (6 months ago)
 - [custom-cards/decluttering-card](https://github.com/custom-cards/decluttering-card) - 🧹 Declutter your lovelace configuration with the help of this card (7 months ago)
-- [mampfes/hacs_waste_collection_schedule](https://github.com/mampfes/hacs_waste_collection_schedule) - Home Assistant integration framework for (garbage collection) schedules (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
