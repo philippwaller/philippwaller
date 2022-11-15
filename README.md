@@ -59,10 +59,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [AbdeenM](https://github.com/AbdeenM)
 - [Ezema](https://github.com/Ezema)
 - [0xN0x](https://github.com/0xN0x)
 - [XCBA](https://github.com/XCBA)
 - [mdhachem](https://github.com/mdhachem)
-- [nowjin](https://github.com/nowjin)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
