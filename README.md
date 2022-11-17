@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [primefaces/primeng](https://github.com/primefaces/primeng) ([14.2.2](https://github.com/primefaces/primeng/releases/tag/14.2.2), today) - The Most Complete Angular UI Component Library
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.5.3](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.5.3), today) - Node-RED - Home Assistant Community Add-ons
+- [primefaces/primeng](https://github.com/primefaces/primeng) ([14.2.2](https://github.com/primefaces/primeng/releases/tag/14.2.2), 1 day ago) - The Most Complete Angular UI Component Library
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.5.3](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.5.3), 1 day ago) - Node-RED - Home Assistant Community Add-ons
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.1](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.1), 1 month ago) - Helm Chart Repository
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 4 months ago) - Install and configure Docker CE on your system.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.3](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.3), 5 months ago) - The purpose of this role is to add users and groups on your system.
@@ -46,9 +46,9 @@
 
 #### ⭐ Recent Stars
 
-- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (2 days ago)
-- [TekWizely/pre-commit-golang](https://github.com/TekWizely/pre-commit-golang) - Pre-commit hooks for Golang with support for monorepos, the ability to pass arguments and environment variables to all hooks, and the ability to invoke custom go tools. (2 days ago)
-- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (4 days ago)
+- [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (3 days ago)
+- [TekWizely/pre-commit-golang](https://github.com/TekWizely/pre-commit-golang) - Pre-commit hooks for Golang with support for monorepos, the ability to pass arguments and environment variables to all hooks, and the ability to invoke custom go tools. (3 days ago)
+- [avelino/awesome-go](https://github.com/avelino/awesome-go) - A curated list of awesome Go frameworks, libraries and software (5 days ago)
 - [nhooyr/websocket](https://github.com/nhooyr/websocket) - Minimal and idiomatic WebSocket library for Go (2 weeks ago)
 - [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨  A feature-rich yet lightweight data-table crafted for Angular (1 month ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (2 months ago)
@@ -61,8 +61,8 @@
 
 - [AbdeenM](https://github.com/AbdeenM)
 - [Ezema](https://github.com/Ezema)
-- [0xN0x](https://github.com/0xN0x)
 - [XCBA](https://github.com/XCBA)
 - [mdhachem](https://github.com/mdhachem)
+- [nowjin](https://github.com/nowjin)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
