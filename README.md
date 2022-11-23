@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (1 month ago)
-- [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library (2 months ago)
+- [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library (3 months ago)
 - [philippwaller/philippwaller.github.io](https://github.com/philippwaller/philippwaller.github.io) - Website (9 months ago)
 - [wallernetwork/ansible-role-qemu_guest_agent](https://github.com/wallernetwork/ansible-role-qemu_guest_agent) - Install and configure the QEMU Guest Agent on your systems. (10 months ago)
 - [wallernetwork/ansible-role-banner](https://github.com/wallernetwork/ansible-role-banner) - Manages your Linux banner files (10 months ago)
@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [primefaces/primeng](https://github.com/primefaces/primeng) ([15.0.0-rc.1](https://github.com/primefaces/primeng/releases/tag/15.0.0-rc.1), today) - The Most Complete Angular UI Component Library
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.5.3](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.5.3), 6 days ago) - Node-RED - Home Assistant Community Add-ons
+- [primefaces/primeng](https://github.com/primefaces/primeng) ([15.0.0-rc.1](https://github.com/primefaces/primeng/releases/tag/15.0.0-rc.1), 1 day ago) - The Most Complete Angular UI Component Library
+- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.5.3](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.5.3), 1 week ago) - Node-RED - Home Assistant Community Add-ons
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.1](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.1), 1 month ago) - Helm Chart Repository
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 4 months ago) - Install and configure Docker CE on your system.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.3](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.3), 5 months ago) - The purpose of this role is to add users and groups on your system.
