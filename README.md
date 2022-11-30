@@ -21,7 +21,6 @@
 #### 🔭 Latest releases I've contributed to
 
 - [primefaces/primeng](https://github.com/primefaces/primeng) ([15.0.0-rc.1](https://github.com/primefaces/primeng/releases/tag/15.0.0-rc.1), 1 week ago) - The Most Complete Angular UI Component Library
-- [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) ([v13.5.3](https://github.com/hassio-addons/addon-node-red/releases/tag/v13.5.3), 2 weeks ago) - Node-RED - Home Assistant Community Add-ons
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.1](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.1), 1 month ago) - Helm Chart Repository
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 4 months ago) - Install and configure Docker CE on your system.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.3](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.3), 5 months ago) - The purpose of this role is to add users and groups on your system.
