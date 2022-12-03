@@ -45,6 +45,7 @@
 
 #### ⭐ Recent Stars
 
+- [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language. (today)
 - [kkHAIKE/contextcheck](https://github.com/kkHAIKE/contextcheck) - Analyzer: check the function whether use a non-inherited context. (4 days ago)
 - [hashicorp/go-version](https://github.com/hashicorp/go-version) - A Go (golang) library for parsing and verifying versions and version constraints. (6 days ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (2 weeks ago)
@@ -54,7 +55,6 @@
 - [swimlane/ngx-datatable](https://github.com/swimlane/ngx-datatable) - ✨  A feature-rich yet lightweight data-table crafted for Angular (1 month ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (3 months ago)
 - [custom-cards/button-card](https://github.com/custom-cards/button-card) - ❇️ Lovelace button-card for home assistant (4 months ago)
-- [UI-Lovelace-Minimalist/UI](https://github.com/UI-Lovelace-Minimalist/UI) - UI-Lovelace-Minimalist is a &#34;theme&#34; for HomeAssistant (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
