@@ -37,7 +37,7 @@
 - [ci: update node version](https://github.com/philippwaller/helm-charts/pull/26) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 months ago)
 - [Add field &#34;unique_id&#34; to &#34;config/entity_registry/list&#34; websocket response](https://github.com/home-assistant/core/pull/77476) on [home-assistant/core](https://github.com/home-assistant/core) (3 months ago)
 - [Table: Catch exception if multiSortMeta array is empty](https://github.com/primefaces/primeng/pull/11869) on [primefaces/primeng](https://github.com/primefaces/primeng) (3 months ago)
-- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/23) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (6 months ago)
+- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/23) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (7 months ago)
 - [ci: fix release pipeline by skip existing releases](https://github.com/philippwaller/helm-charts/pull/21) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (8 months ago)
 - [feat: add whoami chart](https://github.com/philippwaller/helm-charts/pull/20) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (8 months ago)
 - [docs: add code of conduct](https://github.com/philippwaller/helm-charts/pull/19) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (8 months ago)
@@ -45,9 +45,9 @@
 
 #### ⭐ Recent Stars
 
-- [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (4 days ago)
-- [dh1tw/streamdeck](https://github.com/dh1tw/streamdeck) - Golang API for the Corsair / Elgato StreamDeck (4 days ago)
-- [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language. (5 days ago)
+- [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (5 days ago)
+- [dh1tw/streamdeck](https://github.com/dh1tw/streamdeck) - Golang API for the Corsair / Elgato StreamDeck (5 days ago)
+- [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language. (6 days ago)
 - [kkHAIKE/contextcheck](https://github.com/kkHAIKE/contextcheck) - Analyzer: check the function whether use a non-inherited context. (1 week ago)
 - [hashicorp/go-version](https://github.com/hashicorp/go-version) - A Go (golang) library for parsing and verifying versions and version constraints. (1 week ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (3 weeks ago)
