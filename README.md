@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (2 months ago)
+- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (today)
 - [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library (3 months ago)
 - [philippwaller/philippwaller.github.io](https://github.com/philippwaller/philippwaller.github.io) - Website (10 months ago)
 - [wallernetwork/ansible-role-qemu_guest_agent](https://github.com/wallernetwork/ansible-role-qemu_guest_agent) - Install and configure the QEMU Guest Agent on your systems. (11 months ago)
@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.2](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.2), today) - Helm Chart Repository
 - [primefaces/primeng](https://github.com/primefaces/primeng) ([15.0.0-rc.1](https://github.com/primefaces/primeng/releases/tag/15.0.0-rc.1), 2 weeks ago) - The Most Complete Angular UI Component Library
-- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([whoami-1.0.1](https://github.com/philippwaller/helm-charts/releases/tag/whoami-1.0.1), 2 months ago) - Helm Chart Repository
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 5 months ago) - Install and configure Docker CE on your system.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.3](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.3), 5 months ago) - The purpose of this role is to add users and groups on your system.
 - [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) ([3.2.1](https://github.com/robertdebock/ansible-role-reboot/releases/tag/3.2.1), 5 months ago) - The purpose of this role is to reboot your system.
@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/30) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (today)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/28) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 - [ci: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/27) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 months ago)
 - [ci: update node version](https://github.com/philippwaller/helm-charts/pull/26) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 months ago)
@@ -40,7 +41,6 @@
 - [ci: fix release pipeline by skip existing releases](https://github.com/philippwaller/helm-charts/pull/21) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (8 months ago)
 - [feat: add whoami chart](https://github.com/philippwaller/helm-charts/pull/20) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (8 months ago)
 - [docs: add code of conduct](https://github.com/philippwaller/helm-charts/pull/19) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (8 months ago)
-- [feat: evaluate .ignore files during the change detection process](https://github.com/helm/chart-testing/pull/411) on [helm/chart-testing](https://github.com/helm/chart-testing) (9 months ago)
 
 #### ⭐ Recent Stars
 
