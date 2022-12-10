@@ -31,6 +31,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: update inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/38) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (today)
+- [fix: change dependabot config file name](https://github.com/philippwaller/helm-charts/pull/32) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (today)
+- [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (today)
 - [refactor: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/30) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (today)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/28) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 - [ci: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/27) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 months ago)
@@ -38,9 +41,6 @@
 - [Add field &#34;unique_id&#34; to &#34;config/entity_registry/list&#34; websocket response](https://github.com/home-assistant/core/pull/77476) on [home-assistant/core](https://github.com/home-assistant/core) (3 months ago)
 - [Table: Catch exception if multiSortMeta array is empty](https://github.com/primefaces/primeng/pull/11869) on [primefaces/primeng](https://github.com/primefaces/primeng) (3 months ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/23) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (7 months ago)
-- [ci: fix release pipeline by skip existing releases](https://github.com/philippwaller/helm-charts/pull/21) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (8 months ago)
-- [feat: add whoami chart](https://github.com/philippwaller/helm-charts/pull/20) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (8 months ago)
-- [docs: add code of conduct](https://github.com/philippwaller/helm-charts/pull/19) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (8 months ago)
 
 #### ⭐ Recent Stars
 
