@@ -30,6 +30,14 @@ jobs:
           template: templates/releases.md.tpl
           writeTo: releases.md
 
+      - name: Update pull requests
+        uses: muesli/readme-scribe@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
+        with:
+          template: templates/pull-requests.md.tpl
+          writeTo: pull-requests.md
+
       - name: Commit changes
         uses: stefanzweifel/git-auto-commit-action@v4
         env:
