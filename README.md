@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [primefaces/primeng](https://github.com/primefaces/primeng) ([15.0.0](https://github.com/primefaces/primeng/releases/tag/15.0.0), today) - The Most Complete Angular UI Component Library
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([inadyn-1.1.0](https://github.com/philippwaller/helm-charts/releases/tag/inadyn-1.1.0), 2 days ago) - Helm Chart Repository
-- [primefaces/primeng](https://github.com/primefaces/primeng) ([15.0.0-rc.1](https://github.com/primefaces/primeng/releases/tag/15.0.0-rc.1), 2 weeks ago) - The Most Complete Angular UI Component Library
 - [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) ([3.3.1](https://github.com/robertdebock/ansible-role-docker_ce/releases/tag/3.3.1), 5 months ago) - Install and configure Docker CE on your system.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([5.4.3](https://github.com/robertdebock/ansible-role-users/releases/tag/5.4.3), 6 months ago) - The purpose of this role is to add users and groups on your system.
 - [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) ([3.2.1](https://github.com/robertdebock/ansible-role-reboot/releases/tag/3.2.1), 6 months ago) - The purpose of this role is to reboot your system.
