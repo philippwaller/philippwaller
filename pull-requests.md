@@ -1,7 +1,7 @@
 #### 🔨 My recent Pull Requests
 
-- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (6 days ago)
-- [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (6 days ago)
+- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 week ago)
+- [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 week ago)
 - [feat: update inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/38) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 week ago)
 - [fix: change dependabot config file name](https://github.com/philippwaller/helm-charts/pull/32) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 week ago)
 - [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 week ago)
@@ -20,9 +20,9 @@
 - [ci: fix broken pipeline](https://github.com/philippwaller/helm-charts/pull/17) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (9 months ago)
 - [fix(external-service): bump chart version](https://github.com/philippwaller/helm-charts/pull/15) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (9 months ago)
 - [ci: refactor integration pipeline](https://github.com/philippwaller/helm-charts/pull/13) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (9 months ago)
-- [docs: update readme](https://github.com/philippwaller/helm-charts/pull/12) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (9 months ago)
-- [refactor: update list of supported k8s version](https://github.com/philippwaller/helm-charts/pull/11) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (9 months ago)
-- [feat: add k3s-traefik-config chart](https://github.com/philippwaller/helm-charts/pull/10) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (9 months ago)
+- [docs: update readme](https://github.com/philippwaller/helm-charts/pull/12) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
+- [refactor: update list of supported k8s version](https://github.com/philippwaller/helm-charts/pull/11) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
+- [feat: add k3s-traefik-config chart](https://github.com/philippwaller/helm-charts/pull/10) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
 - [feat: add helm-controller chart](https://github.com/philippwaller/helm-charts/pull/9) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
 - [ci: reference reusable workflows via local path](https://github.com/philippwaller/helm-charts/pull/8) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
 - [ci: fix template generation for conformity check](https://github.com/philippwaller/helm-charts/pull/7) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
