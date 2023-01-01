@@ -12,6 +12,7 @@
 
 #### 🌱 My latest projects
 
+- [philippwaller/home-assistant-blueprints](https://github.com/philippwaller/home-assistant-blueprints) - Home Assistant Blueprints
 - [philippwaller/philippwaller.github.io](https://github.com/philippwaller/philippwaller.github.io) - Website
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository
 
