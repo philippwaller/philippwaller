@@ -45,7 +45,7 @@
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (3 weeks ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (4 weeks ago)
 - [dh1tw/streamdeck](https://github.com/dh1tw/streamdeck) - Golang API for the Corsair / Elgato StreamDeck (4 weeks ago)
-- [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language. (4 weeks ago)
+- [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language. (1 month ago)
 - [kkHAIKE/contextcheck](https://github.com/kkHAIKE/contextcheck) - Analyzer: check the function whether use a non-inherited context. (1 month ago)
 - [hashicorp/go-version](https://github.com/hashicorp/go-version) - A Go (golang) library for parsing and verifying versions and version constraints. (1 month ago)
 - [golangci/golangci-lint](https://github.com/golangci/golangci-lint) - Fast linters Runner for Go (1 month ago)
