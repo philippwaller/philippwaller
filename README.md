@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (4 weeks ago)
+- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (1 month ago)
 - [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library (4 months ago)
 - [philippwaller/philippwaller.github.io](https://github.com/philippwaller/philippwaller.github.io) - Website (11 months ago)
 - [wallernetwork/ansible-role-qemu_guest_agent](https://github.com/wallernetwork/ansible-role-qemu_guest_agent) - Install and configure the QEMU Guest Agent on your systems. (1 year ago)
@@ -22,8 +22,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 weeks ago)
-- [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 weeks ago)
+- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
+- [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 - [feat: update inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/38) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 - [fix: change dependabot config file name](https://github.com/philippwaller/helm-charts/pull/32) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
 - [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 month ago)
@@ -39,7 +39,7 @@
 
 #### ⭐ Recent Stars
 
-- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (4 weeks ago)
+- [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (1 month ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (1 month ago)
 - [dh1tw/streamdeck](https://github.com/dh1tw/streamdeck) - Golang API for the Corsair / Elgato StreamDeck (1 month ago)
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language. (1 month ago)
