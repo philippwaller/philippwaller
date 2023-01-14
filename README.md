@@ -52,10 +52,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [byeblo](https://github.com/byeblo)
 - [HyunCafe](https://github.com/HyunCafe)
 - [harshit0209](https://github.com/harshit0209)
 - [XCBA](https://github.com/XCBA)
 - [mdhachem](https://github.com/mdhachem)
-- [nowjin](https://github.com/nowjin)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
