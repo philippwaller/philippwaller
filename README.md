@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (1 month ago)
-- [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library (4 months ago)
+- [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library (5 months ago)
 - [philippwaller/philippwaller.github.io](https://github.com/philippwaller/philippwaller.github.io) - Website (11 months ago)
 
 #### 🌱 My latest projects
@@ -14,7 +14,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [primefaces/primeng](https://github.com/primefaces/primeng) ([15.1.1](https://github.com/primefaces/primeng/releases/tag/15.1.1), 1 day ago) - The Most Complete Angular UI Component Library
+- [primefaces/primeng](https://github.com/primefaces/primeng) ([15.1.1](https://github.com/primefaces/primeng/releases/tag/15.1.1), 2 days ago) - The Most Complete Angular UI Component Library
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([inadyn-1.1.0](https://github.com/philippwaller/helm-charts/releases/tag/inadyn-1.1.0), 1 month ago) - Helm Chart Repository
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
