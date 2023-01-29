@@ -4,7 +4,6 @@
 
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (1 month ago)
 - [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library (5 months ago)
-- [philippwaller/philippwaller.github.io](https://github.com/philippwaller/philippwaller.github.io) - Website (1 year ago)
 
 #### 🌱 My latest projects
 
