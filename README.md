@@ -49,10 +49,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [alanmatw](https://github.com/alanmatw)
+- [annie-n3](https://github.com/annie-n3)
 - [Abdulrahmansoliman](https://github.com/Abdulrahmansoliman)
 - [carolynrenahuggins](https://github.com/carolynrenahuggins)
 - [Gizachew29](https://github.com/Gizachew29)
-- [harshit0209](https://github.com/harshit0209)
-- [XCBA](https://github.com/XCBA)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
