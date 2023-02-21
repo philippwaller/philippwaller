@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (2 months ago)
-- [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library (5 months ago)
+- [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library (6 months ago)
 
 #### 🌱 My latest projects
 
