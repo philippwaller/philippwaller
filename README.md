@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [primefaces/primeng](https://github.com/primefaces/primeng) ([15.2.0](https://github.com/primefaces/primeng/releases/tag/15.2.0), 4 weeks ago) - The Most Complete Angular UI Component Library
+- [primefaces/primeng](https://github.com/primefaces/primeng) ([15.2.0](https://github.com/primefaces/primeng/releases/tag/15.2.0), 1 month ago) - The Most Complete Angular UI Component Library
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([inadyn-1.1.0](https://github.com/philippwaller/helm-charts/releases/tag/inadyn-1.1.0), 2 months ago) - Helm Chart Repository
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
@@ -36,7 +36,7 @@
 
 #### ⭐ Recent Stars
 
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab&#39;s 3D printers (4 days ago)
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab&#39;s 3D printers (5 days ago)
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (2 months ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (2 months ago)
 - [dh1tw/streamdeck](https://github.com/dh1tw/streamdeck) - Golang API for the Corsair / Elgato StreamDeck (2 months ago)
