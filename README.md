@@ -37,7 +37,7 @@
 #### ⭐ Recent Stars
 
 - [SoftFever/BambuStudio-SoftFever](https://github.com/SoftFever/BambuStudio-SoftFever) - A forked version of BambuStudio (2 days ago)
-- [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant HACS Integration for Bambu Lab Printers (2 days ago)
+- [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (2 days ago)
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab&#39;s 3D printers (1 week ago)
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (2 months ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (3 months ago)
