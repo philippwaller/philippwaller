@@ -14,17 +14,17 @@
 #### 🔭 Latest releases I've contributed to
 
 - [primefaces/primeng](https://github.com/primefaces/primeng) ([15.2.0](https://github.com/primefaces/primeng/releases/tag/15.2.0), 1 month ago) - The Most Complete Angular UI Component Library
-- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([inadyn-1.1.0](https://github.com/philippwaller/helm-charts/releases/tag/inadyn-1.1.0), 2 months ago) - Helm Chart Repository
+- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([inadyn-1.1.0](https://github.com/philippwaller/helm-charts/releases/tag/inadyn-1.1.0), 3 months ago) - Helm Chart Repository
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
 #### 🔨 My recent Pull Requests
 
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 months ago)
 - [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 months ago)
-- [feat: update inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/38) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 months ago)
-- [fix: change dependabot config file name](https://github.com/philippwaller/helm-charts/pull/32) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 months ago)
-- [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 months ago)
-- [refactor: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/30) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 months ago)
+- [feat: update inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/38) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 months ago)
+- [fix: change dependabot config file name](https://github.com/philippwaller/helm-charts/pull/32) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 months ago)
+- [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 months ago)
+- [refactor: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/30) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 months ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/28) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 months ago)
 - [ci: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/27) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (5 months ago)
 - [ci: update node version](https://github.com/philippwaller/helm-charts/pull/26) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (5 months ago)
@@ -36,9 +36,9 @@
 
 #### ⭐ Recent Stars
 
-- [SoftFever/BambuStudio-SoftFever](https://github.com/SoftFever/BambuStudio-SoftFever) - A forked version of BambuStudio (3 days ago)
-- [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (3 days ago)
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab&#39;s 3D printers (1 week ago)
+- [SoftFever/BambuStudio-SoftFever](https://github.com/SoftFever/BambuStudio-SoftFever) - A forked version of BambuStudio (4 days ago)
+- [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (4 days ago)
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab&#39;s 3D printers (2 weeks ago)
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (2 months ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (3 months ago)
 - [dh1tw/streamdeck](https://github.com/dh1tw/streamdeck) - Golang API for the Corsair / Elgato StreamDeck (3 months ago)
