@@ -36,8 +36,8 @@
 
 #### ⭐ Recent Stars
 
-- [SoftFever/BambuStudio-SoftFever](https://github.com/SoftFever/BambuStudio-SoftFever) - A forked version of BambuStudio (5 days ago)
-- [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (5 days ago)
+- [SoftFever/BambuStudio-SoftFever](https://github.com/SoftFever/BambuStudio-SoftFever) - A forked version of BambuStudio (6 days ago)
+- [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (6 days ago)
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab&#39;s 3D printers (2 weeks ago)
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (3 months ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (3 months ago)
@@ -49,10 +49,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Justice-Orogun](https://github.com/Justice-Orogun)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 - [mmertpolat](https://github.com/mmertpolat)
 - [alanmatw](https://github.com/alanmatw)
 - [annie-n3](https://github.com/annie-n3)
-- [Abdulrahmansoliman](https://github.com/Abdulrahmansoliman)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
