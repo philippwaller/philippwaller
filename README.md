@@ -19,6 +19,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/53) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (today)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 months ago)
 - [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 months ago)
 - [feat: update inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/38) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 months ago)
@@ -31,7 +32,6 @@
 - [Add field &#34;unique_id&#34; to &#34;config/entity_registry/list&#34; websocket response](https://github.com/home-assistant/core/pull/77476) on [home-assistant/core](https://github.com/home-assistant/core) (6 months ago)
 - [Table: Catch exception if multiSortMeta array is empty](https://github.com/primefaces/primeng/pull/11869) on [primefaces/primeng](https://github.com/primefaces/primeng) (6 months ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/23) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
-- [ci: fix release pipeline by skip existing releases](https://github.com/philippwaller/helm-charts/pull/21) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (11 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
