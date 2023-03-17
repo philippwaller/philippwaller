@@ -38,7 +38,7 @@
 
 - [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, Creality, etc.) (1 week ago)
 - [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (1 week ago)
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab&#39;s 3D printers (2 weeks ago)
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab&#39;s 3D printers (3 weeks ago)
 - [tandpfun/skill-icons](https://github.com/tandpfun/skill-icons) - Showcase your skills on your Github readme or resumé with ease ✨ (3 months ago)
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (3 months ago)
 - [dh1tw/streamdeck](https://github.com/dh1tw/streamdeck) - Golang API for the Corsair / Elgato StreamDeck (3 months ago)
@@ -51,8 +51,8 @@
 
 - [Justice-Orogun](https://github.com/Justice-Orogun)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
+- [mmertpolat](https://github.com/mmertpolat)
 - [alanmatw](https://github.com/alanmatw)
 - [annie-n3](https://github.com/annie-n3)
-- [Abdulrahmansoliman](https://github.com/Abdulrahmansoliman)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
