@@ -13,7 +13,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [primefaces/primeng](https://github.com/primefaces/primeng) ([15.3.0](https://github.com/primefaces/primeng/releases/tag/15.3.0), 1 day ago) - The Most Complete Angular UI Component Library
+- [primefaces/primeng](https://github.com/primefaces/primeng) ([15.3.0](https://github.com/primefaces/primeng/releases/tag/15.3.0), 2 days ago) - The Most Complete Angular UI Component Library
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([inadyn-1.1.0](https://github.com/philippwaller/helm-charts/releases/tag/inadyn-1.1.0), 3 months ago) - Helm Chart Repository
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
@@ -27,8 +27,8 @@
 - [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 months ago)
 - [refactor: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/30) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 months ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/28) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (5 months ago)
-- [ci: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/27) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (5 months ago)
-- [ci: update node version](https://github.com/philippwaller/helm-charts/pull/26) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (5 months ago)
+- [ci: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/27) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (6 months ago)
+- [ci: update node version](https://github.com/philippwaller/helm-charts/pull/26) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (6 months ago)
 - [Add field &#34;unique_id&#34; to &#34;config/entity_registry/list&#34; websocket response](https://github.com/home-assistant/core/pull/77476) on [home-assistant/core](https://github.com/home-assistant/core) (7 months ago)
 - [Table: Catch exception if multiSortMeta array is empty](https://github.com/primefaces/primeng/pull/11869) on [primefaces/primeng](https://github.com/primefaces/primeng) (7 months ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/23) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
@@ -36,7 +36,7 @@
 
 #### ⭐ Recent Stars
 
-- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting &#34;old&#34; measuring units (water, power, gas, ...) to the digital world (3 days ago)
+- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting &#34;old&#34; measuring units (water, power, gas, ...) to the digital world (4 days ago)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (1 week ago)
 - [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, Creality, etc.) (3 weeks ago)
 - [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (3 weeks ago)
