@@ -19,7 +19,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/53) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 weeks ago)
+- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/53) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 weeks ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 months ago)
 - [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 months ago)
 - [feat: update inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/38) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 months ago)
