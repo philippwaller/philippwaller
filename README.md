@@ -36,7 +36,7 @@
 
 #### ⭐ Recent Stars
 
-- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting &#34;old&#34; measuring units (water, power, gas, ...) to the digital world (1 week ago)
+- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting &#34;old&#34; measuring units (water, power, gas, ...) to the digital world (2 weeks ago)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (2 weeks ago)
 - [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, Creality, etc.) (1 month ago)
 - [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (1 month ago)
