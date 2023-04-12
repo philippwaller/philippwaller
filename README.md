@@ -2,11 +2,13 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (today)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (4 months ago)
 - [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library (7 months ago)
 
 #### 🌱 My latest projects
 
+- [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use
 - [philippwaller/home-assistant-blueprints](https://github.com/philippwaller/home-assistant-blueprints) - Home Assistant Blueprints
 - [philippwaller/philippwaller.github.io](https://github.com/philippwaller/philippwaller.github.io) - Website
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository
