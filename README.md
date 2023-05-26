@@ -54,10 +54,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [isyuricunha](https://github.com/isyuricunha)
 - [Justice-Orogun](https://github.com/Justice-Orogun)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 - [mmertpolat](https://github.com/mmertpolat)
 - [alanmatw](https://github.com/alanmatw)
+- [V1nni00](https://github.com/V1nni00)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
