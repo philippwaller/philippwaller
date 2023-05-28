@@ -50,7 +50,7 @@
 - [SkYNewZ/streamdeck-sdk](https://github.com/SkYNewZ/streamdeck-sdk) - Golang library to ease writing Stream deck plugins with Go (5 months ago)
 - [dh1tw/streamdeck](https://github.com/dh1tw/streamdeck) - Golang API for the Corsair / Elgato StreamDeck (5 months ago)
 - [ReactiveX/RxGo](https://github.com/ReactiveX/RxGo) - Reactive Extensions for the Go language. (5 months ago)
-- [kkHAIKE/contextcheck](https://github.com/kkHAIKE/contextcheck) - Analyzer: check whether a function uses a non-inherited context (5 months ago)
+- [kkHAIKE/contextcheck](https://github.com/kkHAIKE/contextcheck) - Analyzer: check whether a function uses a non-inherited context (6 months ago)
 
 #### 👯 Check out some of my recent followers
 
