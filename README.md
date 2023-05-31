@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (today)
 - [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 🖨 Casks of Drivers (2 weeks ago)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (2 weeks ago)
-- [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (1 month ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (5 months ago)
 - [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library (9 months ago)
 
