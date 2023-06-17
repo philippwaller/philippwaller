@@ -54,10 +54,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Shahupdates](https://github.com/Shahupdates)
 - [zbejas](https://github.com/zbejas)
 - [Justice-Orogun](https://github.com/Justice-Orogun)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 - [mmertpolat](https://github.com/mmertpolat)
-- [alanmatw](https://github.com/alanmatw)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
