@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates (6 days ago)
+- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates (1 week ago)
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (3 weeks ago)
 - [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 🖨 Casks of Drivers (1 month ago)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (1 month ago)
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v1.0.9](https://github.com/Petro31/easy-time-jinja/releases/tag/v1.0.9), 5 days ago) - Easy Time calculations for Home Assistant templates
-- [primefaces/primeng](https://github.com/primefaces/primeng) ([16.0.2](https://github.com/primefaces/primeng/releases/tag/16.0.2), 5 days ago) - The Most Complete Angular UI Component Library
+- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v1.0.9](https://github.com/Petro31/easy-time-jinja/releases/tag/v1.0.9), 6 days ago) - Easy Time calculations for Home Assistant templates
+- [primefaces/primeng](https://github.com/primefaces/primeng) ([16.0.2](https://github.com/primefaces/primeng/releases/tag/16.0.2), 6 days ago) - The Most Complete Angular UI Component Library
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([inadyn-1.1.0](https://github.com/philippwaller/helm-charts/releases/tag/inadyn-1.1.0), 6 months ago) - Helm Chart Repository
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 7 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
