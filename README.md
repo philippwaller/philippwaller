@@ -56,10 +56,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [craftysecurity](https://github.com/craftysecurity)
 - [Shahupdates](https://github.com/Shahupdates)
 - [Justice-Orogun](https://github.com/Justice-Orogun)
 - [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 - [mmertpolat](https://github.com/mmertpolat)
-- [alanmatw](https://github.com/alanmatw)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
