@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v1.0.9](https://github.com/Petro31/easy-time-jinja/releases/tag/v1.0.9), 2 weeks ago) - Easy Time calculations for Home Assistant templates
-- [primefaces/primeng](https://github.com/primefaces/primeng) ([16.0.2](https://github.com/primefaces/primeng/releases/tag/16.0.2), 2 weeks ago) - The Most Complete Angular UI Component Library
+- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v1.0.9](https://github.com/Petro31/easy-time-jinja/releases/tag/v1.0.9), 3 weeks ago) - Easy Time calculations for Home Assistant templates
+- [primefaces/primeng](https://github.com/primefaces/primeng) ([16.0.2](https://github.com/primefaces/primeng/releases/tag/16.0.2), 3 weeks ago) - The Most Complete Angular UI Component Library
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([inadyn-1.1.0](https://github.com/philippwaller/helm-charts/releases/tag/inadyn-1.1.0), 7 months ago) - Helm Chart Repository
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 7 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
