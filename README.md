@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates (3 weeks ago)
+- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates (4 weeks ago)
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (1 month ago)
 - [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 🖨 Casks of Drivers (2 months ago)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (2 months ago)
