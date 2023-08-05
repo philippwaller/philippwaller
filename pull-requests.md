@@ -31,7 +31,7 @@
 - [ci: reference reusable workflows via local path](https://github.com/philippwaller/helm-charts/pull/8) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [ci: fix template generation for conformity check](https://github.com/philippwaller/helm-charts/pull/7) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [feat: add external-service helm chart](https://github.com/philippwaller/helm-charts/pull/6) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
-- [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/5) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
+- [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/5) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
 - [feat: add inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/4) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
 - [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/3) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
 - [ci: refactor Kubernetes version update workflow](https://github.com/philippwaller/helm-charts/pull/2) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
