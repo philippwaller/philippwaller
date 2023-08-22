@@ -23,7 +23,7 @@
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/18) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [ci: fix broken pipeline](https://github.com/philippwaller/helm-charts/pull/17) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [fix(external-service): bump chart version](https://github.com/philippwaller/helm-charts/pull/15) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
-- [ci: refactor integration pipeline](https://github.com/philippwaller/helm-charts/pull/13) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
+- [ci: refactor integration pipeline](https://github.com/philippwaller/helm-charts/pull/13) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
 - [docs: update readme](https://github.com/philippwaller/helm-charts/pull/12) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
 - [refactor: update list of supported k8s version](https://github.com/philippwaller/helm-charts/pull/11) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
 - [feat: add k3s-traefik-config chart](https://github.com/philippwaller/helm-charts/pull/10) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
