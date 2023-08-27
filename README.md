@@ -7,7 +7,6 @@
 - [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 🖨 Casks of Drivers (3 months ago)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (3 months ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (8 months ago)
-- [primefaces/primeng](https://github.com/primefaces/primeng) - The Most Complete Angular UI Component Library (1 year ago)
 
 #### 🌱 My latest projects
 
