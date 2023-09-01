@@ -41,7 +41,7 @@
 
 #### ⭐ Recent Stars
 
-- [nrfta/go-paging](https://github.com/nrfta/go-paging) - Go Pagination for SQLBoiler and gqlgen (GraphQL) (2 days ago)
+- [nrfta/go-paging](https://github.com/nrfta/go-paging) - Go Pagination for SQLBoiler and gqlgen (GraphQL) (3 days ago)
 - [theone11/HomeAssistantConfig](https://github.com/theone11/HomeAssistantConfig) -  (1 month ago)
 - [thomasloven/hass-lovelace_gen](https://github.com/thomasloven/hass-lovelace_gen) - 🔹 Improve the lovelace yaml parser for Home Assistant (1 month ago)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (2 months ago)
