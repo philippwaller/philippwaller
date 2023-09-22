@@ -17,7 +17,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v1.0.9.1](https://github.com/Petro31/easy-time-jinja/releases/tag/v1.0.9.1), 1 week ago) - Easy Time calculations for Home Assistant templates
+- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v1.0.9.1](https://github.com/Petro31/easy-time-jinja/releases/tag/v1.0.9.1), 2 weeks ago) - Easy Time calculations for Home Assistant templates
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([inadyn-1.1.0](https://github.com/philippwaller/helm-charts/releases/tag/inadyn-1.1.0), 9 months ago) - Helm Chart Repository
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 7 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
@@ -41,7 +41,7 @@
 
 #### ⭐ Recent Stars
 
-- [ekutner/home-connect-hass](https://github.com/ekutner/home-connect-hass) - Alternative (and improved) Home Connect integration for Home Assistant (1 week ago)
+- [ekutner/home-connect-hass](https://github.com/ekutner/home-connect-hass) - Alternative (and improved) Home Connect integration for Home Assistant (2 weeks ago)
 - [nrfta/go-paging](https://github.com/nrfta/go-paging) - Go Pagination for SQLBoiler and gqlgen (GraphQL) (3 weeks ago)
 - [theone11/HomeAssistantConfig](https://github.com/theone11/HomeAssistantConfig) -  (1 month ago)
 - [thomasloven/hass-lovelace_gen](https://github.com/thomasloven/hass-lovelace_gen) - 🔹 Improve the lovelace yaml parser for Home Assistant (1 month ago)
@@ -50,7 +50,7 @@
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (6 months ago)
 - [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (6 months ago)
 - [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (6 months ago)
-- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab&#39;s 3D printers (6 months ago)
+- [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab&#39;s 3D printers (7 months ago)
 
 #### 👯 Check out some of my recent followers
 
