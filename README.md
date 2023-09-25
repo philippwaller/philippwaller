@@ -55,9 +55,9 @@
 #### 👯 Check out some of my recent followers
 
 - [techtronixnepal](https://github.com/techtronixnepal)
-- [bpradiip](https://github.com/bpradiip)
 - [craftysecurity](https://github.com/craftysecurity)
 - [Shahupdates](https://github.com/Shahupdates)
 - [Justice-Orogun](https://github.com/Justice-Orogun)
+- [CodingWithEnjoy](https://github.com/CodingWithEnjoy)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
