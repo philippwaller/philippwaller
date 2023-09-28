@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates (3 months ago)
-- [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (3 months ago)
+- [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (4 months ago)
 - [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 🖨 Casks of Drivers (4 months ago)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (4 months ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (9 months ago)
@@ -35,14 +35,14 @@
 - [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (9 months ago)
 - [refactor: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/30) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (9 months ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/28) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (11 months ago)
-- [ci: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/27) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (11 months ago)
-- [ci: update node version](https://github.com/philippwaller/helm-charts/pull/26) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (11 months ago)
+- [ci: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/27) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
+- [ci: update node version](https://github.com/philippwaller/helm-charts/pull/26) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
 
 - [ekutner/home-connect-hass](https://github.com/ekutner/home-connect-hass) - Alternative (and improved) Home Connect integration for Home Assistant (2 weeks ago)
-- [nrfta/go-paging](https://github.com/nrfta/go-paging) - Go Pagination for SQLBoiler and gqlgen (GraphQL) (4 weeks ago)
+- [nrfta/go-paging](https://github.com/nrfta/go-paging) - Go Pagination for SQLBoiler and gqlgen (GraphQL) (1 month ago)
 - [theone11/HomeAssistantConfig](https://github.com/theone11/HomeAssistantConfig) -  (1 month ago)
 - [thomasloven/hass-lovelace_gen](https://github.com/thomasloven/hass-lovelace_gen) - 🔹 Improve the lovelace yaml parser for Home Assistant (1 month ago)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (3 months ago)
