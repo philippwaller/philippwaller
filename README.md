@@ -17,8 +17,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v1.0.9.2](https://github.com/Petro31/easy-time-jinja/releases/tag/v1.0.9.2), 5 days ago) - Easy Time calculations for Home Assistant templates
-- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([inadyn-1.1.0](https://github.com/philippwaller/helm-charts/releases/tag/inadyn-1.1.0), 10 months ago) - Helm Chart Repository
+- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v1.0.9.2](https://github.com/Petro31/easy-time-jinja/releases/tag/v1.0.9.2), 6 days ago) - Easy Time calculations for Home Assistant templates
+- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([inadyn-1.1.0](https://github.com/philippwaller/helm-charts/releases/tag/inadyn-1.1.0), 11 months ago) - Helm Chart Repository
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 7 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
@@ -30,10 +30,10 @@
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/53) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (7 months ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
 - [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
-- [feat: update inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/38) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
-- [fix: change dependabot config file name](https://github.com/philippwaller/helm-charts/pull/32) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
-- [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
-- [refactor: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/30) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
+- [feat: update inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/38) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (11 months ago)
+- [fix: change dependabot config file name](https://github.com/philippwaller/helm-charts/pull/32) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (11 months ago)
+- [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (11 months ago)
+- [refactor: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/30) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (11 months ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/28) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [ci: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/27) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [ci: update node version](https://github.com/philippwaller/helm-charts/pull/26) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
