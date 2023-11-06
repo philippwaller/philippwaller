@@ -6,7 +6,7 @@
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (5 months ago)
 - [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 🖨 Casks of Drivers (5 months ago)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (5 months ago)
-- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (10 months ago)
+- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (11 months ago)
 
 #### 🌱 My latest projects
 
@@ -17,7 +17,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v1.0.9.2](https://github.com/Petro31/easy-time-jinja/releases/tag/v1.0.9.2), 6 days ago) - Easy Time calculations for Home Assistant templates
+- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v1.0.9.2](https://github.com/Petro31/easy-time-jinja/releases/tag/v1.0.9.2), 1 week ago) - Easy Time calculations for Home Assistant templates
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([inadyn-1.1.0](https://github.com/philippwaller/helm-charts/releases/tag/inadyn-1.1.0), 11 months ago) - Helm Chart Repository
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 7 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
@@ -28,8 +28,8 @@
 - [tap_migrations: add synology products](https://github.com/Homebrew/homebrew-cask-drivers/pull/3471) on [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) (5 months ago)
 - [synology products: migrate from `Homebrew/homebrew-cask-drivers`](https://github.com/Homebrew/homebrew-cask/pull/146959) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (5 months ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/53) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (7 months ago)
-- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
-- [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (10 months ago)
+- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (11 months ago)
+- [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (11 months ago)
 - [feat: update inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/38) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (11 months ago)
 - [fix: change dependabot config file name](https://github.com/philippwaller/helm-charts/pull/32) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (11 months ago)
 - [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (11 months ago)
