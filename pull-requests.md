@@ -1,6 +1,6 @@
 #### 🔨 My recent Pull Requests
 
-- [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (4 months ago)
+- [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (5 months ago)
 - [tap_migrations: add synology products](https://github.com/Homebrew/homebrew-cask-drivers/pull/3471) on [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) (6 months ago)
 - [synology products: migrate from `Homebrew/homebrew-cask-drivers`](https://github.com/Homebrew/homebrew-cask/pull/146959) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (6 months ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/53) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (8 months ago)
