@@ -4,7 +4,7 @@
 
 - [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates (5 months ago)
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (5 months ago)
-- [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 🖨 Casks of Drivers (6 months ago)
+- [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 💀 Casks of Drivers (deprecated) (6 months ago)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (6 months ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (11 months ago)
 
