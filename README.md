@@ -10,6 +10,7 @@
 
 #### 🌱 My latest projects
 
+- [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - 
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use
 - [philippwaller/home-assistant-blueprints](https://github.com/philippwaller/home-assistant-blueprints) - Home Assistant Blueprints
 - [philippwaller/philippwaller.github.io](https://github.com/philippwaller/philippwaller.github.io) - Website
