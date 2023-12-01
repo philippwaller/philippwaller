@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) -  (2 days ago)
+- [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) -  (3 days ago)
 - [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates (5 months ago)
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (6 months ago)
 - [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 💀 Casks of Drivers (deprecated) (6 months ago)
@@ -50,8 +50,8 @@
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (5 months ago)
 - [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting &#34;old&#34; measuring units (water, power, gas, ...) to the digital world (8 months ago)
 - [f/awesome-chatgpt-prompts](https://github.com/f/awesome-chatgpt-prompts) - This repo includes ChatGPT prompt curation to use ChatGPT better. (8 months ago)
-- [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (8 months ago)
-- [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (8 months ago)
+- [SoftFever/OrcaSlicer](https://github.com/SoftFever/OrcaSlicer) - G-code generator for 3D printers (Bambu, Prusa, Voron, VzBot, RatRig, Creality, etc.) (9 months ago)
+- [greghesp/ha-bambulab](https://github.com/greghesp/ha-bambulab) - A Home Assistant Integration for Bambu Lab Printers (9 months ago)
 - [bambulab/BambuStudio](https://github.com/bambulab/BambuStudio) - PC Software for BambuLab&#39;s 3D printers (9 months ago)
 
 #### 👯 Check out some of my recent followers
