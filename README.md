@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) -  (4 days ago)
+- [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) -  (5 days ago)
 - [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates (5 months ago)
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (6 months ago)
 - [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 💀 Casks of Drivers (deprecated) (6 months ago)
@@ -26,7 +26,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [update from source repo](https://github.com/philippwaller/ansible-role-bootstrap/pull/1) on [philippwaller/ansible-role-bootstrap](https://github.com/philippwaller/ansible-role-bootstrap) (today)
+- [update from source repo](https://github.com/philippwaller/ansible-role-bootstrap/pull/1) on [philippwaller/ansible-role-bootstrap](https://github.com/philippwaller/ansible-role-bootstrap) (1 day ago)
 - [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (5 months ago)
 - [tap_migrations: add synology products](https://github.com/Homebrew/homebrew-cask-drivers/pull/3471) on [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) (6 months ago)
 - [synology products: migrate from `Homebrew/homebrew-cask-drivers`](https://github.com/Homebrew/homebrew-cask/pull/146959) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (6 months ago)
