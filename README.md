@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - My dotfiles library (today)
 - [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates (5 months ago)
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (6 months ago)
 - [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 💀 Casks of Drivers (deprecated) (6 months ago)
@@ -10,6 +11,7 @@
 
 #### 🌱 My latest projects
 
+- [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - My dotfiles library
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use
 - [philippwaller/home-assistant-blueprints](https://github.com/philippwaller/home-assistant-blueprints) - Home Assistant Blueprints
 - [philippwaller/philippwaller.github.io](https://github.com/philippwaller/philippwaller.github.io) - Website
