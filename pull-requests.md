@@ -1,6 +1,6 @@
 #### 🔨 My recent Pull Requests
 
-- [update from source repo](https://github.com/philippwaller/ansible-role-bootstrap/pull/1) on [philippwaller/ansible-role-bootstrap](https://github.com/philippwaller/ansible-role-bootstrap) (1 day ago)
+- [update from source repo](https://github.com/philippwaller/ansible-role-bootstrap/pull/1) on [philippwaller/ansible-role-bootstrap](https://github.com/philippwaller/ansible-role-bootstrap) (2 days ago)
 - [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (5 months ago)
 - [tap_migrations: add synology products](https://github.com/Homebrew/homebrew-cask-drivers/pull/3471) on [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) (6 months ago)
 - [synology products: migrate from `Homebrew/homebrew-cask-drivers`](https://github.com/Homebrew/homebrew-cask/pull/146959) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (6 months ago)
@@ -54,7 +54,7 @@
 - [Integrate ESLint into our development and CI process](https://github.com/openhab/openhab-webui/pull/833) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (2 years ago)
 - [Fix incompatible locale format](https://github.com/openhab/openhab-webui/pull/830) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (2 years ago)
 - [Add parameter &#34;enable CORS&#34; to runtime.cfg file](https://github.com/openhab/openhab-distro/pull/1249) on [openhab/openhab-distro](https://github.com/openhab/openhab-distro) (2 years ago)
-- [Fix CORS header to allow preflight requests with authorization payload](https://github.com/openhab/openhab-core/pull/1963) on [openhab/openhab-core](https://github.com/openhab/openhab-core) (2 years ago)
+- [Fix CORS header to allow preflight requests with authorization payload](https://github.com/openhab/openhab-core/pull/1963) on [openhab/openhab-core](https://github.com/openhab/openhab-core) (3 years ago)
 - [Fix time icons](https://github.com/openhab/openhab-webui/pull/312) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (3 years ago)
 - [Fix corrupt SVG icon files and refactor image compression workflow ](https://github.com/openhab/openhab-webui/pull/291) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (3 years ago)
 - [Add workaround for grub bug in Debian 10.4](https://github.com/TheReal1604/disk-encryption-hetzner/pull/25) on [TheReal1604/disk-encryption-hetzner](https://github.com/TheReal1604/disk-encryption-hetzner) (3 years ago)

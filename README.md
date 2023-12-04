@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - My dotfiles library (today)
+- [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - My dotfiles library (1 day ago)
 - [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates (5 months ago)
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (6 months ago)
 - [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 💀 Casks of Drivers (deprecated) (6 months ago)
@@ -19,14 +19,14 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v2.0.0.3](https://github.com/Petro31/easy-time-jinja/releases/tag/v2.0.0.3), 1 week ago) - Easy Time calculations for Home Assistant templates
+- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v2.0.0.3](https://github.com/Petro31/easy-time-jinja/releases/tag/v2.0.0.3), 2 weeks ago) - Easy Time calculations for Home Assistant templates
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([inadyn-1.1.0](https://github.com/philippwaller/helm-charts/releases/tag/inadyn-1.1.0), 11 months ago) - Helm Chart Repository
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 8 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
 #### 🔨 My recent Pull Requests
 
-- [update from source repo](https://github.com/philippwaller/ansible-role-bootstrap/pull/1) on [philippwaller/ansible-role-bootstrap](https://github.com/philippwaller/ansible-role-bootstrap) (1 day ago)
+- [update from source repo](https://github.com/philippwaller/ansible-role-bootstrap/pull/1) on [philippwaller/ansible-role-bootstrap](https://github.com/philippwaller/ansible-role-bootstrap) (2 days ago)
 - [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (5 months ago)
 - [tap_migrations: add synology products](https://github.com/Homebrew/homebrew-cask-drivers/pull/3471) on [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) (6 months ago)
 - [synology products: migrate from `Homebrew/homebrew-cask-drivers`](https://github.com/Homebrew/homebrew-cask/pull/146959) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (6 months ago)
