@@ -1,5 +1,7 @@
 #### 🔨 My recent Pull Requests
 
+- [cI: best CI update ever](https://github.com/philippwaller/gitops-test/pull/9) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
+- [Update test.yaml](https://github.com/philippwaller/gitops-test/pull/8) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
 - [Update test.yaml](https://github.com/philippwaller/gitops-test/pull/7) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
 - [new feature](https://github.com/philippwaller/gitops-test/pull/6) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
 - [feat: new super file](https://github.com/philippwaller/gitops-test/pull/5) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
