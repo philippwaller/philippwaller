@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨ (1 day ago)
+- [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨ (today)
 - [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) - Update cache for yum and apt package managers. (1 week ago)
 - [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - My dotfiles library (1 week ago)
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 week ago)
@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor: update CI workflow](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/2) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (today)
 - [refactor: update readme](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/1) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (1 day ago)
 - [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (5 months ago)
 - [tap_migrations: add synology products](https://github.com/Homebrew/homebrew-cask-drivers/pull/3471) on [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) (7 months ago)
@@ -44,7 +45,6 @@
 - [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [refactor: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/30) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/28) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
-- [ci: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/27) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
