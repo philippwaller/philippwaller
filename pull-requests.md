@@ -1,5 +1,7 @@
 #### 🔨 My recent Pull Requests
 
+- [feat(core)!: new config file](https://github.com/philippwaller/gitops-test/pull/11) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
+- [fix: test123](https://github.com/philippwaller/gitops-test/pull/10) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
 - [cI: best CI update ever](https://github.com/philippwaller/gitops-test/pull/9) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
 - [Update test.yaml](https://github.com/philippwaller/gitops-test/pull/8) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
 - [Update test.yaml](https://github.com/philippwaller/gitops-test/pull/7) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)

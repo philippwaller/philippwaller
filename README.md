@@ -34,6 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(core)!: new config file](https://github.com/philippwaller/gitops-test/pull/11) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
+- [fix: test123](https://github.com/philippwaller/gitops-test/pull/10) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
 - [cI: best CI update ever](https://github.com/philippwaller/gitops-test/pull/9) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
 - [Update test.yaml](https://github.com/philippwaller/gitops-test/pull/8) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
 - [Update test.yaml](https://github.com/philippwaller/gitops-test/pull/7) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
@@ -47,8 +49,6 @@
 - [refactor: update readme](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/1) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (1 day ago)
 - [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (5 months ago)
 - [tap_migrations: add synology products](https://github.com/Homebrew/homebrew-cask-drivers/pull/3471) on [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) (7 months ago)
-- [synology products: migrate from `Homebrew/homebrew-cask-drivers`](https://github.com/Homebrew/homebrew-cask/pull/146959) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (7 months ago)
-- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/53) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (9 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
