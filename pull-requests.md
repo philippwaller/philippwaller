@@ -1,5 +1,8 @@
 #### 🔨 My recent Pull Requests
 
+- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/3) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
+- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/2) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
+- [ci: add ci pipeline](https://github.com/philippwaller/gitops-test/pull/1) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
 - [refactor: update CI workflow](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/2) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (today)
 - [refactor: update readme](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/1) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (1 day ago)
 - [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (5 months ago)
