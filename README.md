@@ -25,7 +25,6 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) ([v1.0.0](https://github.com/philippwaller/gitops-test/releases/tag/v1.0.0), today) - gitops-test
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) ([v1.0.0](https://github.com/philippwaller/ansible-role-qemu_guest_agent/releases/tag/v1.0.0), 1 day ago) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
 - [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) ([2.1.6](https://github.com/robertdebock/ansible-role-update_package_cache/releases/tag/2.1.6), 1 week ago) - Update cache for yum and apt package managers.
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([6.2.4](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/6.2.4), 1 week ago) - Prepare your system to be managed by Ansible.
@@ -35,6 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: new super file](https://github.com/philippwaller/gitops-test/pull/5) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
+- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/4) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
 - [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/3) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
 - [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/2) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
 - [ci: add ci pipeline](https://github.com/philippwaller/gitops-test/pull/1) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
@@ -47,8 +48,6 @@
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [feat: update inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/38) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
-- [fix: change dependabot config file name](https://github.com/philippwaller/helm-charts/pull/32) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
-- [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
