@@ -2,8 +2,8 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) - gitops-test (today)
-- [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨ (today)
+- [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) - gitops-test (1 day ago)
+- [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨ (1 day ago)
 - [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) - Update cache for yum and apt package managers. (1 week ago)
 - [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - My dotfiles library (1 week ago)
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (1 week ago)
@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) ([v1.0.0](https://github.com/philippwaller/ansible-role-qemu_guest_agent/releases/tag/v1.0.0), 1 day ago) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
+- [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) ([v1.0.0](https://github.com/philippwaller/ansible-role-qemu_guest_agent/releases/tag/v1.0.0), 2 days ago) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
 - [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) ([2.1.6](https://github.com/robertdebock/ansible-role-update_package_cache/releases/tag/2.1.6), 1 week ago) - Update cache for yum and apt package managers.
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([6.2.4](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/6.2.4), 1 week ago) - Prepare your system to be managed by Ansible.
 - [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v2.0.0.3](https://github.com/Petro31/easy-time-jinja/releases/tag/v2.0.0.3), 3 weeks ago) - Easy Time calculations for Home Assistant templates
@@ -34,27 +34,27 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(core)!: new config file](https://github.com/philippwaller/gitops-test/pull/11) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
-- [fix: test123](https://github.com/philippwaller/gitops-test/pull/10) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
-- [cI: best CI update ever](https://github.com/philippwaller/gitops-test/pull/9) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
-- [Update test.yaml](https://github.com/philippwaller/gitops-test/pull/8) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
-- [Update test.yaml](https://github.com/philippwaller/gitops-test/pull/7) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
-- [new feature](https://github.com/philippwaller/gitops-test/pull/6) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
-- [feat: new super file](https://github.com/philippwaller/gitops-test/pull/5) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
-- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/4) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
-- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/3) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
-- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/2) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
-- [ci: add ci pipeline](https://github.com/philippwaller/gitops-test/pull/1) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (today)
-- [refactor: update CI workflow](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/2) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (today)
-- [refactor: update readme](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/1) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (1 day ago)
+- [feat(core)!: new config file](https://github.com/philippwaller/gitops-test/pull/11) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
+- [fix: test123](https://github.com/philippwaller/gitops-test/pull/10) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
+- [cI: best CI update ever](https://github.com/philippwaller/gitops-test/pull/9) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
+- [Update test.yaml](https://github.com/philippwaller/gitops-test/pull/8) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
+- [Update test.yaml](https://github.com/philippwaller/gitops-test/pull/7) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
+- [new feature](https://github.com/philippwaller/gitops-test/pull/6) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
+- [feat: new super file](https://github.com/philippwaller/gitops-test/pull/5) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
+- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/4) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
+- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/3) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
+- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/2) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
+- [ci: add ci pipeline](https://github.com/philippwaller/gitops-test/pull/1) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
+- [refactor: update CI workflow](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/2) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (1 day ago)
+- [refactor: update readme](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/1) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (2 days ago)
 - [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (5 months ago)
 - [tap_migrations: add synology products](https://github.com/Homebrew/homebrew-cask-drivers/pull/3471) on [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) (7 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
 
-- [srvaroa/labeler](https://github.com/srvaroa/labeler) - Label manager for PRs and Issues based on configurable conditions (today)
-- [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨ (1 day ago)
+- [srvaroa/labeler](https://github.com/srvaroa/labeler) - Label manager for PRs and Issues based on configurable conditions (1 day ago)
+- [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨ (2 days ago)
 - [ekutner/home-connect-hass](https://github.com/ekutner/home-connect-hass) - Alternative (and improved) Home Connect integration for Home Assistant (3 months ago)
 - [nrfta/go-paging](https://github.com/nrfta/go-paging) - Go Pagination for SQLBoiler and gqlgen (GraphQL) (3 months ago)
 - [theone11/HomeAssistantConfig](https://github.com/theone11/HomeAssistantConfig) -  (4 months ago)
