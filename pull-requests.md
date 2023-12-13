@@ -1,16 +1,5 @@
 #### 🔨 My recent Pull Requests
 
-- [feat(core)!: new config file](https://github.com/philippwaller/gitops-test/pull/11) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [fix: test123](https://github.com/philippwaller/gitops-test/pull/10) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [cI: best CI update ever](https://github.com/philippwaller/gitops-test/pull/9) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [Update test.yaml](https://github.com/philippwaller/gitops-test/pull/8) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [Update test.yaml](https://github.com/philippwaller/gitops-test/pull/7) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [new feature](https://github.com/philippwaller/gitops-test/pull/6) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [feat: new super file](https://github.com/philippwaller/gitops-test/pull/5) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/4) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/3) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/2) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [ci: add ci pipeline](https://github.com/philippwaller/gitops-test/pull/1) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
 - [refactor: update CI workflow](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/2) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (1 day ago)
 - [refactor: update readme](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/1) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (2 days ago)
 - [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (5 months ago)

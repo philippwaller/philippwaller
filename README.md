@@ -2,7 +2,6 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) - gitops-test (1 day ago)
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨ (1 day ago)
 - [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) - Update cache for yum and apt package managers. (1 week ago)
 - [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - My dotfiles library (1 week ago)
@@ -15,7 +14,6 @@
 
 #### 🌱 My latest projects
 
-- [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) - gitops-test
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
 - [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - My dotfiles library
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use
@@ -34,21 +32,19 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(core)!: new config file](https://github.com/philippwaller/gitops-test/pull/11) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [fix: test123](https://github.com/philippwaller/gitops-test/pull/10) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [cI: best CI update ever](https://github.com/philippwaller/gitops-test/pull/9) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [Update test.yaml](https://github.com/philippwaller/gitops-test/pull/8) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [Update test.yaml](https://github.com/philippwaller/gitops-test/pull/7) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [new feature](https://github.com/philippwaller/gitops-test/pull/6) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [feat: new super file](https://github.com/philippwaller/gitops-test/pull/5) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/4) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/3) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [Ci/release drafter](https://github.com/philippwaller/gitops-test/pull/2) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
-- [ci: add ci pipeline](https://github.com/philippwaller/gitops-test/pull/1) on [philippwaller/gitops-test](https://github.com/philippwaller/gitops-test) (1 day ago)
 - [refactor: update CI workflow](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/2) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (1 day ago)
 - [refactor: update readme](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/1) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (2 days ago)
 - [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (5 months ago)
 - [tap_migrations: add synology products](https://github.com/Homebrew/homebrew-cask-drivers/pull/3471) on [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) (7 months ago)
+- [synology products: migrate from `Homebrew/homebrew-cask-drivers`](https://github.com/Homebrew/homebrew-cask/pull/146959) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (7 months ago)
+- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/53) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (9 months ago)
+- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
+- [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
+- [feat: update inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/38) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
+- [fix: change dependabot config file name](https://github.com/philippwaller/helm-charts/pull/32) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
+- [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
+- [refactor: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/30) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
+- [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/28) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
