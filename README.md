@@ -13,7 +13,6 @@
 
 #### 🌱 My latest projects
 
-- [philippwaller/.github](https://github.com/philippwaller/.github) - 
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
 - [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - My dotfiles library
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use
