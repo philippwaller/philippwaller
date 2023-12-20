@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [srvaroa/labeler](https://github.com/srvaroa/labeler) - Label manager for PRs and Issues based on configurable conditions (today)
+- [srvaroa/labeler](https://github.com/srvaroa/labeler) - Label manager for PRs and Issues based on configurable conditions (1 day ago)
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨ (1 week ago)
 - [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) - Update cache for yum and apt package managers. (2 weeks ago)
 - [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - My dotfiles library (2 weeks ago)
@@ -23,20 +23,20 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.9.0](https://github.com/srvaroa/labeler/releases/tag/v1.9.0), today) - Label manager for PRs and Issues based on configurable conditions
+- [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.9.0](https://github.com/srvaroa/labeler/releases/tag/v1.9.0), 1 day ago) - Label manager for PRs and Issues based on configurable conditions
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) ([v1.0.0](https://github.com/philippwaller/ansible-role-qemu_guest_agent/releases/tag/v1.0.0), 1 week ago) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
 - [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) ([2.1.6](https://github.com/robertdebock/ansible-role-update_package_cache/releases/tag/2.1.6), 2 weeks ago) - Update cache for yum and apt package managers.
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([6.2.4](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/6.2.4), 2 weeks ago) - Prepare your system to be managed by Ansible.
-- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v2.0.0.3](https://github.com/Petro31/easy-time-jinja/releases/tag/v2.0.0.3), 4 weeks ago) - Easy Time calculations for Home Assistant templates
+- [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) ([v2.0.0.3](https://github.com/Petro31/easy-time-jinja/releases/tag/v2.0.0.3), 1 month ago) - Easy Time calculations for Home Assistant templates
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 8 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
 #### 🔨 My recent Pull Requests
 
-- [fix: Update README to correct markup](https://github.com/srvaroa/labeler/pull/130) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (today)
-- [fix: Improve documentation and refactor tests to cover regex with special characters](https://github.com/srvaroa/labeler/pull/129) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (today)
-- [feat: Add new type condition](https://github.com/srvaroa/labeler/pull/128) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (today)
-- [feat: Add support for Jinja templates](https://github.com/cgiesche/streamdeck-homeassistant/pull/218) on [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) (2 days ago)
+- [fix: Update README to correct markup](https://github.com/srvaroa/labeler/pull/130) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (1 day ago)
+- [fix: Improve documentation and refactor tests to cover regex with special characters](https://github.com/srvaroa/labeler/pull/129) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (1 day ago)
+- [feat: Add new type condition](https://github.com/srvaroa/labeler/pull/128) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (1 day ago)
+- [feat: Add support for Jinja templates](https://github.com/cgiesche/streamdeck-homeassistant/pull/218) on [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) (3 days ago)
 - [refactor: update CI workflow](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/2) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (1 week ago)
 - [refactor: update readme](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/1) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (1 week ago)
 - [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (6 months ago)
