@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.10.0](https://github.com/srvaroa/labeler/releases/tag/v1.10.0), today) - Label manager for PRs and Issues based on configurable conditions
+- [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.10.0](https://github.com/srvaroa/labeler/releases/tag/v1.10.0), 1 day ago) - Label manager for PRs and Issues based on configurable conditions
 - [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) ([2.4.2](https://github.com/cgiesche/streamdeck-homeassistant/releases/tag/2.4.2), 1 week ago) - Control your Home Assistant devices from StreamDeck
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) ([v1.0.0](https://github.com/philippwaller/ansible-role-qemu_guest_agent/releases/tag/v1.0.0), 2 weeks ago) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
 - [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) ([2.1.6](https://github.com/robertdebock/ansible-role-update_package_cache/releases/tag/2.1.6), 3 weeks ago) - Update cache for yum and apt package managers.
@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (5 days ago)
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (6 days ago)
 - [srvaroa/labeler](https://github.com/srvaroa/labeler) - Label manager for PRs and Issues based on configurable conditions (2 weeks ago)
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨ (2 weeks ago)
 - [ekutner/home-connect-hass](https://github.com/ekutner/home-connect-hass) - Alternative (and improved) Home Connect integration for Home Assistant (3 months ago)
