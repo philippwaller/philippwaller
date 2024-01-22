@@ -53,8 +53,8 @@
 
 #### ⭐ Recent Stars
 
-- [frenck/spook](https://github.com/frenck/spook) - Spook 👻 Not your homie (4 days ago)
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (4 weeks ago)
+- [frenck/spook](https://github.com/frenck/spook) - Spook 👻 Not your homie (5 days ago)
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (1 month ago)
 - [srvaroa/labeler](https://github.com/srvaroa/labeler) - Label manager for PRs and Issues based on configurable conditions (1 month ago)
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨ (1 month ago)
 - [ekutner/home-connect-hass](https://github.com/ekutner/home-connect-hass) - Alternative (and improved) Home Connect integration for Home Assistant (4 months ago)
@@ -62,7 +62,7 @@
 - [theone11/HomeAssistantConfig](https://github.com/theone11/HomeAssistantConfig) -  (5 months ago)
 - [thomasloven/hass-lovelace_gen](https://github.com/thomasloven/hass-lovelace_gen) - 🔹 Improve the lovelace yaml parser for Home Assistant (5 months ago)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (7 months ago)
-- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting &#34;old&#34; measuring units (water, power, gas, ...) to the digital world (9 months ago)
+- [jomjol/AI-on-the-edge-device](https://github.com/jomjol/AI-on-the-edge-device) - Easy to use device for connecting &#34;old&#34; measuring units (water, power, gas, ...) to the digital world (10 months ago)
 
 #### 👯 Check out some of my recent followers
 
