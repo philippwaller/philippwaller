@@ -55,7 +55,7 @@
 - [Add Internationalization Support ](https://github.com/hassio-addons/addon-node-red/pull/1194) on [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) (2 years ago)
 - [Update InfluxDB version in docker-compose file](https://github.com/unpoller/unpoller/pull/313) on [unpoller/unpoller](https://github.com/unpoller/unpoller) (2 years ago)
 - [Activation of template related ESLint rules](https://github.com/openhab/openhab-webui/pull/905) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (2 years ago)
-- [Activation of additional ESLint rules](https://github.com/openhab/openhab-webui/pull/889) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (2 years ago)
+- [Activation of additional ESLint rules](https://github.com/openhab/openhab-webui/pull/889) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (3 years ago)
 - [Integrate ESLint into our development and CI process](https://github.com/openhab/openhab-webui/pull/833) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (3 years ago)
 - [Fix incompatible locale format](https://github.com/openhab/openhab-webui/pull/830) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (3 years ago)
 - [Add parameter &#34;enable CORS&#34; to runtime.cfg file](https://github.com/openhab/openhab-distro/pull/1249) on [openhab/openhab-distro](https://github.com/openhab/openhab-distro) (3 years ago)
