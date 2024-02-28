@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) ([2.4.5](https://github.com/cgiesche/streamdeck-homeassistant/releases/tag/2.4.5), 3 weeks ago) - Control your Home Assistant devices from StreamDeck
+- [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) ([2.4.5](https://github.com/cgiesche/streamdeck-homeassistant/releases/tag/2.4.5), 4 weeks ago) - Control your Home Assistant devices from StreamDeck
 - [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.10.0](https://github.com/srvaroa/labeler/releases/tag/v1.10.0), 2 months ago) - Label manager for PRs and Issues based on configurable conditions
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) ([v1.0.0](https://github.com/philippwaller/ansible-role-qemu_guest_agent/releases/tag/v1.0.0), 2 months ago) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
 - [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) ([2.1.6](https://github.com/robertdebock/ansible-role-update_package_cache/releases/tag/2.1.6), 2 months ago) - Update cache for yum and apt package managers.
@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition. (1 week ago)
+- [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition. (2 weeks ago)
 - [frenck/spook](https://github.com/frenck/spook) - Spook 👻 Not your homie (1 month ago)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (2 months ago)
 - [srvaroa/labeler](https://github.com/srvaroa/labeler) - Label manager for PRs and Issues based on configurable conditions (2 months ago)
