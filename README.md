@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition. (3 weeks ago)
+- [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition. (4 weeks ago)
 - [frenck/spook](https://github.com/frenck/spook) - Spook 👻 Not your homie (1 month ago)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (2 months ago)
 - [srvaroa/labeler](https://github.com/srvaroa/labeler) - Label manager for PRs and Issues based on configurable conditions (3 months ago)
