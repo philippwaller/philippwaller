@@ -53,6 +53,7 @@
 
 #### ⭐ Recent Stars
 
+- [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (today)
 - [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition. (4 weeks ago)
 - [frenck/spook](https://github.com/frenck/spook) - Spook 👻 Not your homie (1 month ago)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (2 months ago)
@@ -62,7 +63,6 @@
 - [nrfta/go-paging](https://github.com/nrfta/go-paging) - Go Pagination for SQLBoiler and gqlgen (GraphQL) (6 months ago)
 - [theone11/HomeAssistantConfig](https://github.com/theone11/HomeAssistantConfig) -  (7 months ago)
 - [thomasloven/hass-lovelace_gen](https://github.com/thomasloven/hass-lovelace_gen) - 🔹 Improve the lovelace yaml parser for Home Assistant (7 months ago)
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (9 months ago)
 
 #### 👯 Check out some of my recent followers
 
