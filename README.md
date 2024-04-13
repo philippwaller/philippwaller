@@ -53,8 +53,8 @@
 
 #### ⭐ Recent Stars
 
-- [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine. (3 days ago)
-- [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (4 weeks ago)
+- [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine. (4 days ago)
+- [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (1 month ago)
 - [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition. (1 month ago)
 - [frenck/spook](https://github.com/frenck/spook) - Spook 👻 Your homie (2 months ago)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (3 months ago)
