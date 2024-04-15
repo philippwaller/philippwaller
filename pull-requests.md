@@ -3,7 +3,7 @@
 - [fix: Update README to correct markup](https://github.com/srvaroa/labeler/pull/130) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (3 months ago)
 - [fix: Improve documentation and refactor tests to cover regex with special characters](https://github.com/srvaroa/labeler/pull/129) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (3 months ago)
 - [feat: Add new type condition](https://github.com/srvaroa/labeler/pull/128) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (3 months ago)
-- [feat: Add support for Jinja templates](https://github.com/cgiesche/streamdeck-homeassistant/pull/218) on [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) (3 months ago)
+- [feat: Add support for Jinja templates](https://github.com/cgiesche/streamdeck-homeassistant/pull/218) on [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) (4 months ago)
 - [refactor: update CI workflow](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/2) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (4 months ago)
 - [refactor: update readme](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/1) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (4 months ago)
 - [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (10 months ago)
