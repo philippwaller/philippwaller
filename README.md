@@ -7,7 +7,7 @@
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨ (4 months ago)
 - [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) - Update cache for yum and apt package managers. (4 months ago)
 - [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - My dotfiles library (4 months ago)
-- [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (4 months ago)
+- [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (5 months ago)
 - [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates (10 months ago)
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (11 months ago)
 - [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 💀 Casks of Drivers (deprecated) (11 months ago)
@@ -24,8 +24,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.10.1](https://github.com/srvaroa/labeler/releases/tag/v1.10.1), 3 weeks ago) - Label manager for PRs and Issues based on configurable conditions
-- [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) ([2.4.5](https://github.com/cgiesche/streamdeck-homeassistant/releases/tag/2.4.5), 2 months ago) - Control your Home Assistant devices from StreamDeck
+- [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.10.1](https://github.com/srvaroa/labeler/releases/tag/v1.10.1), 4 weeks ago) - Label manager for PRs and Issues based on configurable conditions
+- [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) ([2.4.5](https://github.com/cgiesche/streamdeck-homeassistant/releases/tag/2.4.5), 3 months ago) - Control your Home Assistant devices from StreamDeck
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) ([v1.0.0](https://github.com/philippwaller/ansible-role-qemu_guest_agent/releases/tag/v1.0.0), 4 months ago) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
 - [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) ([2.1.6](https://github.com/robertdebock/ansible-role-update_package_cache/releases/tag/2.1.6), 4 months ago) - Update cache for yum and apt package managers.
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([6.2.4](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/6.2.4), 4 months ago) - Prepare your system to be managed by Ansible.
@@ -53,7 +53,7 @@
 
 #### ⭐ Recent Stars
 
-- [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine. (2 weeks ago)
+- [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine. (3 weeks ago)
 - [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (1 month ago)
 - [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition. (2 months ago)
 - [frenck/spook](https://github.com/frenck/spook) - Spook 👻 Your homie (3 months ago)
