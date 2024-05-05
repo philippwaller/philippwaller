@@ -10,8 +10,8 @@
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (5 months ago)
 - [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates (10 months ago)
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (11 months ago)
-- [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 💀 Casks of Drivers (deprecated) (11 months ago)
-- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (11 months ago)
+- [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) - 💀 Casks of Drivers (deprecated) (1 year ago)
+- [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([6.2.5](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/6.2.5), today) - Prepare your system to be managed by Ansible.
+- [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([6.2.5](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/6.2.5), 1 day ago) - Prepare your system to be managed by Ansible.
 - [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.10.1](https://github.com/srvaroa/labeler/releases/tag/v1.10.1), 1 month ago) - Label manager for PRs and Issues based on configurable conditions
 - [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) ([2.4.5](https://github.com/cgiesche/streamdeck-homeassistant/releases/tag/2.4.5), 3 months ago) - Control your Home Assistant devices from StreamDeck
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) ([v1.0.0](https://github.com/philippwaller/ansible-role-qemu_guest_agent/releases/tag/v1.0.0), 4 months ago) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
@@ -42,8 +42,8 @@
 - [refactor: update CI workflow](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/2) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (4 months ago)
 - [refactor: update readme](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/1) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (4 months ago)
 - [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (10 months ago)
-- [tap_migrations: add synology products](https://github.com/Homebrew/homebrew-cask-drivers/pull/3471) on [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) (11 months ago)
-- [synology products: migrate from `Homebrew/homebrew-cask-drivers`](https://github.com/Homebrew/homebrew-cask/pull/146959) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (11 months ago)
+- [tap_migrations: add synology products](https://github.com/Homebrew/homebrew-cask-drivers/pull/3471) on [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) (1 year ago)
+- [synology products: migrate from `Homebrew/homebrew-cask-drivers`](https://github.com/Homebrew/homebrew-cask/pull/146959) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (1 year ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/53) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
 - [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (1 year ago)
@@ -60,7 +60,7 @@
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (4 months ago)
 - [srvaroa/labeler](https://github.com/srvaroa/labeler) - Label manager for PRs and Issues based on configurable conditions (4 months ago)
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨ (4 months ago)
-- [ekutner/home-connect-hass](https://github.com/ekutner/home-connect-hass) - Alternative (and improved) Home Connect integration for Home Assistant (7 months ago)
+- [ekutner/home-connect-hass](https://github.com/ekutner/home-connect-hass) - Alternative (and improved) Home Connect integration for Home Assistant (8 months ago)
 - [nrfta/go-paging](https://github.com/nrfta/go-paging) - Go Pagination for SQLBoiler and gqlgen (GraphQL) (8 months ago)
 - [theone11/HomeAssistantConfig](https://github.com/theone11/HomeAssistantConfig) -  (9 months ago)
 
