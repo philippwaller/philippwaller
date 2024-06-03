@@ -9,7 +9,6 @@
 - [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - My dotfiles library (6 months ago)
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) - Prepare your system to be managed by Ansible. (6 months ago)
 - [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) - Easy Time calculations for Home Assistant templates (11 months ago)
-- [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use (1 year ago)
 
 #### 🌱 My latest projects
 
