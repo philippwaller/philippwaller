@@ -56,7 +56,7 @@
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨ (6 months ago)
 - [ekutner/home-connect-hass](https://github.com/ekutner/home-connect-hass) - Alternative (and improved) Home Connect integration for Home Assistant (9 months ago)
 - [nrfta/go-paging](https://github.com/nrfta/go-paging) - Go Pagination for SQLBoiler and gqlgen (GraphQL) (10 months ago)
-- [theone11/HomeAssistantConfig](https://github.com/theone11/HomeAssistantConfig) -  (10 months ago)
+- [theone11/HomeAssistantConfig](https://github.com/theone11/HomeAssistantConfig) -  (11 months ago)
 
 #### 👯 Check out some of my recent followers
 
