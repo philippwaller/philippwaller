@@ -60,10 +60,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [RustChainBuilder](https://github.com/RustChainBuilder)
 - [alxkm](https://github.com/alxkm)
 - [anhnguyen1212](https://github.com/anhnguyen1212)
 - [craftysecurity](https://github.com/craftysecurity)
 - [Shahupdates](https://github.com/Shahupdates)
-- [Justice-Orogun](https://github.com/Justice-Orogun)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
