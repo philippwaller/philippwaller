@@ -53,7 +53,7 @@
 - [vincentfree/opentelemetry](https://github.com/vincentfree/opentelemetry) - Open Telemetry extensions (1 week ago)
 - [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for Apple Home Key (2 weeks ago)
 - [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine. (4 months ago)
-- [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (4 months ago)
+- [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (5 months ago)
 - [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition. (5 months ago)
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡 (6 months ago)
 - [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (7 months ago)
