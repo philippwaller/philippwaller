@@ -60,10 +60,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [capitansec](https://github.com/capitansec)
 - [xopaz](https://github.com/xopaz)
 - [chipnertkj](https://github.com/chipnertkj)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
 - [Charles-Chrismann](https://github.com/Charles-Chrismann)
-- [alxkm](https://github.com/alxkm)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
