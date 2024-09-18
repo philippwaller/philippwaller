@@ -56,7 +56,7 @@
 - [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (6 months ago)
 - [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition. (7 months ago)
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡 (8 months ago)
-- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (8 months ago)
+- [golang-standards/project-layout](https://github.com/golang-standards/project-layout) - Standard Go Project Layout (9 months ago)
 
 #### 👯 Check out some of my recent followers
 
