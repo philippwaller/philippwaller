@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.0.3](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.0.3), 1 week ago) - Prepare your system to be managed by Ansible.
+- [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.0.3](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.0.3), 2 weeks ago) - Prepare your system to be managed by Ansible.
 - [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) ([3.5.2](https://github.com/cgiesche/streamdeck-homeassistant/releases/tag/3.5.2), 3 weeks ago) - Control your Home Assistant devices from StreamDeck
 - [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.11.0](https://github.com/srvaroa/labeler/releases/tag/v1.11.0), 3 weeks ago) - Label manager for PRs and Issues based on configurable conditions
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) ([v1.0.0](https://github.com/philippwaller/ansible-role-qemu_guest_agent/releases/tag/v1.0.0), 9 months ago) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
@@ -29,8 +29,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add new sensor &#34;Wiper Health&#34;](https://github.com/ReneNulschDE/mbapi2020/pull/265) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (today)
-- [Add new sensor &#34;Preclimate Status&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/264) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (today)
+- [Add new sensor &#34;Wiper Health&#34;](https://github.com/ReneNulschDE/mbapi2020/pull/265) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (1 day ago)
+- [Add new sensor &#34;Preclimate Status&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/264) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (1 day ago)
 - [fix: Update README to correct markup](https://github.com/srvaroa/labeler/pull/130) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (9 months ago)
 - [fix: Improve documentation and refactor tests to cover regex with special characters](https://github.com/srvaroa/labeler/pull/129) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (9 months ago)
 - [feat: Add new type condition](https://github.com/srvaroa/labeler/pull/128) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (9 months ago)
