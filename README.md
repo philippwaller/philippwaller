@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Remove Sensitive Information from Debug Report](https://github.com/ReneNulschDE/mbapi2020/pull/268) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (today)
 - [Update README.md to reflect changes from PR #264](https://github.com/ReneNulschDE/mbapi2020/pull/267) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (today)
 - [Add new sensor &#34;Wiper Health&#34;](https://github.com/ReneNulschDE/mbapi2020/pull/265) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (1 day ago)
 - [Add new sensor &#34;Preclimate Status&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/264) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (1 day ago)
@@ -45,7 +46,6 @@
 - [synology products: migrate from `Homebrew/homebrew-cask-drivers`](https://github.com/Homebrew/homebrew-cask/pull/146959) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (1 year ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/53) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
-- [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
@@ -63,10 +63,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [danielrheinbay](https://github.com/danielrheinbay)
 - [capitansec](https://github.com/capitansec)
 - [xopaz](https://github.com/xopaz)
 - [chipnertkj](https://github.com/chipnertkj)
 - [OfficialCodeVoyage](https://github.com/OfficialCodeVoyage)
-- [Charles-Chrismann](https://github.com/Charles-Chrismann)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)

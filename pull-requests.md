@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [Remove Sensitive Information from Debug Report](https://github.com/ReneNulschDE/mbapi2020/pull/268) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (today)
 - [Update README.md to reflect changes from PR #264](https://github.com/ReneNulschDE/mbapi2020/pull/267) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (today)
 - [Add new sensor &#34;Wiper Health&#34;](https://github.com/ReneNulschDE/mbapi2020/pull/265) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (1 day ago)
 - [Add new sensor &#34;Preclimate Status&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/264) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (1 day ago)
