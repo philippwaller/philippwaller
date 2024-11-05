@@ -25,7 +25,7 @@
 - [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.11.1](https://github.com/srvaroa/labeler/releases/tag/v1.11.1), 3 weeks ago) - Label manager for PRs and Issues based on configurable conditions
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.0.3](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.0.3), 1 month ago) - Prepare your system to be managed by Ansible.
 - [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) ([3.5.2](https://github.com/cgiesche/streamdeck-homeassistant/releases/tag/3.5.2), 1 month ago) - Control your Home Assistant devices from StreamDeck
-- [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) ([v1.0.0](https://github.com/philippwaller/ansible-role-qemu_guest_agent/releases/tag/v1.0.0), 10 months ago) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
+- [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) ([v1.0.0](https://github.com/philippwaller/ansible-role-qemu_guest_agent/releases/tag/v1.0.0), 11 months ago) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
 - [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) ([2.1.6](https://github.com/robertdebock/ansible-role-update_package_cache/releases/tag/2.1.6), 11 months ago) - Update cache for yum and apt package managers.
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
@@ -43,20 +43,20 @@
 - [feat: Add new type condition](https://github.com/srvaroa/labeler/pull/128) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (10 months ago)
 - [feat: Add support for Jinja templates](https://github.com/cgiesche/streamdeck-homeassistant/pull/218) on [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) (10 months ago)
 - [refactor: update CI workflow](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/2) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (10 months ago)
-- [refactor: update readme](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/1) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (10 months ago)
+- [refactor: update readme](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/1) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (11 months ago)
 - [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (1 year ago)
 - [tap_migrations: add synology products](https://github.com/Homebrew/homebrew-cask-drivers/pull/3471) on [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) (2 years ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
 
-- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) - Custom Component to integrate MercedesME devices into Home-Assistant (3 weeks ago)
+- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) - Custom Component to integrate MercedesME devices into Home-Assistant (4 weeks ago)
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind&#39;s GeoIP2 GeoLite2 Country, City, and ASN databases (3 months ago)
 - [saidsef/grafana-loki-on-k8s](https://github.com/saidsef/grafana-loki-on-k8s) - Grafana, Loki, Promtail, Tempo, Prometheus for logs, LGTM metrics and tracing (3 months ago)
 - [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go (3 months ago)
 - [vincentfree/opentelemetry](https://github.com/vincentfree/opentelemetry) - Open Telemetry extensions (3 months ago)
 - [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for Apple Home Key (reverse-engineered) (3 months ago)
-- [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine. (6 months ago)
+- [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine. (7 months ago)
 - [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (7 months ago)
 - [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition. (8 months ago)
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡 (9 months ago)
