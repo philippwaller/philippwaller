@@ -21,10 +21,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.19.1](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.19.1), today) - Custom Component to integrate MercedesME devices into Home-Assistant
+- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.19.1](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.19.1), 1 day ago) - Custom Component to integrate MercedesME devices into Home-Assistant
 - [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.11.1](https://github.com/srvaroa/labeler/releases/tag/v1.11.1), 4 weeks ago) - Label manager for PRs and Issues based on configurable conditions
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.0.3](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.0.3), 1 month ago) - Prepare your system to be managed by Ansible.
-- [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) ([3.5.2](https://github.com/cgiesche/streamdeck-homeassistant/releases/tag/3.5.2), 1 month ago) - Control your Home Assistant devices from StreamDeck
+- [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) ([3.5.2](https://github.com/cgiesche/streamdeck-homeassistant/releases/tag/3.5.2), 2 months ago) - Control your Home Assistant devices from StreamDeck
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) ([v1.0.0](https://github.com/philippwaller/ansible-role-qemu_guest_agent/releases/tag/v1.0.0), 11 months ago) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
 - [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) ([2.1.6](https://github.com/robertdebock/ansible-role-update_package_cache/releases/tag/2.1.6), 11 months ago) - Update cache for yum and apt package managers.
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
@@ -50,7 +50,7 @@
 
 #### ⭐ Recent Stars
 
-- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) - Custom Component to integrate MercedesME devices into Home-Assistant (4 weeks ago)
+- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) - Custom Component to integrate MercedesME devices into Home-Assistant (1 month ago)
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind&#39;s GeoIP2 GeoLite2 Country, City, and ASN databases (3 months ago)
 - [saidsef/grafana-loki-on-k8s](https://github.com/saidsef/grafana-loki-on-k8s) - Grafana, Loki, Promtail, Tempo, Prometheus for logs, LGTM metrics and tracing (3 months ago)
 - [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go (3 months ago)
