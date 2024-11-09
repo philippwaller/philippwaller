@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.19.1](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.19.1), 2 days ago) - Custom Component to integrate MercedesME devices into Home-Assistant
+- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.19.1](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.19.1), 3 days ago) - Custom Component to integrate MercedesME devices into Home-Assistant
 - [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.11.1](https://github.com/srvaroa/labeler/releases/tag/v1.11.1), 1 month ago) - Label manager for PRs and Issues based on configurable conditions
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.0.3](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.0.3), 1 month ago) - Prepare your system to be managed by Ansible.
 - [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) ([3.5.2](https://github.com/cgiesche/streamdeck-homeassistant/releases/tag/3.5.2), 2 months ago) - Control your Home Assistant devices from StreamDeck
@@ -57,7 +57,7 @@
 - [vincentfree/opentelemetry](https://github.com/vincentfree/opentelemetry) - Open Telemetry extensions (3 months ago)
 - [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for Apple Home Key (reverse-engineered) (3 months ago)
 - [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine. (7 months ago)
-- [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (7 months ago)
+- [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (8 months ago)
 - [skrashevich/double-take](https://github.com/skrashevich/double-take) - Unified UI and API for processing and training images for facial recognition. (8 months ago)
 - [frenck/spook](https://github.com/frenck/spook) - A scary 👻 powerful toolbox 🧰 for Home Assistant 🏡 (9 months ago)
 
