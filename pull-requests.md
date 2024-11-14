@@ -59,7 +59,7 @@
 - [Add config option &#34;AllowGroups&#34;](https://github.com/robertdebock/ansible-role-openssh/pull/10) on [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) (2 years ago)
 - [Replace &#34;wait_for&#34; by &#34;wait_for_connection&#34; module](https://github.com/robertdebock/ansible-role-reboot/pull/8) on [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) (2 years ago)
 - [Update locale requirements for Debian](https://github.com/robertdebock/ansible-role-locale/pull/7) on [robertdebock/ansible-role-locale](https://github.com/robertdebock/ansible-role-locale) (2 years ago)
-- [Add Internationalization Support ](https://github.com/hassio-addons/addon-node-red/pull/1194) on [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) (2 years ago)
+- [Add Internationalization Support ](https://github.com/hassio-addons/addon-node-red/pull/1194) on [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) (3 years ago)
 - [Update InfluxDB version in docker-compose file](https://github.com/unpoller/unpoller/pull/313) on [unpoller/unpoller](https://github.com/unpoller/unpoller) (3 years ago)
 - [Activation of template related ESLint rules](https://github.com/openhab/openhab-webui/pull/905) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (3 years ago)
 - [Activation of additional ESLint rules](https://github.com/openhab/openhab-webui/pull/889) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (3 years ago)
