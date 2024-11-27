@@ -67,6 +67,6 @@
 - [idimetrix](https://github.com/idimetrix)
 - [weymann](https://github.com/weymann)
 - [spl01tprivate](https://github.com/spl01tprivate)
-- [eust-w](https://github.com/eust-w)
+- [danielrheinbay](https://github.com/danielrheinbay)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
