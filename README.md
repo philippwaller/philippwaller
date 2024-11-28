@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.20.1](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.20.1), 2 days ago) - Custom Component to integrate MercedesME devices into Home-Assistant
-- [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.12.0](https://github.com/srvaroa/labeler/releases/tag/v1.12.0), 5 days ago) - Label manager for PRs and Issues based on configurable conditions
+- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.20.1](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.20.1), 3 days ago) - Custom Component to integrate MercedesME devices into Home-Assistant
+- [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.12.0](https://github.com/srvaroa/labeler/releases/tag/v1.12.0), 6 days ago) - Label manager for PRs and Issues based on configurable conditions
 - [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) ([3.5.4](https://github.com/cgiesche/streamdeck-homeassistant/releases/tag/3.5.4), 2 weeks ago) - Control your Home Assistant devices from StreamDeck
 - [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) ([7.0.3](https://github.com/robertdebock/ansible-role-bootstrap/releases/tag/7.0.3), 2 months ago) - Prepare your system to be managed by Ansible.
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) ([v1.0.0](https://github.com/philippwaller/ansible-role-qemu_guest_agent/releases/tag/v1.0.0), 11 months ago) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
@@ -52,8 +52,8 @@
 
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) - Custom Component to integrate MercedesME devices into Home-Assistant (1 month ago)
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind&#39;s GeoIP2 GeoLite2 Country, City, and ASN databases (3 months ago)
-- [saidsef/grafana-loki-on-k8s](https://github.com/saidsef/grafana-loki-on-k8s) - Grafana, Loki, Promtail, Tempo, Prometheus for logs, LGTM metrics and tracing (3 months ago)
-- [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go (3 months ago)
+- [saidsef/grafana-loki-on-k8s](https://github.com/saidsef/grafana-loki-on-k8s) - Grafana, Loki, Promtail, Tempo, Prometheus for logs, LGTM metrics and tracing (4 months ago)
+- [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go (4 months ago)
 - [vincentfree/opentelemetry](https://github.com/vincentfree/opentelemetry) - Open Telemetry extensions (4 months ago)
 - [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for Apple Home Key (reverse-engineered) (4 months ago)
 - [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine. (7 months ago)
