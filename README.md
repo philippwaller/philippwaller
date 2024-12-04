@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.20.3](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.20.3), 4 days ago) - Custom Component to integrate MercedesME devices into Home-Assistant
+- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.20.3](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.20.3), 5 days ago) - Custom Component to integrate MercedesME devices into Home-Assistant
 - [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.12.0](https://github.com/srvaroa/labeler/releases/tag/v1.12.0), 1 week ago) - Label manager for PRs and Issues based on configurable conditions
 - [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) ([3.5.4](https://github.com/cgiesche/streamdeck-homeassistant/releases/tag/3.5.4), 3 weeks ago) - Control your Home Assistant devices from StreamDeck
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) ([v1.0.0](https://github.com/philippwaller/ansible-role-qemu_guest_agent/releases/tag/v1.0.0), 11 months ago) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (3 days ago)
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (4 days ago)
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) - Custom Component to integrate MercedesME devices into Home-Assistant (1 month ago)
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind&#39;s GeoIP2 GeoLite2 Country, City, and ASN databases (4 months ago)
 - [saidsef/grafana-loki-on-k8s](https://github.com/saidsef/grafana-loki-on-k8s) - Grafana, Loki, Promtail, Tempo, Prometheus for logs, LGTM metrics and tracing (4 months ago)
