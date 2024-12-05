@@ -61,10 +61,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [trinhminhtriet](https://github.com/trinhminhtriet)
 - [idimetrix](https://github.com/idimetrix)
 - [weymann](https://github.com/weymann)
 - [spl01tprivate](https://github.com/spl01tprivate)
 - [danielrheinbay](https://github.com/danielrheinbay)
+- [capitansec](https://github.com/capitansec)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
