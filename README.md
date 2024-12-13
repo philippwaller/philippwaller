@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) - Custom Component to integrate MercedesME devices into Home-Assistant (2 months ago)
-- [srvaroa/labeler](https://github.com/srvaroa/labeler) - Label manager for PRs and Issues based on configurable conditions (11 months ago)
+- [srvaroa/labeler](https://github.com/srvaroa/labeler) - Label manager for PRs and Issues based on configurable conditions (1 year ago)
 - [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) - Control your Home Assistant devices from StreamDeck (1 year ago)
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨ (1 year ago)
 
@@ -18,8 +18,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.21.0](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.21.0), 4 days ago) - Custom Component to integrate MercedesME devices into Home-Assistant
-- [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.12.0](https://github.com/srvaroa/labeler/releases/tag/v1.12.0), 2 weeks ago) - Label manager for PRs and Issues based on configurable conditions
+- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.21.0](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.21.0), 5 days ago) - Custom Component to integrate MercedesME devices into Home-Assistant
+- [srvaroa/labeler](https://github.com/srvaroa/labeler) ([v1.12.0](https://github.com/srvaroa/labeler/releases/tag/v1.12.0), 3 weeks ago) - Label manager for PRs and Issues based on configurable conditions
 - [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) ([3.5.4](https://github.com/cgiesche/streamdeck-homeassistant/releases/tag/3.5.4), 1 month ago) - Control your Home Assistant devices from StreamDeck
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
@@ -32,9 +32,9 @@
 - [Update README.md to reflect changes from PR #264](https://github.com/ReneNulschDE/mbapi2020/pull/267) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 months ago)
 - [Add new sensor &#34;Wiper Health&#34;](https://github.com/ReneNulschDE/mbapi2020/pull/265) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 months ago)
 - [Add new sensor &#34;Preclimate Status&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/264) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 months ago)
-- [fix: Update README to correct markup](https://github.com/srvaroa/labeler/pull/130) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (11 months ago)
-- [fix: Improve documentation and refactor tests to cover regex with special characters](https://github.com/srvaroa/labeler/pull/129) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (11 months ago)
-- [feat: Add new type condition](https://github.com/srvaroa/labeler/pull/128) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (11 months ago)
+- [fix: Update README to correct markup](https://github.com/srvaroa/labeler/pull/130) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (1 year ago)
+- [fix: Improve documentation and refactor tests to cover regex with special characters](https://github.com/srvaroa/labeler/pull/129) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (1 year ago)
+- [feat: Add new type condition](https://github.com/srvaroa/labeler/pull/128) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (1 year ago)
 - [feat: Add support for Jinja templates](https://github.com/cgiesche/streamdeck-homeassistant/pull/218) on [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) (1 year ago)
 - [refactor: update CI workflow](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/2) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (1 year ago)
 - [refactor: update readme](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/1) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (1 year ago)
