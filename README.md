@@ -3,8 +3,6 @@
 #### 👷 Check out what I'm currently working on
 
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) - Custom Component to integrate MercedesME devices into Home-Assistant (2 months ago)
-- [srvaroa/labeler](https://github.com/srvaroa/labeler) - Label manager for PRs and Issues based on configurable conditions (1 year ago)
-- [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) - Control your Home Assistant devices from StreamDeck (1 year ago)
 
 #### 🌱 My latest projects
 
