@@ -20,7 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [feat(knx): enable sensor creation via API](https://github.com/home-assistant/core/pull/133979) on [home-assistant/core](https://github.com/home-assistant/core) (3 days ago)
+- [feat(knx): enable sensor creation via API](https://github.com/home-assistant/core/pull/133979) on [home-assistant/core](https://github.com/home-assistant/core) (4 days ago)
 - [Add german translation for switch entities](https://github.com/ReneNulschDE/mbapi2020/pull/272) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 months ago)
 - [Align configuration classes with Home Assistant standards](https://github.com/ReneNulschDE/mbapi2020/pull/270) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 months ago)
 - [Add new switch &#34;Preclimate&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/269) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 months ago)
@@ -39,12 +39,12 @@
 
 #### ⭐ Recent Stars
 
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (5 days ago)
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (3 weeks ago)
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (6 days ago)
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (4 weeks ago)
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) - Custom Component to integrate MercedesME devices into Home-Assistant (2 months ago)
 - [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind&#39;s GeoIP2 GeoLite2 Country, City, and ASN databases (4 months ago)
-- [saidsef/grafana-loki-on-k8s](https://github.com/saidsef/grafana-loki-on-k8s) - Grafana, Loki, Promtail, Tempo, Prometheus for logs, LGTM metrics and tracing (4 months ago)
-- [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go (4 months ago)
+- [saidsef/grafana-loki-on-k8s](https://github.com/saidsef/grafana-loki-on-k8s) - Grafana, Loki, Promtail, Tempo, Prometheus for logs, LGTM metrics and tracing (5 months ago)
+- [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go (5 months ago)
 - [vincentfree/opentelemetry](https://github.com/vincentfree/opentelemetry) - Open Telemetry extensions (5 months ago)
 - [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for Apple Home Key (reverse-engineered) (5 months ago)
 - [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine. (8 months ago)
