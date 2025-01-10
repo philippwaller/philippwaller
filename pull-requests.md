@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [Fix TypeError in convert function when schema is not a class](https://github.com/home-assistant-libs/voluptuous-serialize/pull/140) on [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) (today)
 - [chore: add pre-commit hook for pylint](https://github.com/XKNX/xknx/pull/1630) on [XKNX/xknx](https://github.com/XKNX/xknx) (5 days ago)
 - [Add support for exposing and validating sensor-compatible DPT classes](https://github.com/XKNX/xknx/pull/1629) on [XKNX/xknx](https://github.com/XKNX/xknx) (5 days ago)
 - [feat(knx): enable sensor creation via API](https://github.com/home-assistant/core/pull/133979) on [home-assistant/core](https://github.com/home-assistant/core) (2 weeks ago)

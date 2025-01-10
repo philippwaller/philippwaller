@@ -20,6 +20,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fix TypeError in convert function when schema is not a class](https://github.com/home-assistant-libs/voluptuous-serialize/pull/140) on [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) (today)
 - [chore: add pre-commit hook for pylint](https://github.com/XKNX/xknx/pull/1630) on [XKNX/xknx](https://github.com/XKNX/xknx) (5 days ago)
 - [Add support for exposing and validating sensor-compatible DPT classes](https://github.com/XKNX/xknx/pull/1629) on [XKNX/xknx](https://github.com/XKNX/xknx) (5 days ago)
 - [feat(knx): enable sensor creation via API](https://github.com/home-assistant/core/pull/133979) on [home-assistant/core](https://github.com/home-assistant/core) (2 weeks ago)
@@ -34,7 +35,6 @@
 - [fix: Improve documentation and refactor tests to cover regex with special characters](https://github.com/srvaroa/labeler/pull/129) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (1 year ago)
 - [feat: Add new type condition](https://github.com/srvaroa/labeler/pull/128) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (1 year ago)
 - [feat: Add support for Jinja templates](https://github.com/cgiesche/streamdeck-homeassistant/pull/218) on [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) (1 year ago)
-- [refactor: update CI workflow](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/2) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (1 year ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
