@@ -1,6 +1,6 @@
 #### 🔨 My recent Pull Requests
 
-- [Fix TypeError in convert function when schema is not a class](https://github.com/home-assistant-libs/voluptuous-serialize/pull/140) on [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) (6 days ago)
+- [Fix TypeError in convert function when schema is not a class](https://github.com/home-assistant-libs/voluptuous-serialize/pull/140) on [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) (1 week ago)
 - [chore: add pre-commit hook for pylint](https://github.com/XKNX/xknx/pull/1630) on [XKNX/xknx](https://github.com/XKNX/xknx) (1 week ago)
 - [Add support for exposing and validating sensor-compatible DPT classes](https://github.com/XKNX/xknx/pull/1629) on [XKNX/xknx](https://github.com/XKNX/xknx) (1 week ago)
 - [feat(knx): enable sensor creation via API](https://github.com/home-assistant/core/pull/133979) on [home-assistant/core](https://github.com/home-assistant/core) (3 weeks ago)
@@ -66,7 +66,7 @@
 - [Add Internationalization Support ](https://github.com/hassio-addons/addon-node-red/pull/1194) on [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) (3 years ago)
 - [Update InfluxDB version in docker-compose file](https://github.com/unpoller/unpoller/pull/313) on [unpoller/unpoller](https://github.com/unpoller/unpoller) (3 years ago)
 - [Activation of template related ESLint rules](https://github.com/openhab/openhab-webui/pull/905) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (3 years ago)
-- [Activation of additional ESLint rules](https://github.com/openhab/openhab-webui/pull/889) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (3 years ago)
+- [Activation of additional ESLint rules](https://github.com/openhab/openhab-webui/pull/889) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
 - [Integrate ESLint into our development and CI process](https://github.com/openhab/openhab-webui/pull/833) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
 - [Fix incompatible locale format](https://github.com/openhab/openhab-webui/pull/830) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
 - [Add parameter &#34;enable CORS&#34; to runtime.cfg file](https://github.com/openhab/openhab-distro/pull/1249) on [openhab/openhab-distro](https://github.com/openhab/openhab-distro) (4 years ago)
