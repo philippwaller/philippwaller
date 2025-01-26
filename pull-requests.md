@@ -1,9 +1,9 @@
 #### 🔨 My recent Pull Requests
 
-- [feat(knx): Enable KNX Sensor Setup with a Schema-Driven Approach](https://github.com/home-assistant/core/pull/136293) on [home-assistant/core](https://github.com/home-assistant/core) (3 days ago)
+- [feat(knx): Enable KNX Sensor Setup with a Schema-Driven Approach](https://github.com/home-assistant/core/pull/136293) on [home-assistant/core](https://github.com/home-assistant/core) (4 days ago)
 - [Fix TypeError in convert function when schema is not a class](https://github.com/home-assistant-libs/voluptuous-serialize/pull/140) on [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) (2 weeks ago)
-- [chore: add pre-commit hook for pylint](https://github.com/XKNX/xknx/pull/1630) on [XKNX/xknx](https://github.com/XKNX/xknx) (2 weeks ago)
-- [Add support for exposing and validating sensor-compatible DPT classes](https://github.com/XKNX/xknx/pull/1629) on [XKNX/xknx](https://github.com/XKNX/xknx) (2 weeks ago)
+- [chore: add pre-commit hook for pylint](https://github.com/XKNX/xknx/pull/1630) on [XKNX/xknx](https://github.com/XKNX/xknx) (3 weeks ago)
+- [Add support for exposing and validating sensor-compatible DPT classes](https://github.com/XKNX/xknx/pull/1629) on [XKNX/xknx](https://github.com/XKNX/xknx) (3 weeks ago)
 - [feat(knx): enable sensor creation via API](https://github.com/home-assistant/core/pull/133979) on [home-assistant/core](https://github.com/home-assistant/core) (1 month ago)
 - [Add german translation for switch entities](https://github.com/ReneNulschDE/mbapi2020/pull/272) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (3 months ago)
 - [Align configuration classes with Home Assistant standards](https://github.com/ReneNulschDE/mbapi2020/pull/270) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (3 months ago)
@@ -49,7 +49,7 @@
 - [ci: reference reusable workflows via local path](https://github.com/philippwaller/helm-charts/pull/8) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
 - [ci: fix template generation for conformity check](https://github.com/philippwaller/helm-charts/pull/7) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
 - [feat: add external-service helm chart](https://github.com/philippwaller/helm-charts/pull/6) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
-- [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/5) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
+- [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/5) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
 - [feat: add inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/4) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
 - [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/3) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
 - [ci: refactor Kubernetes version update workflow](https://github.com/philippwaller/helm-charts/pull/2) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
