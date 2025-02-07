@@ -2,7 +2,7 @@
 
 - [synology-surveillance-station-client: revert to 2.2.0](https://github.com/Homebrew/homebrew-cask/pull/199678) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (1 week ago)
 - [feat(knx): Enable KNX Sensor Setup with a Schema-Driven Approach](https://github.com/home-assistant/core/pull/136293) on [home-assistant/core](https://github.com/home-assistant/core) (2 weeks ago)
-- [Fix TypeError in convert function when schema is not a class](https://github.com/home-assistant-libs/voluptuous-serialize/pull/140) on [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) (3 weeks ago)
+- [Fix TypeError in convert function when schema is not a class](https://github.com/home-assistant-libs/voluptuous-serialize/pull/140) on [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) (4 weeks ago)
 - [chore: add pre-commit hook for pylint](https://github.com/XKNX/xknx/pull/1630) on [XKNX/xknx](https://github.com/XKNX/xknx) (1 month ago)
 - [Add support for exposing and validating sensor-compatible DPT classes](https://github.com/XKNX/xknx/pull/1629) on [XKNX/xknx](https://github.com/XKNX/xknx) (1 month ago)
 - [feat(knx): enable sensor creation via API](https://github.com/home-assistant/core/pull/133979) on [home-assistant/core](https://github.com/home-assistant/core) (1 month ago)
@@ -66,7 +66,7 @@
 - [Replace &#34;wait_for&#34; by &#34;wait_for_connection&#34; module](https://github.com/robertdebock/ansible-role-reboot/pull/8) on [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) (3 years ago)
 - [Update locale requirements for Debian](https://github.com/robertdebock/ansible-role-locale/pull/7) on [robertdebock/ansible-role-locale](https://github.com/robertdebock/ansible-role-locale) (3 years ago)
 - [Add Internationalization Support ](https://github.com/hassio-addons/addon-node-red/pull/1194) on [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) (3 years ago)
-- [Update InfluxDB version in docker-compose file](https://github.com/unpoller/unpoller/pull/313) on [unpoller/unpoller](https://github.com/unpoller/unpoller) (3 years ago)
+- [Update InfluxDB version in docker-compose file](https://github.com/unpoller/unpoller/pull/313) on [unpoller/unpoller](https://github.com/unpoller/unpoller) (4 years ago)
 - [Activation of template related ESLint rules](https://github.com/openhab/openhab-webui/pull/905) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
 - [Activation of additional ESLint rules](https://github.com/openhab/openhab-webui/pull/889) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
 - [Integrate ESLint into our development and CI process](https://github.com/openhab/openhab-webui/pull/833) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
