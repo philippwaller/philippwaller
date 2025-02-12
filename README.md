@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (2 days ago)
+- [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (3 days ago)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (2 weeks ago)
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant (4 months ago)
 
@@ -25,7 +25,7 @@
 #### 🔨 My recent Pull Requests
 
 - [synology-surveillance-station-client: revert to 2.2.0](https://github.com/Homebrew/homebrew-cask/pull/199678) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (2 weeks ago)
-- [feat(knx): Enable KNX Sensor Setup with a Schema-Driven Approach](https://github.com/home-assistant/core/pull/136293) on [home-assistant/core](https://github.com/home-assistant/core) (2 weeks ago)
+- [feat(knx): Enable KNX Sensor Setup with a Schema-Driven Approach](https://github.com/home-assistant/core/pull/136293) on [home-assistant/core](https://github.com/home-assistant/core) (3 weeks ago)
 - [Fix TypeError in convert function when schema is not a class](https://github.com/home-assistant-libs/voluptuous-serialize/pull/140) on [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) (1 month ago)
 - [Add pre-commit hook for pylint](https://github.com/XKNX/xknx/pull/1630) on [XKNX/xknx](https://github.com/XKNX/xknx) (1 month ago)
 - [Add support for exposing and validating sensor-compatible DPT classes](https://github.com/XKNX/xknx/pull/1629) on [XKNX/xknx](https://github.com/XKNX/xknx) (1 month ago)

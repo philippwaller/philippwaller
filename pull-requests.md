@@ -1,7 +1,7 @@
 #### 🔨 My recent Pull Requests
 
 - [synology-surveillance-station-client: revert to 2.2.0](https://github.com/Homebrew/homebrew-cask/pull/199678) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (2 weeks ago)
-- [feat(knx): Enable KNX Sensor Setup with a Schema-Driven Approach](https://github.com/home-assistant/core/pull/136293) on [home-assistant/core](https://github.com/home-assistant/core) (2 weeks ago)
+- [feat(knx): Enable KNX Sensor Setup with a Schema-Driven Approach](https://github.com/home-assistant/core/pull/136293) on [home-assistant/core](https://github.com/home-assistant/core) (3 weeks ago)
 - [Fix TypeError in convert function when schema is not a class](https://github.com/home-assistant-libs/voluptuous-serialize/pull/140) on [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) (1 month ago)
 - [Add pre-commit hook for pylint](https://github.com/XKNX/xknx/pull/1630) on [XKNX/xknx](https://github.com/XKNX/xknx) (1 month ago)
 - [Add support for exposing and validating sensor-compatible DPT classes](https://github.com/XKNX/xknx/pull/1629) on [XKNX/xknx](https://github.com/XKNX/xknx) (1 month ago)
@@ -42,7 +42,7 @@
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/18) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
 - [ci: fix broken pipeline](https://github.com/philippwaller/helm-charts/pull/17) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
 - [fix(external-service): bump chart version](https://github.com/philippwaller/helm-charts/pull/15) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
-- [ci: refactor integration pipeline](https://github.com/philippwaller/helm-charts/pull/13) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
+- [ci: refactor integration pipeline](https://github.com/philippwaller/helm-charts/pull/13) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
 - [docs: update readme](https://github.com/philippwaller/helm-charts/pull/12) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
 - [refactor: update list of supported k8s version](https://github.com/philippwaller/helm-charts/pull/11) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
 - [feat: add k3s-traefik-config chart](https://github.com/philippwaller/helm-charts/pull/10) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
