@@ -17,8 +17,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.23.1](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.23.1), 5 days ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
-- [XKNX/xknx](https://github.com/XKNX/xknx) ([3.6.0](https://github.com/XKNX/xknx/releases/tag/3.6.0), 1 week ago) - XKNX - A KNX library written in Python
+- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.23.1](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.23.1), 6 days ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
+- [XKNX/xknx](https://github.com/XKNX/xknx) ([3.6.0](https://github.com/XKNX/xknx/releases/tag/3.6.0), 2 weeks ago) - XKNX - A KNX library written in Python
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 9 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
@@ -52,7 +52,7 @@
 - [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go (7 months ago)
 - [vincentfree/opentelemetry](https://github.com/vincentfree/opentelemetry) - Open Telemetry extensions (7 months ago)
 - [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for Apple Home Key (reverse-engineered) (7 months ago)
-- [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine. (10 months ago)
+- [PiotrMachowski/Home-Assistant-custom-components-Custom-Templates](https://github.com/PiotrMachowski/Home-Assistant-custom-components-Custom-Templates) - This integration adds possibility to use new functions in Home Assistant Jinja2 templating engine. (11 months ago)
 
 #### 👯 Check out some of my recent followers
 
