@@ -17,7 +17,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.23.2](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.23.2), 1 day ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
+- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.23.2](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.23.2), 2 days ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.6.0](https://github.com/XKNX/xknx/releases/tag/3.6.0), 1 month ago) - XKNX - A KNX library written in Python
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 9 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
@@ -32,9 +32,9 @@
 - [feat(knx): enable sensor creation via API](https://github.com/home-assistant/core/pull/133979) on [home-assistant/core](https://github.com/home-assistant/core) (3 months ago)
 - [Add german translation for switch entities](https://github.com/ReneNulschDE/mbapi2020/pull/272) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (5 months ago)
 - [Align configuration classes with Home Assistant standards](https://github.com/ReneNulschDE/mbapi2020/pull/270) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (5 months ago)
-- [Add new switch &#34;Preclimate&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/269) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (5 months ago)
-- [Remove Sensitive Information from Debug Report](https://github.com/ReneNulschDE/mbapi2020/pull/268) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (5 months ago)
-- [Update README.md to reflect changes from PR #264](https://github.com/ReneNulschDE/mbapi2020/pull/267) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (5 months ago)
+- [Add new switch &#34;Preclimate&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/269) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (6 months ago)
+- [Remove Sensitive Information from Debug Report](https://github.com/ReneNulschDE/mbapi2020/pull/268) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (6 months ago)
+- [Update README.md to reflect changes from PR #264](https://github.com/ReneNulschDE/mbapi2020/pull/267) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (6 months ago)
 - [Add new sensor &#34;Wiper Health&#34;](https://github.com/ReneNulschDE/mbapi2020/pull/265) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (6 months ago)
 - [Add new sensor &#34;Preclimate Status&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/264) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (6 months ago)
 - [fix: Update README to correct markup](https://github.com/srvaroa/labeler/pull/130) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (1 year ago)
@@ -57,9 +57,9 @@
 #### 👯 Check out some of my recent followers
 
 - [helallao](https://github.com/helallao)
-- [bhza](https://github.com/bhza)
 - [Invisibleaxe](https://github.com/Invisibleaxe)
 - [arash-hacker](https://github.com/arash-hacker)
 - [idimetrix](https://github.com/idimetrix)
+- [weymann](https://github.com/weymann)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
