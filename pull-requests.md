@@ -75,6 +75,6 @@
 - [Fix CORS header to allow preflight requests with authorization payload](https://github.com/openhab/openhab-core/pull/1963) on [openhab/openhab-core](https://github.com/openhab/openhab-core) (4 years ago)
 - [Fix time icons](https://github.com/openhab/openhab-webui/pull/312) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
 - [Fix corrupt SVG icon files and refactor image compression workflow ](https://github.com/openhab/openhab-webui/pull/291) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
-- [Add workaround for grub bug in Debian 10.4](https://github.com/TheReal1604/disk-encryption-hetzner/pull/25) on [TheReal1604/disk-encryption-hetzner](https://github.com/TheReal1604/disk-encryption-hetzner) (4 years ago)
+- [Add workaround for grub bug in Debian 10.4](https://github.com/TheReal1604/disk-encryption-hetzner/pull/25) on [TheReal1604/disk-encryption-hetzner](https://github.com/TheReal1604/disk-encryption-hetzner) (5 years ago)
 - [[automation] Update configDescriptions for jsr223.ScriptedTrigger (#962)](https://github.com/openhab/openhab-core/pull/964) on [openhab/openhab-core](https://github.com/openhab/openhab-core) (5 years ago)
 - [Update configDescriptions for jsr223.ScriptedTrigger (#962)](https://github.com/openhab/openhab-core/pull/963) on [openhab/openhab-core](https://github.com/openhab/openhab-core) (5 years ago)
