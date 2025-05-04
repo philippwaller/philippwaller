@@ -17,7 +17,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.25.0](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.25.0), 3 days ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
+- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.25.0](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.25.0), 4 days ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.7.0](https://github.com/XKNX/xknx/releases/tag/3.7.0), 2 weeks ago) - XKNX - A KNX library written in Python
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 9 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
@@ -43,7 +43,7 @@
 
 #### ⭐ Recent Stars
 
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (today)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Mesh Reverse Proxy Server with Identity and Access Control and Dashboard UI (1 day ago)
 - [MisterCalvin/supermicro-java-ikvm](https://github.com/MisterCalvin/supermicro-java-ikvm) - A container for connecting to Supermicro Java based iKVM viewers via a web browser (2 months ago)
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (4 months ago)
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (5 months ago)
