@@ -17,7 +17,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [XKNX/xknx](https://github.com/XKNX/xknx) ([3.8.0](https://github.com/XKNX/xknx/releases/tag/3.8.0), 5 days ago) - XKNX - A KNX library written in Python
+- [XKNX/xknx](https://github.com/XKNX/xknx) ([3.8.0](https://github.com/XKNX/xknx/releases/tag/3.8.0), 6 days ago) - XKNX - A KNX library written in Python
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.25.0](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.25.0), 2 weeks ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 9 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
@@ -52,7 +52,7 @@
 - [saidsef/grafana-loki-on-k8s](https://github.com/saidsef/grafana-loki-on-k8s) - Observability: Grafana, Loki, Promtail, Tempo, Prometheus, Pyroscope , LGTM Stack, logs, metrics and tracing (9 months ago)
 - [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go (9 months ago)
 - [vincentfree/opentelemetry](https://github.com/vincentfree/opentelemetry) - Open Telemetry extensions (9 months ago)
-- [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for Apple Home Key (reverse-engineered) (9 months ago)
+- [rednblkx/HomeKey-ESP32](https://github.com/rednblkx/HomeKey-ESP32) - ESP32 HomeKit Lock with support for Apple Home Key (reverse-engineered) (10 months ago)
 
 #### 👯 Check out some of my recent followers
 
