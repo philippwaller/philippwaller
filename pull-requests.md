@@ -20,7 +20,6 @@
 - [refactor: update CI workflow](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/2) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (2 years ago)
 - [refactor: update readme](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/1) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (2 years ago)
 - [Update german translation](https://github.com/Petro31/easy-time-jinja/pull/16) on [Petro31/easy-time-jinja](https://github.com/Petro31/easy-time-jinja) (2 years ago)
-- [tap_migrations: add synology products](https://github.com/Homebrew/homebrew-cask-drivers/pull/3471) on [Homebrew/homebrew-cask-drivers](https://github.com/Homebrew/homebrew-cask-drivers) (2 years ago)
 - [synology products: migrate from `Homebrew/homebrew-cask-drivers`](https://github.com/Homebrew/homebrew-cask/pull/146959) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (2 years ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/53) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/44) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (2 years ago)
