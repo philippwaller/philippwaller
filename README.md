@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) - Convert voluptuous schemas to JSON (internal use of HA only) (2 weeks ago)
+- [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) - Convert voluptuous schemas to JSON (internal use of HA only) (3 weeks ago)
 - [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (4 months ago)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (5 months ago)
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant (8 months ago)
@@ -18,7 +18,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.26.0](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.26.0), 6 days ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
+- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.26.0](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.26.0), 1 week ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.8.0](https://github.com/XKNX/xknx/releases/tag/3.8.0), 1 month ago) - XKNX - A KNX library written in Python
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.6.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.6.0), 2 years ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 9 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
