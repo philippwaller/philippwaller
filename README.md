@@ -58,10 +58,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Arison99](https://github.com/Arison99)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
 - [nullptrException100](https://github.com/nullptrException100)
 - [Invisibleaxe](https://github.com/Invisibleaxe)
-- [idimetrix](https://github.com/idimetrix)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
