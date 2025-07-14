@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Extend Group Monitor with URL filtering](https://github.com/XKNX/knx-frontend/pull/235) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Refactor group monitor view](https://github.com/XKNX/knx-frontend/pull/233) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
 - [synology-surveillance-station-client: revert to 2.2.0](https://github.com/Homebrew/homebrew-cask/pull/199678) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (5 months ago)
 - [Enable KNX sensor setup with a schema-driven approach](https://github.com/home-assistant/core/pull/136293) on [home-assistant/core](https://github.com/home-assistant/core) (5 months ago)
@@ -42,7 +43,6 @@
 - [Update README.md to reflect changes from PR #264](https://github.com/ReneNulschDE/mbapi2020/pull/267) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (9 months ago)
 - [Add new sensor &#34;Wiper Health&#34;](https://github.com/ReneNulschDE/mbapi2020/pull/265) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (9 months ago)
 - [Add new sensor &#34;Preclimate Status&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/264) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (9 months ago)
-- [fix: Update README to correct markup](https://github.com/srvaroa/labeler/pull/130) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (2 years ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
