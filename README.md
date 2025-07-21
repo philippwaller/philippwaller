@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (1 day ago)
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (2 days ago)
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) - Convert voluptuous schemas to JSON (internal use of HA only) (1 month ago)
 - [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (5 months ago)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (5 months ago)
@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.28.0](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.28.0), 1 day ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
+- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.28.0](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.28.0), 2 days ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.6.13.181749](https://github.com/XKNX/knx-frontend/releases/tag/2025.6.13.181749), 3 weeks ago) - Home Assistant Panel for managing the KNX integration
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.8.0](https://github.com/XKNX/xknx/releases/tag/3.8.0), 2 months ago) - XKNX - A KNX library written in Python
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.6.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.6.0), 2 years ago) - Convert voluptuous schemas to JSON (internal use of HA only)
@@ -28,12 +28,12 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Improve knx-list-filter usability with scroll-to-selection button](https://github.com/XKNX/knx-frontend/pull/238) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
-- [Fix group monitor sorting to use microsecond-precision timestamps (closes #234)](https://github.com/XKNX/knx-frontend/pull/237) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
-- [Extend Group Monitor with URL filtering](https://github.com/XKNX/knx-frontend/pull/235) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (6 days ago)
+- [Improve knx-list-filter usability with scroll-to-selection button](https://github.com/XKNX/knx-frontend/pull/238) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
+- [Fix group monitor sorting to use microsecond-precision timestamps (closes #234)](https://github.com/XKNX/knx-frontend/pull/237) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 days ago)
+- [Extend Group Monitor with URL filtering](https://github.com/XKNX/knx-frontend/pull/235) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [Refactor group monitor view](https://github.com/XKNX/knx-frontend/pull/233) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [synology-surveillance-station-client: revert to 2.2.0](https://github.com/Homebrew/homebrew-cask/pull/199678) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (5 months ago)
-- [Enable KNX sensor setup with a schema-driven approach](https://github.com/home-assistant/core/pull/136293) on [home-assistant/core](https://github.com/home-assistant/core) (5 months ago)
+- [Enable KNX sensor setup with a schema-driven approach](https://github.com/home-assistant/core/pull/136293) on [home-assistant/core](https://github.com/home-assistant/core) (6 months ago)
 - [Fix TypeError in convert function when schema is not a class](https://github.com/home-assistant-libs/voluptuous-serialize/pull/140) on [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) (6 months ago)
 - [Add pre-commit hook for pylint](https://github.com/XKNX/xknx/pull/1630) on [XKNX/xknx](https://github.com/XKNX/xknx) (6 months ago)
 - [Add support for exposing and validating sensor-compatible DPT classes](https://github.com/XKNX/xknx/pull/1629) on [XKNX/xknx](https://github.com/XKNX/xknx) (6 months ago)
