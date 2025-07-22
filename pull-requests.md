@@ -1,7 +1,7 @@
 #### 🔨 My recent Pull Requests
 
-- [Improve knx-list-filter usability with scroll-to-selection button](https://github.com/XKNX/knx-frontend/pull/238) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
-- [Fix group monitor sorting to use microsecond-precision timestamps (closes #234)](https://github.com/XKNX/knx-frontend/pull/237) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 days ago)
+- [Improve knx-list-filter usability with scroll-to-selection button](https://github.com/XKNX/knx-frontend/pull/238) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
+- [Fix group monitor sorting to use microsecond-precision timestamps (closes #234)](https://github.com/XKNX/knx-frontend/pull/237) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 days ago)
 - [Extend Group Monitor with URL filtering](https://github.com/XKNX/knx-frontend/pull/235) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [Refactor group monitor view](https://github.com/XKNX/knx-frontend/pull/233) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [synology-surveillance-station-client: revert to 2.2.0](https://github.com/Homebrew/homebrew-cask/pull/199678) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (5 months ago)
@@ -9,7 +9,7 @@
 - [Fix TypeError in convert function when schema is not a class](https://github.com/home-assistant-libs/voluptuous-serialize/pull/140) on [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) (6 months ago)
 - [Add pre-commit hook for pylint](https://github.com/XKNX/xknx/pull/1630) on [XKNX/xknx](https://github.com/XKNX/xknx) (6 months ago)
 - [Add support for exposing and validating sensor-compatible DPT classes](https://github.com/XKNX/xknx/pull/1629) on [XKNX/xknx](https://github.com/XKNX/xknx) (6 months ago)
-- [feat(knx): enable sensor creation via API](https://github.com/home-assistant/core/pull/133979) on [home-assistant/core](https://github.com/home-assistant/core) (6 months ago)
+- [feat(knx): enable sensor creation via API](https://github.com/home-assistant/core/pull/133979) on [home-assistant/core](https://github.com/home-assistant/core) (7 months ago)
 - [Add german translation for switch entities](https://github.com/ReneNulschDE/mbapi2020/pull/272) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (9 months ago)
 - [Align configuration classes with Home Assistant standards](https://github.com/ReneNulschDE/mbapi2020/pull/270) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (9 months ago)
 - [Add new switch &#34;Preclimate&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/269) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (9 months ago)
