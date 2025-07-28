@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (today)
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (1 day ago)
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) - Convert voluptuous schemas to JSON (internal use of HA only) (1 month ago)
 - [XKNX/xknx](https://github.com/XKNX/xknx) - XKNX - A KNX library written in Python (5 months ago)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries (6 months ago)
@@ -19,7 +19,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.7.23.50952](https://github.com/XKNX/knx-frontend/releases/tag/2025.7.23.50952), 4 days ago) - Home Assistant Panel for managing the KNX integration
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.7.23.50952](https://github.com/XKNX/knx-frontend/releases/tag/2025.7.23.50952), 5 days ago) - Home Assistant Panel for managing the KNX integration
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.28.0](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.28.0), 1 week ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.8.0](https://github.com/XKNX/xknx/releases/tag/3.8.0), 2 months ago) - XKNX - A KNX library written in Python
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.6.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.6.0), 2 years ago) - Convert voluptuous schemas to JSON (internal use of HA only)
@@ -28,10 +28,10 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Updated HA frontend to 20250702.3](https://github.com/XKNX/knx-frontend/pull/241) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
+- [Updated HA frontend to 20250702.3](https://github.com/XKNX/knx-frontend/pull/241) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
 - [Improve knx-list-filter usability with scroll-to-selection button](https://github.com/XKNX/knx-frontend/pull/238) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [Fix group monitor sorting to use microsecond-precision timestamps (closes #234)](https://github.com/XKNX/knx-frontend/pull/237) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
-- [Extend Group Monitor with URL filtering](https://github.com/XKNX/knx-frontend/pull/235) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
+- [Extend Group Monitor with URL filtering](https://github.com/XKNX/knx-frontend/pull/235) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
 - [Refactor group monitor view](https://github.com/XKNX/knx-frontend/pull/233) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
 - [synology-surveillance-station-client: revert to 2.2.0](https://github.com/Homebrew/homebrew-cask/pull/199678) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (6 months ago)
 - [Enable KNX sensor setup with a schema-driven approach](https://github.com/home-assistant/core/pull/136293) on [home-assistant/core](https://github.com/home-assistant/core) (6 months ago)
@@ -51,9 +51,9 @@
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Tunneled Reverse Proxy Server with Identity and Access Control and Dashboard UI (2 months ago)
 - [MisterCalvin/supermicro-java-ikvm](https://github.com/MisterCalvin/supermicro-java-ikvm) - A container for connecting to Supermicro Java based iKVM viewers via a web browser (5 months ago)
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (7 months ago)
-- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (7 months ago)
+- [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (8 months ago)
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant (9 months ago)
-- [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind&#39;s GeoIP2 GeoLite2 Country, City, and ASN databases (11 months ago)
+- [P3TERX/GeoLite.mmdb](https://github.com/P3TERX/GeoLite.mmdb) - MaxMind&#39;s GeoIP2 GeoLite2 Country, City, and ASN databases (1 year ago)
 - [saidsef/grafana-loki-on-k8s](https://github.com/saidsef/grafana-loki-on-k8s) - Observability: Grafana, Loki, Alloy, Beyla, Promtail, Tempo, Prometheus, Mimir, Pyroscope , LGTM Stack, logs, metrics and tracing (1 year ago)
 - [oschwald/geoip2-golang](https://github.com/oschwald/geoip2-golang) - Unofficial MaxMind GeoIP2 Reader for Go (1 year ago)
 - [vincentfree/opentelemetry](https://github.com/vincentfree/opentelemetry) - Open Telemetry extensions (1 year ago)

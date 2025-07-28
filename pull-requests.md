@@ -1,9 +1,9 @@
 #### 🔨 My recent Pull Requests
 
-- [Updated HA frontend to 20250702.3](https://github.com/XKNX/knx-frontend/pull/241) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
+- [Updated HA frontend to 20250702.3](https://github.com/XKNX/knx-frontend/pull/241) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
 - [Improve knx-list-filter usability with scroll-to-selection button](https://github.com/XKNX/knx-frontend/pull/238) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [Fix group monitor sorting to use microsecond-precision timestamps (closes #234)](https://github.com/XKNX/knx-frontend/pull/237) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
-- [Extend Group Monitor with URL filtering](https://github.com/XKNX/knx-frontend/pull/235) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
+- [Extend Group Monitor with URL filtering](https://github.com/XKNX/knx-frontend/pull/235) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
 - [Refactor group monitor view](https://github.com/XKNX/knx-frontend/pull/233) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
 - [synology-surveillance-station-client: revert to 2.2.0](https://github.com/Homebrew/homebrew-cask/pull/199678) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (6 months ago)
 - [Enable KNX sensor setup with a schema-driven approach](https://github.com/home-assistant/core/pull/136293) on [home-assistant/core](https://github.com/home-assistant/core) (6 months ago)
@@ -77,7 +77,7 @@
 - [Fix incompatible locale format](https://github.com/openhab/openhab-webui/pull/830) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
 - [Add parameter &#34;enable CORS&#34; to runtime.cfg file](https://github.com/openhab/openhab-distro/pull/1249) on [openhab/openhab-distro](https://github.com/openhab/openhab-distro) (4 years ago)
 - [Fix CORS header to allow preflight requests with authorization payload](https://github.com/openhab/openhab-core/pull/1963) on [openhab/openhab-core](https://github.com/openhab/openhab-core) (4 years ago)
-- [Fix time icons](https://github.com/openhab/openhab-webui/pull/312) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
+- [Fix time icons](https://github.com/openhab/openhab-webui/pull/312) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (5 years ago)
 - [Fix corrupt SVG icon files and refactor image compression workflow ](https://github.com/openhab/openhab-webui/pull/291) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (5 years ago)
 - [Add workaround for grub bug in Debian 10.4](https://github.com/TheReal1604/disk-encryption-hetzner/pull/25) on [TheReal1604/disk-encryption-hetzner](https://github.com/TheReal1604/disk-encryption-hetzner) (5 years ago)
 - [[automation] Update configDescriptions for jsr223.ScriptedTrigger (#962)](https://github.com/openhab/openhab-core/pull/964) on [openhab/openhab-core](https://github.com/openhab/openhab-core) (6 years ago)
