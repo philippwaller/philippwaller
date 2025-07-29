@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [Fixes incorrect display of TimeOffset values greater than 1 hour](https://github.com/XKNX/knx-frontend/pull/245) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Add missing translation key entities_title](https://github.com/XKNX/knx-frontend/pull/244) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [fix incorrect import path for SortCriterion in sort-menu-item](https://github.com/XKNX/knx-frontend/pull/243) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Fix duplicate registration issue for mwc-* components](https://github.com/XKNX/knx-frontend/pull/242) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
