@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [fix incorrect import path for SortCriterion in sort-menu-item](https://github.com/XKNX/knx-frontend/pull/243) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Fix duplicate registration issue for mwc-* components](https://github.com/XKNX/knx-frontend/pull/242) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
 - [Updated HA frontend to 20250702.3](https://github.com/XKNX/knx-frontend/pull/241) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 days ago)
 - [Improve knx-list-filter usability with scroll-to-selection button](https://github.com/XKNX/knx-frontend/pull/238) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
