@@ -60,10 +60,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Arison99](https://github.com/Arison99)
 - [syedahirafatima](https://github.com/syedahirafatima)
 - [BEPb](https://github.com/BEPb)
 - [OnyedikaBenjamin](https://github.com/OnyedikaBenjamin)
 - [mohammadhasanii](https://github.com/mohammadhasanii)
-- [nullptrException100](https://github.com/nullptrException100)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
