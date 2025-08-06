@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [Improve Group Monitor layout spacing and navbar behavior](https://github.com/XKNX/knx-frontend/pull/257) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Show only selectable sorting options in filters](https://github.com/XKNX/knx-frontend/pull/256) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Update knx-frontend to 2025.8.6.52906](https://github.com/home-assistant/core/pull/150085) on [home-assistant/core](https://github.com/home-assistant/core) (today)
 - [Fix offset miscalculation in certain filter scenarios](https://github.com/XKNX/knx-frontend/pull/255) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
@@ -95,4 +96,3 @@
 - [Fix CORS header to allow preflight requests with authorization payload](https://github.com/openhab/openhab-core/pull/1963) on [openhab/openhab-core](https://github.com/openhab/openhab-core) (4 years ago)
 - [Fix time icons](https://github.com/openhab/openhab-webui/pull/312) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (5 years ago)
 - [Fix corrupt SVG icon files and refactor image compression workflow ](https://github.com/openhab/openhab-webui/pull/291) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (5 years ago)
-- [Add workaround for grub bug in Debian 10.4](https://github.com/TheReal1604/disk-encryption-hetzner/pull/25) on [TheReal1604/disk-encryption-hetzner](https://github.com/TheReal1604/disk-encryption-hetzner) (5 years ago)

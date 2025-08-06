@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve Group Monitor layout spacing and navbar behavior](https://github.com/XKNX/knx-frontend/pull/257) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Show only selectable sorting options in filters](https://github.com/XKNX/knx-frontend/pull/256) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Update knx-frontend to 2025.8.6.52906](https://github.com/home-assistant/core/pull/150085) on [home-assistant/core](https://github.com/home-assistant/core) (today)
 - [Fix offset miscalculation in certain filter scenarios](https://github.com/XKNX/knx-frontend/pull/255) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
@@ -44,7 +45,6 @@
 - [Github Actions Test 1](https://github.com/philippwaller/knx-frontend/pull/1) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 week ago)
 - [Fixes incorrect display of TimeOffset values greater than 1 hour](https://github.com/XKNX/knx-frontend/pull/245) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [Add missing translation key entities_title](https://github.com/XKNX/knx-frontend/pull/244) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
-- [fix incorrect import path for SortCriterion in sort-menu-item](https://github.com/XKNX/knx-frontend/pull/243) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
