@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [Show only selectable sorting options in filters](https://github.com/XKNX/knx-frontend/pull/256) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Update knx-frontend to 2025.8.6.52906](https://github.com/home-assistant/core/pull/150085) on [home-assistant/core](https://github.com/home-assistant/core) (today)
 - [Fix offset miscalculation in certain filter scenarios](https://github.com/XKNX/knx-frontend/pull/255) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
 - [Group Monitor – New Features, Fixes &amp; Ongoing Refactoring](https://github.com/XKNX/knx-frontend/pull/253) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 days ago)
@@ -95,4 +96,3 @@
 - [Fix time icons](https://github.com/openhab/openhab-webui/pull/312) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (5 years ago)
 - [Fix corrupt SVG icon files and refactor image compression workflow ](https://github.com/openhab/openhab-webui/pull/291) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (5 years ago)
 - [Add workaround for grub bug in Debian 10.4](https://github.com/TheReal1604/disk-encryption-hetzner/pull/25) on [TheReal1604/disk-encryption-hetzner](https://github.com/TheReal1604/disk-encryption-hetzner) (5 years ago)
-- [[automation] Update configDescriptions for jsr223.ScriptedTrigger (#962)](https://github.com/openhab/openhab-core/pull/964) on [openhab/openhab-core](https://github.com/openhab/openhab-core) (6 years ago)
