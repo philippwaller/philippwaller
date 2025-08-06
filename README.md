@@ -28,6 +28,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Update knx-frontend to 2025.8.6.52906](https://github.com/home-assistant/core/pull/150085) on [home-assistant/core](https://github.com/home-assistant/core) (today)
 - [Fix offset miscalculation in certain filter scenarios](https://github.com/XKNX/knx-frontend/pull/255) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
 - [Group Monitor – New Features, Fixes &amp; Ongoing Refactoring](https://github.com/XKNX/knx-frontend/pull/253) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 days ago)
 - [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/251) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 days ago)
@@ -42,7 +43,6 @@
 - [Add missing translation key entities_title](https://github.com/XKNX/knx-frontend/pull/244) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [fix incorrect import path for SortCriterion in sort-menu-item](https://github.com/XKNX/knx-frontend/pull/243) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [Fix duplicate registration issue for mwc-* components](https://github.com/XKNX/knx-frontend/pull/242) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
-- [Updated HA frontend to 20250702.3](https://github.com/XKNX/knx-frontend/pull/241) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
