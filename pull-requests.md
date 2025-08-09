@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [Add banner in group monitor when no ETS project is loaded &#43; various bugfixes](https://github.com/XKNX/knx-frontend/pull/258) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Improve Group Monitor layout spacing and navbar behavior](https://github.com/XKNX/knx-frontend/pull/257) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 days ago)
 - [Show only selectable sorting options in filters](https://github.com/XKNX/knx-frontend/pull/256) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 days ago)
 - [Update knx-frontend to 2025.8.6.52906](https://github.com/home-assistant/core/pull/150085) on [home-assistant/core](https://github.com/home-assistant/core) (3 days ago)
@@ -95,4 +96,3 @@
 - [Add parameter &#34;enable CORS&#34; to runtime.cfg file](https://github.com/openhab/openhab-distro/pull/1249) on [openhab/openhab-distro](https://github.com/openhab/openhab-distro) (4 years ago)
 - [Fix CORS header to allow preflight requests with authorization payload](https://github.com/openhab/openhab-core/pull/1963) on [openhab/openhab-core](https://github.com/openhab/openhab-core) (4 years ago)
 - [Fix time icons](https://github.com/openhab/openhab-webui/pull/312) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (5 years ago)
-- [Fix corrupt SVG icon files and refactor image compression workflow ](https://github.com/openhab/openhab-webui/pull/291) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (5 years ago)
