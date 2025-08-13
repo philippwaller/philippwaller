@@ -62,10 +62,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [Manolisberdis](https://github.com/Manolisberdis)
 - [standardgalactic](https://github.com/standardgalactic)
 - [NealST](https://github.com/NealST)
 - [syedahirafatima](https://github.com/syedahirafatima)
-- [BEPb](https://github.com/BEPb)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
