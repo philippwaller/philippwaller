@@ -18,7 +18,7 @@
 - [Fixes incorrect display of TimeOffset values greater than 1 hour](https://github.com/XKNX/knx-frontend/pull/245) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
 - [Add missing translation key entities_title](https://github.com/XKNX/knx-frontend/pull/244) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
 - [fix incorrect import path for SortCriterion in sort-menu-item](https://github.com/XKNX/knx-frontend/pull/243) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
-- [Fix duplicate registration issue for mwc-* components](https://github.com/XKNX/knx-frontend/pull/242) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
+- [Fix duplicate registration issue for mwc-* components](https://github.com/XKNX/knx-frontend/pull/242) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 weeks ago)
 - [Updated HA frontend to 20250702.3](https://github.com/XKNX/knx-frontend/pull/241) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 weeks ago)
 - [Improve knx-list-filter usability with scroll-to-selection button](https://github.com/XKNX/knx-frontend/pull/238) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 weeks ago)
 - [Fix group monitor sorting to use microsecond-precision timestamps (closes #234)](https://github.com/XKNX/knx-frontend/pull/237) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
