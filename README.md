@@ -30,7 +30,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [expose showAutomationEditor functionality in ha-panel-custom](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (1 day ago)
+- [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (today)
+- [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (1 day ago)
 - [Update knx-frontend to 2025.8.9.63154](https://github.com/home-assistant/core/pull/150323) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
 - [Add banner in group monitor when no ETS project is loaded &#43; various bugfixes](https://github.com/XKNX/knx-frontend/pull/258) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [Improve Group Monitor layout spacing and navbar behavior](https://github.com/XKNX/knx-frontend/pull/257) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
@@ -44,7 +45,6 @@
 - [Add support for AI assistants beyond Copilot](https://github.com/XKNX/knx-frontend/pull/248) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
 - [Add copilot instruction file](https://github.com/XKNX/knx-frontend/pull/247) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 weeks ago)
 - [Add override_branch and override_commit to Codecov upload step](https://github.com/XKNX/knx-frontend/pull/246) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 weeks ago)
-- [Enhance Codecov configuration with verbose output and branch/commit o…](https://github.com/philippwaller/knx-frontend/pull/2) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 weeks ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
