@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (today)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (1 day ago)
 - [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (2 days ago)
 - [Update knx-frontend to 2025.8.9.63154](https://github.com/home-assistant/core/pull/150323) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
@@ -95,4 +96,3 @@
 - [Activation of template related ESLint rules](https://github.com/openhab/openhab-webui/pull/905) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
 - [Activation of additional ESLint rules](https://github.com/openhab/openhab-webui/pull/889) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
 - [Integrate ESLint into our development and CI process](https://github.com/openhab/openhab-webui/pull/833) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
-- [Fix incompatible locale format](https://github.com/openhab/openhab-webui/pull/830) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)

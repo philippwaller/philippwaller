@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (today)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (1 day ago)
 - [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (2 days ago)
 - [Update knx-frontend to 2025.8.9.63154](https://github.com/home-assistant/core/pull/150323) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
@@ -46,7 +47,6 @@
 - [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/249) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 weeks ago)
 - [Add support for AI assistants beyond Copilot](https://github.com/XKNX/knx-frontend/pull/248) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 weeks ago)
 - [Add copilot instruction file](https://github.com/XKNX/knx-frontend/pull/247) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 weeks ago)
-- [Add override_branch and override_commit to Codecov upload step](https://github.com/XKNX/knx-frontend/pull/246) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 weeks ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
