@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (today)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (1 week ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (1 week ago)
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) - Convert voluptuous schemas to JSON (internal use of HA only) (2 months ago)
@@ -22,6 +23,7 @@
 
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 4 days ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [home-assistant/core](https://github.com/home-assistant/core) ([2025.8.2](https://github.com/home-assistant/core/releases/tag/2025.8.2), 6 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20250811.0](https://github.com/home-assistant/frontend/releases/tag/20250811.0), 1 week ago) - :lollipop: Frontend for Home Assistant
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.8.9.63154](https://github.com/XKNX/knx-frontend/releases/tag/2025.8.9.63154), 1 week ago) - Home Assistant Panel for managing the KNX integration
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.29.1](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.29.1), 2 weeks ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.8.0](https://github.com/XKNX/xknx/releases/tag/3.8.0), 3 months ago) - XKNX - A KNX library written in Python
