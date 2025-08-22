@@ -64,10 +64,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [meliksahyorulmazlar](https://github.com/meliksahyorulmazlar)
 - [samsorrahman](https://github.com/samsorrahman)
 - [yebtimotheous](https://github.com/yebtimotheous)
 - [nikhilpatidar01](https://github.com/nikhilpatidar01)
 - [Manolisberdis](https://github.com/Manolisberdis)
-- [standardgalactic](https://github.com/standardgalactic)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
