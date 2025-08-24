@@ -21,9 +21,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.8.24.205840](https://github.com/XKNX/knx-frontend/releases/tag/2025.8.24.205840), today) - Home Assistant Panel for managing the KNX integration
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.29.2](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.29.2), 1 day ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
 - [home-assistant/core](https://github.com/home-assistant/core) ([2025.8.3](https://github.com/home-assistant/core/releases/tag/2025.8.3), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.8.21.181525](https://github.com/XKNX/knx-frontend/releases/tag/2025.8.21.181525), 3 days ago) - Home Assistant Panel for managing the KNX integration
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20250811.1](https://github.com/home-assistant/frontend/releases/tag/20250811.1), 3 days ago) - :lollipop: Frontend for Home Assistant
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 1 week ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.8.0](https://github.com/XKNX/xknx/releases/tag/3.8.0), 3 months ago) - XKNX - A KNX library written in Python
