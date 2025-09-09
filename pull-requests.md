@@ -2,7 +2,7 @@
 
 - [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (2 weeks ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (2 weeks ago)
-- [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (2 weeks ago)
+- [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (3 weeks ago)
 - [Update knx-frontend to 2025.8.9.63154](https://github.com/home-assistant/core/pull/150323) on [home-assistant/core](https://github.com/home-assistant/core) (1 month ago)
 - [Add banner in group monitor when no ETS project is loaded &#43; various bugfixes](https://github.com/XKNX/knx-frontend/pull/258) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
 - [Improve Group Monitor layout spacing and navbar behavior](https://github.com/XKNX/knx-frontend/pull/257) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
