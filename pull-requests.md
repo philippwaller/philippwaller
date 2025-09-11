@@ -1,6 +1,6 @@
 #### 🔨 My recent Pull Requests
 
-- [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (2 weeks ago)
+- [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (3 weeks ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (3 weeks ago)
 - [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (3 weeks ago)
 - [Update knx-frontend to 2025.8.9.63154](https://github.com/home-assistant/core/pull/150323) on [home-assistant/core](https://github.com/home-assistant/core) (1 month ago)

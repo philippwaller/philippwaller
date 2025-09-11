@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (2 weeks ago)
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (3 weeks ago)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (1 month ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (1 month ago)
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) - Convert voluptuous schemas to JSON (internal use of HA only) (3 months ago)
@@ -21,9 +21,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2025.9.1](https://github.com/home-assistant/core/releases/tag/2025.9.1), 5 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20250903.3](https://github.com/home-assistant/frontend/releases/tag/20250903.3), 6 days ago) - :lollipop: Frontend for Home Assistant
-- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.29.4](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.29.4), 6 days ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
+- [home-assistant/core](https://github.com/home-assistant/core) ([2025.9.1](https://github.com/home-assistant/core/releases/tag/2025.9.1), 6 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20250903.3](https://github.com/home-assistant/frontend/releases/tag/20250903.3), 1 week ago) - :lollipop: Frontend for Home Assistant
+- [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.29.4](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.29.4), 1 week ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.9.0](https://github.com/XKNX/xknx/releases/tag/3.9.0), 2 weeks ago) - XKNX - A KNX library written in Python
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.8.24.205840](https://github.com/XKNX/knx-frontend/releases/tag/2025.8.24.205840), 2 weeks ago) - Home Assistant Panel for managing the KNX integration
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 3 weeks ago) - Convert voluptuous schemas to JSON (internal use of HA only)
@@ -32,7 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (2 weeks ago)
+- [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (3 weeks ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (3 weeks ago)
 - [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (3 weeks ago)
 - [Update knx-frontend to 2025.8.9.63154](https://github.com/home-assistant/core/pull/150323) on [home-assistant/core](https://github.com/home-assistant/core) (1 month ago)
@@ -51,12 +51,12 @@
 
 #### ⭐ Recent Stars
 
-- [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards (2 days ago)
+- [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards (3 days ago)
 - [XKNX/knx-integration](https://github.com/XKNX/knx-integration) - Home Assistant KNX integration proxy repository (1 month ago)
 - [henfri/knx-lens](https://github.com/henfri/knx-lens) - Explore what happens in your KNX System. Consists of a powerful logger and instpector (commandline and web-interface) that is aware of your ETS Project structure (1 month ago)
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (2 months ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI (4 months ago)
-- [MisterCalvin/supermicro-java-ikvm](https://github.com/MisterCalvin/supermicro-java-ikvm) - A container for connecting to Supermicro Java based iKVM viewers via a web browser (6 months ago)
+- [MisterCalvin/supermicro-java-ikvm](https://github.com/MisterCalvin/supermicro-java-ikvm) - A container for connecting to Supermicro Java based iKVM viewers via a web browser (7 months ago)
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (8 months ago)
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (9 months ago)
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant (11 months ago)
