@@ -25,7 +25,7 @@
 - [Updated HA frontend to 20250702.3](https://github.com/XKNX/knx-frontend/pull/241) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
 - [Improve knx-list-filter usability with scroll-to-selection button](https://github.com/XKNX/knx-frontend/pull/238) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
 - [Fix group monitor sorting to use microsecond-precision timestamps (closes #234)](https://github.com/XKNX/knx-frontend/pull/237) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
-- [Extend Group Monitor with URL filtering](https://github.com/XKNX/knx-frontend/pull/235) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
+- [Extend Group Monitor with URL filtering](https://github.com/XKNX/knx-frontend/pull/235) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 months ago)
 - [Refactor group monitor view](https://github.com/XKNX/knx-frontend/pull/233) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 months ago)
 - [synology-surveillance-station-client: revert to 2.2.0](https://github.com/Homebrew/homebrew-cask/pull/199678) on [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) (7 months ago)
 - [Enable KNX sensor setup with a schema-driven approach](https://github.com/home-assistant/core/pull/136293) on [home-assistant/core](https://github.com/home-assistant/core) (7 months ago)
