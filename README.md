@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2025.10.0b4](https://github.com/home-assistant/core/releases/tag/2025.10.0b4), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20250926.0](https://github.com/home-assistant/frontend/releases/tag/20250926.0), 2 days ago) - :lollipop: Frontend for Home Assistant
+- [home-assistant/core](https://github.com/home-assistant/core) ([2025.10.0b4](https://github.com/home-assistant/core/releases/tag/2025.10.0b4), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20250926.0](https://github.com/home-assistant/frontend/releases/tag/20250926.0), 3 days ago) - :lollipop: Frontend for Home Assistant
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.29.4](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.29.4), 3 weeks ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.9.0](https://github.com/XKNX/xknx/releases/tag/3.9.0), 1 month ago) - XKNX - A KNX library written in Python
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 1 month ago) - Convert voluptuous schemas to JSON (internal use of HA only)
@@ -43,14 +43,14 @@
 - [Group Monitor – New Features, Fixes &amp; Ongoing Refactoring](https://github.com/XKNX/knx-frontend/pull/253) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
 - [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/251) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/XKNX/knx-frontend/pull/250) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
-- [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/249) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
-- [Add support for AI assistants beyond Copilot](https://github.com/XKNX/knx-frontend/pull/248) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
+- [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/249) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 months ago)
+- [Add support for AI assistants beyond Copilot](https://github.com/XKNX/knx-frontend/pull/248) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 months ago)
 - [Add copilot instruction file](https://github.com/XKNX/knx-frontend/pull/247) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
 
-- [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards (2 weeks ago)
+- [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards (3 weeks ago)
 - [XKNX/knx-integration](https://github.com/XKNX/knx-integration) - Home Assistant KNX integration proxy repository (1 month ago)
 - [henfri/knx-lens](https://github.com/henfri/knx-lens) - Explore what happens in your KNX System. Consists of a powerful logger and instpector (commandline and web-interface) that is aware of your ETS Project structure (1 month ago)
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (3 months ago)
