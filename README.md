@@ -63,10 +63,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [marichu-kt](https://github.com/marichu-kt)
 - [stefankoehne](https://github.com/stefankoehne)
 - [BEPb](https://github.com/BEPb)
 - [yebtimotheous](https://github.com/yebtimotheous)
 - [Manolisberdis](https://github.com/Manolisberdis)
-- [standardgalactic](https://github.com/standardgalactic)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
