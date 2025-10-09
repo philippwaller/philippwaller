@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2025.10.1](https://github.com/home-assistant/core/releases/tag/2025.10.1), 5 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2025.10.1](https://github.com/home-assistant/core/releases/tag/2025.10.1), 6 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20251001.0](https://github.com/home-assistant/frontend/releases/tag/20251001.0), 1 week ago) - :lollipop: Frontend for Home Assistant
 - [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) ([v0.29.4](https://github.com/ReneNulschDE/mbapi2020/releases/tag/v0.29.4), 1 month ago) - Custom Component to integrate Mercedes-Benz cars into Home-Assistant
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.9.0](https://github.com/XKNX/xknx/releases/tag/3.9.0), 1 month ago) - XKNX - A KNX library written in Python
