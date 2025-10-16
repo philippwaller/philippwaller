@@ -21,11 +21,11 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [XKNX/xknx](https://github.com/XKNX/xknx) ([3.10.0](https://github.com/XKNX/xknx/releases/tag/3.10.0), 2 days ago) - XKNX - A KNX library written in Python
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20251001.4](https://github.com/home-assistant/frontend/releases/tag/20251001.4), 4 days ago) - :lollipop: Frontend for Home Assistant
-- [home-assistant/core](https://github.com/home-assistant/core) ([2025.10.2](https://github.com/home-assistant/core/releases/tag/2025.10.2), 5 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.10.9.185845](https://github.com/XKNX/knx-frontend/releases/tag/2025.10.9.185845), 6 days ago) - Home Assistant Panel for managing the KNX integration
-- [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 1 month ago) - Convert voluptuous schemas to JSON (internal use of HA only)
+- [XKNX/xknx](https://github.com/XKNX/xknx) ([3.10.0](https://github.com/XKNX/xknx/releases/tag/3.10.0), 3 days ago) - XKNX - A KNX library written in Python
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20251001.4](https://github.com/home-assistant/frontend/releases/tag/20251001.4), 5 days ago) - :lollipop: Frontend for Home Assistant
+- [home-assistant/core](https://github.com/home-assistant/core) ([2025.10.2](https://github.com/home-assistant/core/releases/tag/2025.10.2), 6 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.10.9.185845](https://github.com/XKNX/knx-frontend/releases/tag/2025.10.9.185845), 1 week ago) - Home Assistant Panel for managing the KNX integration
+- [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 2 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 9 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
@@ -53,7 +53,7 @@
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards (1 month ago)
 - [XKNX/knx-integration](https://github.com/XKNX/knx-integration) - Home Assistant KNX integration proxy repository (2 months ago)
 - [henfri/knx-lens](https://github.com/henfri/knx-lens) - Explore what happens in your KNX System. Consists of a powerful logger and instpector (commandline and web-interface) that is aware of your ETS Project structure (2 months ago)
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (3 months ago)
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (4 months ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI (5 months ago)
 - [MisterCalvin/supermicro-java-ikvm](https://github.com/MisterCalvin/supermicro-java-ikvm) - A container for connecting to Supermicro Java based iKVM viewers via a web browser (8 months ago)
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (9 months ago)
