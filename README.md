@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (1 month ago)
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (2 months ago)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (2 months ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (2 months ago)
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) - Convert voluptuous schemas to JSON (internal use of HA only) (4 months ago)
@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2025.10.3](https://github.com/home-assistant/core/releases/tag/2025.10.3), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.10.17.202411](https://github.com/XKNX/knx-frontend/releases/tag/2025.10.17.202411), 2 days ago) - Home Assistant Panel for managing the KNX integration
-- [XKNX/xknx](https://github.com/XKNX/xknx) ([3.10.0](https://github.com/XKNX/xknx/releases/tag/3.10.0), 6 days ago) - XKNX - A KNX library written in Python
+- [home-assistant/core](https://github.com/home-assistant/core) ([2025.10.3](https://github.com/home-assistant/core/releases/tag/2025.10.3), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.10.17.202411](https://github.com/XKNX/knx-frontend/releases/tag/2025.10.17.202411), 3 days ago) - Home Assistant Panel for managing the KNX integration
+- [XKNX/xknx](https://github.com/XKNX/xknx) ([3.10.0](https://github.com/XKNX/xknx/releases/tag/3.10.0), 1 week ago) - XKNX - A KNX library written in Python
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20251001.4](https://github.com/home-assistant/frontend/releases/tag/20251001.4), 1 week ago) - :lollipop: Frontend for Home Assistant
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 2 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 9 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
@@ -30,7 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (1 month ago)
+- [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (2 months ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (2 months ago)
 - [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (2 months ago)
 - [Update knx-frontend to 2025.8.9.63154](https://github.com/home-assistant/core/pull/150323) on [home-assistant/core](https://github.com/home-assistant/core) (2 months ago)
