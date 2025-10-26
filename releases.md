@@ -1,5 +1,6 @@
 #### 🔭 Releases I've contributed to
 
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.10.26.81530](https://github.com/XKNX/knx-frontend/releases/tag/2025.10.26.81530), today) - Home Assistant Panel for managing the KNX integration
 - [home-assistant/core](https://github.com/home-assistant/core) ([2025.10.4](https://github.com/home-assistant/core/releases/tag/2025.10.4), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.10.0](https://github.com/XKNX/xknx/releases/tag/3.10.0), 1 week ago) - XKNX - A KNX library written in Python
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20251001.4](https://github.com/home-assistant/frontend/releases/tag/20251001.4), 2 weeks ago) - :lollipop: Frontend for Home Assistant
