@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [XKNX/xknx](https://github.com/XKNX/xknx) ([3.11.0](https://github.com/XKNX/xknx/releases/tag/3.11.0), 1 day ago) - XKNX - A KNX library written in Python
-- [home-assistant/core](https://github.com/home-assistant/core) ([2025.11.3](https://github.com/home-assistant/core/releases/tag/2025.11.3), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20251105.1](https://github.com/home-assistant/frontend/releases/tag/20251105.1), 2 days ago) - :lollipop: Frontend for Home Assistant
+- [XKNX/xknx](https://github.com/XKNX/xknx) ([3.11.0](https://github.com/XKNX/xknx/releases/tag/3.11.0), 2 days ago) - XKNX - A KNX library written in Python
+- [home-assistant/core](https://github.com/home-assistant/core) ([2025.11.3](https://github.com/home-assistant/core/releases/tag/2025.11.3), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20251105.1](https://github.com/home-assistant/frontend/releases/tag/20251105.1), 3 days ago) - :lollipop: Frontend for Home Assistant
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 3 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 10 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
@@ -49,7 +49,7 @@
 #### ⭐ Recent Stars
 
 - [rednblkx/HAP-ESPHome](https://github.com/rednblkx/HAP-ESPHome) - Apple HomeKit for ESPHome - Alpha WIP (4 weeks ago)
-- [AppForce1/lilygo-t5-47-plus-esphome](https://github.com/AppForce1/lilygo-t5-47-plus-esphome) -  (4 weeks ago)
+- [AppForce1/lilygo-t5-47-plus-esphome](https://github.com/AppForce1/lilygo-t5-47-plus-esphome) -  (1 month ago)
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards (2 months ago)
 - [XKNX/knx-integration](https://github.com/XKNX/knx-integration) - Home Assistant KNX integration proxy repository (3 months ago)
 - [henfri/knx-lens](https://github.com/henfri/knx-lens) - Explore what happens in your KNX System. Consists of a powerful logger and instpector (commandline and web-interface) that is aware of your ETS Project structure (3 months ago)
