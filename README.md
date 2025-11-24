@@ -61,10 +61,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [CelaDaniel](https://github.com/CelaDaniel)
 - [onamfc](https://github.com/onamfc)
 - [marichu-kt](https://github.com/marichu-kt)
 - [stefankoehne](https://github.com/stefankoehne)
 - [BEPb](https://github.com/BEPb)
-- [yebtimotheous](https://github.com/yebtimotheous)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
