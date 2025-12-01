@@ -61,10 +61,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [seckinyasar](https://github.com/seckinyasar)
 - [helallao](https://github.com/helallao)
 - [onamfc](https://github.com/onamfc)
 - [marichu-kt](https://github.com/marichu-kt)
 - [stefankoehne](https://github.com/stefankoehne)
-- [BEPb](https://github.com/BEPb)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
