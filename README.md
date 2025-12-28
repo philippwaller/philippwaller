@@ -30,6 +30,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix deprecated stages](https://github.com/biozz/ansible-pre-commit-hooks/pull/1) on [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) (today)
 - [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (4 months ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (4 months ago)
 - [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (4 months ago)
@@ -44,7 +45,6 @@
 - [Replace deprecated ESLint flag to remove warning](https://github.com/XKNX/knx-frontend/pull/250) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 months ago)
 - [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/249) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (5 months ago)
 - [Add support for AI assistants beyond Copilot](https://github.com/XKNX/knx-frontend/pull/248) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (5 months ago)
-- [Add copilot instruction file](https://github.com/XKNX/knx-frontend/pull/247) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (5 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars

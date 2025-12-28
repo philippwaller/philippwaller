@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [fix deprecated stages](https://github.com/biozz/ansible-pre-commit-hooks/pull/1) on [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) (today)
 - [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (4 months ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (4 months ago)
 - [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (4 months ago)
@@ -95,4 +96,3 @@
 - [Update InfluxDB version in docker-compose file](https://github.com/unpoller/unpoller/pull/313) on [unpoller/unpoller](https://github.com/unpoller/unpoller) (4 years ago)
 - [Activation of template related ESLint rules](https://github.com/openhab/openhab-webui/pull/905) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
 - [Activation of additional ESLint rules](https://github.com/openhab/openhab-webui/pull/889) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
-- [Integrate ESLint into our development and CI process](https://github.com/openhab/openhab-webui/pull/833) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (5 years ago)
