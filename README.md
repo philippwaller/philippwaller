@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) - A collection of pre-commit hooks, which are handy when using Ansible or Ansible Vault encryption. (today)
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (4 months ago)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (4 months ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (4 months ago)
@@ -20,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.12.25.200238](https://github.com/XKNX/knx-frontend/releases/tag/2025.12.25.200238), 3 days ago) - Home Assistant Panel for managing the KNX integration
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.12.28.215221](https://github.com/XKNX/knx-frontend/releases/tag/2025.12.28.215221), today) - Home Assistant Panel for managing the KNX integration
 - [home-assistant/core](https://github.com/home-assistant/core) ([2025.12.4](https://github.com/home-assistant/core/releases/tag/2025.12.4), 1 week ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20251203.3](https://github.com/home-assistant/frontend/releases/tag/20251203.3), 1 week ago) - :lollipop: Frontend for Home Assistant
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.13.0](https://github.com/XKNX/xknx/releases/tag/3.13.0), 1 week ago) - XKNX - A KNX library written in Python
