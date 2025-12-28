@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [migrate injected facts to ansible_facts](https://github.com/robertdebock/ansible-role-users/pull/45) on [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) (today)
 - [fix deprecated stages](https://github.com/biozz/ansible-pre-commit-hooks/pull/1) on [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) (today)
 - [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (4 months ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (4 months ago)
@@ -95,4 +96,3 @@
 - [Add Internationalization Support ](https://github.com/hassio-addons/addon-node-red/pull/1194) on [hassio-addons/addon-node-red](https://github.com/hassio-addons/addon-node-red) (4 years ago)
 - [Update InfluxDB version in docker-compose file](https://github.com/unpoller/unpoller/pull/313) on [unpoller/unpoller](https://github.com/unpoller/unpoller) (4 years ago)
 - [Activation of template related ESLint rules](https://github.com/openhab/openhab-webui/pull/905) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
-- [Activation of additional ESLint rules](https://github.com/openhab/openhab-webui/pull/889) on [openhab/openhab-webui](https://github.com/openhab/openhab-webui) (4 years ago)
