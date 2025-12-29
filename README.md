@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) - A collection of pre-commit hooks, which are handy when using Ansible or Ansible Vault encryption. (today)
+- [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) - A collection of pre-commit hooks, which are handy when using Ansible or Ansible Vault encryption. (1 day ago)
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (4 months ago)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (4 months ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (4 months ago)
@@ -21,7 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.12.28.215221](https://github.com/XKNX/knx-frontend/releases/tag/2025.12.28.215221), today) - Home Assistant Panel for managing the KNX integration
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.12.28.215221](https://github.com/XKNX/knx-frontend/releases/tag/2025.12.28.215221), 1 day ago) - Home Assistant Panel for managing the KNX integration
 - [home-assistant/core](https://github.com/home-assistant/core) ([2025.12.4](https://github.com/home-assistant/core/releases/tag/2025.12.4), 1 week ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20251203.3](https://github.com/home-assistant/frontend/releases/tag/20251203.3), 1 week ago) - :lollipop: Frontend for Home Assistant
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.13.0](https://github.com/XKNX/xknx/releases/tag/3.13.0), 1 week ago) - XKNX - A KNX library written in Python
@@ -31,8 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [migrate injected facts to ansible_facts](https://github.com/robertdebock/ansible-role-users/pull/45) on [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) (today)
-- [fix deprecated stages](https://github.com/biozz/ansible-pre-commit-hooks/pull/1) on [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) (today)
+- [migrate injected facts to ansible_facts](https://github.com/robertdebock/ansible-role-users/pull/45) on [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) (1 day ago)
+- [fix deprecated stages](https://github.com/biozz/ansible-pre-commit-hooks/pull/1) on [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) (1 day ago)
 - [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (4 months ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (4 months ago)
 - [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (4 months ago)
@@ -44,7 +44,7 @@
 - [Fix offset miscalculation in certain filter scenarios](https://github.com/XKNX/knx-frontend/pull/255) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 months ago)
 - [Group Monitor – New Features, Fixes &amp; Ongoing Refactoring](https://github.com/XKNX/knx-frontend/pull/253) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 months ago)
 - [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/251) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 months ago)
-- [Replace deprecated ESLint flag to remove warning](https://github.com/XKNX/knx-frontend/pull/250) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 months ago)
+- [Replace deprecated ESLint flag to remove warning](https://github.com/XKNX/knx-frontend/pull/250) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (5 months ago)
 - [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/249) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (5 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
@@ -54,9 +54,9 @@
 - [AppForce1/lilygo-t5-47-plus-esphome](https://github.com/AppForce1/lilygo-t5-47-plus-esphome) -  (2 months ago)
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards (3 months ago)
 - [XKNX/knx-integration](https://github.com/XKNX/knx-integration) - Home Assistant KNX integration proxy repository (4 months ago)
-- [henfri/knx-lens](https://github.com/henfri/knx-lens) - Explore what happens in your KNX System. Consists of a powerful logger and instpector (commandline and web-interface) that is aware of your ETS Project structure (4 months ago)
+- [henfri/knx-lens](https://github.com/henfri/knx-lens) - Explore what happens in your KNX System. Consists of a powerful logger and instpector (commandline and web-interface) that is aware of your ETS Project structure (5 months ago)
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (6 months ago)
-- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (7 months ago)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (8 months ago)
 - [MisterCalvin/supermicro-java-ikvm](https://github.com/MisterCalvin/supermicro-java-ikvm) - A container for connecting to Supermicro Java based iKVM viewers via a web browser (10 months ago)
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (1 year ago)
 - [pterm/pterm](https://github.com/pterm/pterm) - ✨ #PTerm is a modern Go module to easily beautify console output. Featuring charts, progressbars, tables, trees, text input, select menus and much more 🚀 It&#39;s completely configurable and 100% cross-platform compatible. (1 year ago)
