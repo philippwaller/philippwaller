@@ -1,7 +1,6 @@
 #### 🔭 Releases I've contributed to
 
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.1.0b2](https://github.com/home-assistant/core/releases/tag/2026.1.0b2), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2025.12.30.151231](https://github.com/XKNX/knx-frontend/releases/tag/2025.12.30.151231), 2 days ago) - Home Assistant Panel for managing the KNX integration
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20251229.0](https://github.com/home-assistant/frontend/releases/tag/20251229.0), 3 days ago) - :lollipop: Frontend for Home Assistant
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.13.0](https://github.com/XKNX/xknx/releases/tag/3.13.0), 2 weeks ago) - XKNX - A KNX library written in Python
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 4 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
