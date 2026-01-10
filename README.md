@@ -65,7 +65,7 @@
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [lorde-enigma](https://github.com/lorde-enigma)
 - [venus912](https://github.com/venus912)
-- [seckinyasar](https://github.com/seckinyasar)
 - [marichu-kt](https://github.com/marichu-kt)
+- [stefankoehne](https://github.com/stefankoehne)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
