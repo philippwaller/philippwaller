@@ -62,10 +62,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [rasidi3112](https://github.com/rasidi3112)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [lorde-enigma](https://github.com/lorde-enigma)
 - [venus912](https://github.com/venus912)
 - [marichu-kt](https://github.com/marichu-kt)
-- [stefankoehne](https://github.com/stefankoehne)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
