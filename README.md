@@ -21,10 +21,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.1.15.112308](https://github.com/XKNX/knx-frontend/releases/tag/2026.1.15.112308), today) - Home Assistant Panel for managing the KNX integration
-- [XKNX/xknx](https://github.com/XKNX/xknx) ([3.14.0](https://github.com/XKNX/xknx/releases/tag/3.14.0), 3 days ago) - XKNX - A KNX library written in Python
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.1.1](https://github.com/home-assistant/core/releases/tag/2026.1.1), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260107.1](https://github.com/home-assistant/frontend/releases/tag/20260107.1), 6 days ago) - :lollipop: Frontend for Home Assistant
+- [XKNX/xknx](https://github.com/XKNX/xknx) ([3.14.0](https://github.com/XKNX/xknx/releases/tag/3.14.0), 4 days ago) - XKNX - A KNX library written in Python
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.1.1](https://github.com/home-assistant/core/releases/tag/2026.1.1), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260107.1](https://github.com/home-assistant/frontend/releases/tag/20260107.1), 1 week ago) - :lollipop: Frontend for Home Assistant
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 5 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [Homebrew/homebrew-cask](https://github.com/Homebrew/homebrew-cask) ([v0.60.1](https://github.com/Homebrew/homebrew-cask/releases/tag/v0.60.1), 10 years ago) - 🍻 A CLI workflow for the administration of macOS applications distributed as binaries
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
@@ -35,7 +34,7 @@
 - [fix deprecated stages](https://github.com/biozz/ansible-pre-commit-hooks/pull/1) on [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) (2 weeks ago)
 - [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (4 months ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (4 months ago)
-- [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (4 months ago)
+- [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (5 months ago)
 - [Update knx-frontend to 2025.8.9.63154](https://github.com/home-assistant/core/pull/150323) on [home-assistant/core](https://github.com/home-assistant/core) (5 months ago)
 - [Add banner in group monitor when no ETS project is loaded &#43; various bugfixes](https://github.com/XKNX/knx-frontend/pull/258) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (5 months ago)
 - [Improve Group Monitor layout spacing and navbar behavior](https://github.com/XKNX/knx-frontend/pull/257) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (5 months ago)
