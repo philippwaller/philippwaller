@@ -21,9 +21,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.2.0b0](https://github.com/home-assistant/core/releases/tag/2026.2.0b0), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260128.1](https://github.com/home-assistant/frontend/releases/tag/20260128.1), today) - :lollipop: Frontend for Home Assistant
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.1.28.162006](https://github.com/XKNX/knx-frontend/releases/tag/2026.1.28.162006), today) - Home Assistant Panel for managing the KNX integration
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.2.0b0](https://github.com/home-assistant/core/releases/tag/2026.2.0b0), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260128.1](https://github.com/home-assistant/frontend/releases/tag/20260128.1), 1 day ago) - :lollipop: Frontend for Home Assistant
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.1.28.162006](https://github.com/XKNX/knx-frontend/releases/tag/2026.1.28.162006), 1 day ago) - Home Assistant Panel for managing the KNX integration
 - [XKNX/xknx](https://github.com/XKNX/xknx) ([3.14.0](https://github.com/XKNX/xknx/releases/tag/3.14.0), 2 weeks ago) - XKNX - A KNX library written in Python
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 5 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
@@ -42,7 +42,7 @@
 - [Update knx-frontend to 2025.8.6.52906](https://github.com/home-assistant/core/pull/150085) on [home-assistant/core](https://github.com/home-assistant/core) (5 months ago)
 - [Fix offset miscalculation in certain filter scenarios](https://github.com/XKNX/knx-frontend/pull/255) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (5 months ago)
 - [Group Monitor – New Features, Fixes &amp; Ongoing Refactoring](https://github.com/XKNX/knx-frontend/pull/253) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (5 months ago)
-- [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/251) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (5 months ago)
+- [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/251) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (6 months ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/XKNX/knx-frontend/pull/250) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (6 months ago)
 - [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/249) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (6 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
