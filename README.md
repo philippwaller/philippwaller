@@ -61,8 +61,8 @@
 
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [lorde-enigma](https://github.com/lorde-enigma)
-- [venus912](https://github.com/venus912)
 - [stefankoehne](https://github.com/stefankoehne)
 - [BEPb](https://github.com/BEPb)
+- [yebtimotheous](https://github.com/yebtimotheous)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
