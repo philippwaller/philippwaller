@@ -3,6 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) - A collection of pre-commit hooks, which are handy when using Ansible or Ansible Vault encryption. (1 month ago)
+- [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) - The purpose of this role is to add users and groups on your system. (1 month ago)
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (5 months ago)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (6 months ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (6 months ago)
@@ -20,6 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.7](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.7), today) - The purpose of this role is to add users and groups on your system.
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.2.1](https://github.com/home-assistant/core/releases/tag/2026.2.1), 6 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260128.6](https://github.com/home-assistant/frontend/releases/tag/20260128.6), 1 week ago) - :lollipop: Frontend for Home Assistant
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 5 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
