@@ -21,10 +21,10 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.7](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.7), today) - The purpose of this role is to add users and groups on your system.
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.2.1](https://github.com/home-assistant/core/releases/tag/2026.2.1), 6 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.7](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.7), 1 day ago) - The purpose of this role is to add users and groups on your system.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.2.1](https://github.com/home-assistant/core/releases/tag/2026.2.1), 1 week ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260128.6](https://github.com/home-assistant/frontend/releases/tag/20260128.6), 1 week ago) - :lollipop: Frontend for Home Assistant
-- [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 5 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
+- [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 6 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
 #### 🔨 My recent Pull Requests
@@ -53,7 +53,7 @@
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards (5 months ago)
 - [XKNX/knx-integration](https://github.com/XKNX/knx-integration) - Home Assistant KNX integration proxy repository (6 months ago)
 - [henfri/knx-lens](https://github.com/henfri/knx-lens) - Explore what happens in your KNX System. Consists of a powerful logger and instpector (commandline and web-interface) that is aware of your ETS Project structure (6 months ago)
-- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (7 months ago)
+- [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (8 months ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (9 months ago)
 - [MisterCalvin/supermicro-java-ikvm](https://github.com/MisterCalvin/supermicro-java-ikvm) - A container for connecting to Supermicro Java based iKVM viewers via a web browser (1 year ago)
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (1 year ago)
