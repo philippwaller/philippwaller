@@ -24,7 +24,7 @@
 - [Add missing translation key entities_title](https://github.com/XKNX/knx-frontend/pull/244) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (6 months ago)
 - [fix incorrect import path for SortCriterion in sort-menu-item](https://github.com/XKNX/knx-frontend/pull/243) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (6 months ago)
 - [Fix duplicate registration issue for mwc-* components](https://github.com/XKNX/knx-frontend/pull/242) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (6 months ago)
-- [Updated HA frontend to 20250702.3](https://github.com/XKNX/knx-frontend/pull/241) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (6 months ago)
+- [Updated HA frontend to 20250702.3](https://github.com/XKNX/knx-frontend/pull/241) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (7 months ago)
 - [Improve knx-list-filter usability with scroll-to-selection button](https://github.com/XKNX/knx-frontend/pull/238) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (7 months ago)
 - [Fix group monitor sorting to use microsecond-precision timestamps (closes #234)](https://github.com/XKNX/knx-frontend/pull/237) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (7 months ago)
 - [Extend Group Monitor with URL filtering](https://github.com/XKNX/knx-frontend/pull/235) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (7 months ago)
