@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.2.3](https://github.com/home-assistant/core/releases/tag/2026.2.3), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.2.3](https://github.com/home-assistant/core/releases/tag/2026.2.3), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 1 week ago) - The purpose of this role is to add users and groups on your system.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260128.6](https://github.com/home-assistant/frontend/releases/tag/20260128.6), 2 weeks ago) - :lollipop: Frontend for Home Assistant
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 6 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
@@ -47,9 +47,9 @@
 
 #### ⭐ Recent Stars
 
-- [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple. (6 days ago)
+- [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple. (1 week ago)
 - [rednblkx/HAP-ESPHome](https://github.com/rednblkx/HAP-ESPHome) - Apple HomeKit for ESPHome - Alpha WIP (3 months ago)
-- [AppForce1/lilygo-t5-47-plus-esphome](https://github.com/AppForce1/lilygo-t5-47-plus-esphome) -  (3 months ago)
+- [AppForce1/lilygo-t5-47-plus-esphome](https://github.com/AppForce1/lilygo-t5-47-plus-esphome) -  (4 months ago)
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards (5 months ago)
 - [XKNX/knx-integration](https://github.com/XKNX/knx-integration) - Home Assistant KNX integration proxy repository (6 months ago)
 - [henfri/knx-lens](https://github.com/henfri/knx-lens) - Explore what happens in your KNX System. Consists of a powerful logger and instpector (commandline and web-interface) that is aware of your ETS Project structure (6 months ago)
