@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support (today)
 - [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple. (1 week ago)
 - [rednblkx/HAP-ESPHome](https://github.com/rednblkx/HAP-ESPHome) - Apple HomeKit for ESPHome - Alpha WIP (4 months ago)
 - [AppForce1/lilygo-t5-47-plus-esphome](https://github.com/AppForce1/lilygo-t5-47-plus-esphome) -  (4 months ago)
@@ -56,7 +57,6 @@
 - [lucide-icons/lucide](https://github.com/lucide-icons/lucide) - Beautiful &amp; consistent icon toolkit made by the community. Open-source project and a fork of Feather Icons. (8 months ago)
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere. (9 months ago)
 - [MisterCalvin/supermicro-java-ikvm](https://github.com/MisterCalvin/supermicro-java-ikvm) - A container for connecting to Supermicro Java based iKVM viewers via a web browser (1 year ago)
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (1 year ago)
 
 #### 👯 Check out some of my recent followers
 
