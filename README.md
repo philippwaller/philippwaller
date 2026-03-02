@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.0b1](https://github.com/home-assistant/core/releases/tag/2026.3.0b1), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260226.0](https://github.com/home-assistant/frontend/releases/tag/20260226.0), 3 days ago) - :lollipop: Frontend for Home Assistant
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.2.25.165736](https://github.com/XKNX/knx-frontend/releases/tag/2026.2.25.165736), 4 days ago) - Home Assistant Panel for managing the KNX integration
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.0b1](https://github.com/home-assistant/core/releases/tag/2026.3.0b1), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260226.0](https://github.com/home-assistant/frontend/releases/tag/20260226.0), 4 days ago) - :lollipop: Frontend for Home Assistant
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.2.25.165736](https://github.com/XKNX/knx-frontend/releases/tag/2026.2.25.165736), 5 days ago) - Home Assistant Panel for managing the KNX integration
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 2 weeks ago) - The purpose of this role is to add users and groups on your system.
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 6 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support (5 days ago)
+- [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support (6 days ago)
 - [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple. (2 weeks ago)
 - [rednblkx/HAP-ESPHome](https://github.com/rednblkx/HAP-ESPHome) - Apple HomeKit for ESPHome - Alpha WIP (4 months ago)
 - [AppForce1/lilygo-t5-47-plus-esphome](https://github.com/AppForce1/lilygo-t5-47-plus-esphome) -  (4 months ago)
