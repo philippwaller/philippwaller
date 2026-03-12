@@ -20,7 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.1](https://github.com/home-assistant/core/releases/tag/2026.3.1), 5 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.1](https://github.com/home-assistant/core/releases/tag/2026.3.1), 6 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260304.0](https://github.com/home-assistant/frontend/releases/tag/20260304.0), 1 week ago) - :lollipop: Frontend for Home Assistant
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.3.2.183756](https://github.com/XKNX/knx-frontend/releases/tag/2026.3.2.183756), 1 week ago) - Home Assistant Panel for managing the KNX integration
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 3 weeks ago) - The purpose of this role is to add users and groups on your system.
@@ -48,7 +48,7 @@
 
 #### ⭐ Recent Stars
 
-- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (6 days ago)
+- [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (1 week ago)
 - [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support (2 weeks ago)
 - [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple. (3 weeks ago)
 - [rednblkx/HAP-ESPHome](https://github.com/rednblkx/HAP-ESPHome) - Apple HomeKit for ESPHome - Alpha WIP (4 months ago)
