@@ -61,10 +61,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [xenawitch](https://github.com/xenawitch)
-- [yuvisevia](https://github.com/yuvisevia)
-- [cecilcroc](https://github.com/cecilcroc)
-- [janemarks](https://github.com/janemarks)
-- [kanachiyu](https://github.com/kanachiyu)
+- [serhatbula](https://github.com/serhatbula)
+- [Fredhusne](https://github.com/Fredhusne)
+- [S4IL21](https://github.com/S4IL21)
+- [rodrigogalura](https://github.com/rodrigogalura)
+- [lorde-enigma](https://github.com/lorde-enigma)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
