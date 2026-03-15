@@ -61,10 +61,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [serhatbula](https://github.com/serhatbula)
-- [Fredhusne](https://github.com/Fredhusne)
-- [S4IL21](https://github.com/S4IL21)
-- [rodrigogalura](https://github.com/rodrigogalura)
-- [lorde-enigma](https://github.com/lorde-enigma)
+- [tenrukayaba](https://github.com/tenrukayaba)
+- [nueryn](https://github.com/nueryn)
+- [moereira](https://github.com/moereira)
+- [lunehorb](https://github.com/lunehorb)
+- [juanforde](https://github.com/juanforde)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
