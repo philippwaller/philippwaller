@@ -61,10 +61,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [yobecroc](https://github.com/yobecroc)
+- [vineyuka](https://github.com/vineyuka)
 - [tenrukayaba](https://github.com/tenrukayaba)
 - [nueryn](https://github.com/nueryn)
 - [moereira](https://github.com/moereira)
-- [lunehorb](https://github.com/lunehorb)
-- [juanforde](https://github.com/juanforde)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
