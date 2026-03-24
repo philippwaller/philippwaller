@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260312.1](https://github.com/home-assistant/frontend/releases/tag/20260312.1), today) - :lollipop: Frontend for Home Assistant
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.3](https://github.com/home-assistant/core/releases/tag/2026.3.3), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260312.1](https://github.com/home-assistant/frontend/releases/tag/20260312.1), 1 day ago) - :lollipop: Frontend for Home Assistant
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.3.3](https://github.com/home-assistant/core/releases/tag/2026.3.3), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.3.2.183756](https://github.com/XKNX/knx-frontend/releases/tag/2026.3.2.183756), 3 weeks ago) - Home Assistant Panel for managing the KNX integration
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 1 month ago) - The purpose of this role is to add users and groups on your system.
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 7 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
@@ -50,10 +50,10 @@
 
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 week ago)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (2 weeks ago)
-- [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support (3 weeks ago)
+- [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support (4 weeks ago)
 - [DerDavidBohl/dirigent-spring](https://github.com/DerDavidBohl/dirigent-spring) - Git-powered Docker Compose deployment orchestration made simple. (1 month ago)
 - [rednblkx/HAP-ESPHome](https://github.com/rednblkx/HAP-ESPHome) - Apple HomeKit for ESPHome - Alpha WIP (4 months ago)
-- [AppForce1/lilygo-t5-47-plus-esphome](https://github.com/AppForce1/lilygo-t5-47-plus-esphome) -  (4 months ago)
+- [AppForce1/lilygo-t5-47-plus-esphome](https://github.com/AppForce1/lilygo-t5-47-plus-esphome) -  (5 months ago)
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards (6 months ago)
 - [XKNX/knx-integration](https://github.com/XKNX/knx-integration) - Home Assistant KNX integration proxy repository (7 months ago)
 - [henfri/knx-lens](https://github.com/henfri/knx-lens) - Explore what happens in your KNX System. Consists of a powerful logger and instpector (commandline and web-interface) that is aware of your ETS Project structure (7 months ago)
