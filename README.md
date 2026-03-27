@@ -60,10 +60,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [yobecroc](https://github.com/yobecroc)
-- [vineyuka](https://github.com/vineyuka)
-- [tenrukayaba](https://github.com/tenrukayaba)
-- [nueryn](https://github.com/nueryn)
-- [moereira](https://github.com/moereira)
+- [S4IL21](https://github.com/S4IL21)
+- [rodrigogalura](https://github.com/rodrigogalura)
+- [lorde-enigma](https://github.com/lorde-enigma)
+- [stefankoehne](https://github.com/stefankoehne)
+- [BEPb](https://github.com/BEPb)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
