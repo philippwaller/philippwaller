@@ -60,10 +60,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [BEPb](https://github.com/BEPb)
 - [0xhustlerr](https://github.com/0xhustlerr)
 - [S4IL21](https://github.com/S4IL21)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [sanchezcpp](https://github.com/sanchezcpp)
-- [stefankoehne](https://github.com/stefankoehne)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
