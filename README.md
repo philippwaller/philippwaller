@@ -60,10 +60,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [yulicwan](https://github.com/yulicwan)
 - [benalbano](https://github.com/benalbano)
 - [jackweirds](https://github.com/jackweirds)
 - [yutomiwana](https://github.com/yutomiwana)
 - [yukamanawa](https://github.com/yukamanawa)
-- [BEPb](https://github.com/BEPb)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
