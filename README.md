@@ -63,7 +63,7 @@
 - [yulicwan](https://github.com/yulicwan)
 - [benalbano](https://github.com/benalbano)
 - [jackweirds](https://github.com/jackweirds)
-- [yutomiwana](https://github.com/yutomiwana)
-- [yukamanawa](https://github.com/yukamanawa)
+- [BEPb](https://github.com/BEPb)
+- [0xhustlerr](https://github.com/0xhustlerr)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
