@@ -20,9 +20,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.4.25.155016](https://github.com/XKNX/knx-frontend/releases/tag/2026.4.25.155016), 2 days ago) - Home Assistant Panel for managing the KNX integration
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.4.4](https://github.com/home-assistant/core/releases/tag/2026.4.4), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260325.8](https://github.com/home-assistant/frontend/releases/tag/20260325.8), 3 days ago) - :lollipop: Frontend for Home Assistant
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.4.25.155016](https://github.com/XKNX/knx-frontend/releases/tag/2026.4.25.155016), 3 days ago) - Home Assistant Panel for managing the KNX integration
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.4.4](https://github.com/home-assistant/core/releases/tag/2026.4.4), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260325.8](https://github.com/home-assistant/frontend/releases/tag/20260325.8), 4 days ago) - :lollipop: Frontend for Home Assistant
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 2 months ago) - The purpose of this role is to add users and groups on your system.
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 8 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
@@ -42,7 +42,7 @@
 - [Fix offset miscalculation in certain filter scenarios](https://github.com/XKNX/knx-frontend/pull/255) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (8 months ago)
 - [Group Monitor – New Features, Fixes &amp; Ongoing Refactoring](https://github.com/XKNX/knx-frontend/pull/253) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (8 months ago)
 - [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/251) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (8 months ago)
-- [Replace deprecated ESLint flag to remove warning](https://github.com/XKNX/knx-frontend/pull/250) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (8 months ago)
+- [Replace deprecated ESLint flag to remove warning](https://github.com/XKNX/knx-frontend/pull/250) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (9 months ago)
 - [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/249) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (9 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
@@ -57,7 +57,7 @@
 - [AppForce1/lilygo-t5-47-plus-esphome](https://github.com/AppForce1/lilygo-t5-47-plus-esphome) -  (6 months ago)
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards (7 months ago)
 - [XKNX/knx-integration](https://github.com/XKNX/knx-integration) - Home Assistant KNX integration proxy repository (8 months ago)
-- [henfri/knx-lens](https://github.com/henfri/knx-lens) - Explore what happens in your KNX System. Consists of a powerful logger and instpector (commandline and web-interface) that is aware of your ETS Project structure (8 months ago)
+- [henfri/knx-lens](https://github.com/henfri/knx-lens) - Explore what happens in your KNX System. Consists of a powerful logger and instpector (commandline and web-interface) that is aware of your ETS Project structure (9 months ago)
 
 #### 👯 Check out some of my recent followers
 
