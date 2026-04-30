@@ -20,6 +20,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.4.30.60856](https://github.com/XKNX/knx-frontend/releases/tag/2026.4.30.60856), today) - Home Assistant Panel for managing the KNX integration
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.5.0b0](https://github.com/home-assistant/core/releases/tag/2026.5.0b0), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260429.0](https://github.com/home-assistant/frontend/releases/tag/20260429.0), 1 day ago) - :lollipop: Frontend for Home Assistant
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 2 months ago) - The purpose of this role is to add users and groups on your system.
