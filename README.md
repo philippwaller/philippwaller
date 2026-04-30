@@ -20,8 +20,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.5.0b0](https://github.com/home-assistant/core/releases/tag/2026.5.0b0), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260429.0](https://github.com/home-assistant/frontend/releases/tag/20260429.0), today) - :lollipop: Frontend for Home Assistant
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.5.0b0](https://github.com/home-assistant/core/releases/tag/2026.5.0b0), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260429.0](https://github.com/home-assistant/frontend/releases/tag/20260429.0), 1 day ago) - :lollipop: Frontend for Home Assistant
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 2 months ago) - The purpose of this role is to add users and groups on your system.
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 8 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
@@ -39,7 +39,7 @@
 - [Show only selectable sorting options in filters](https://github.com/XKNX/knx-frontend/pull/256) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (8 months ago)
 - [Update knx-frontend to 2025.8.6.52906](https://github.com/home-assistant/core/pull/150085) on [home-assistant/core](https://github.com/home-assistant/core) (8 months ago)
 - [Fix offset miscalculation in certain filter scenarios](https://github.com/XKNX/knx-frontend/pull/255) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (8 months ago)
-- [Group Monitor – New Features, Fixes &amp; Ongoing Refactoring](https://github.com/XKNX/knx-frontend/pull/253) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (8 months ago)
+- [Group Monitor – New Features, Fixes &amp; Ongoing Refactoring](https://github.com/XKNX/knx-frontend/pull/253) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (9 months ago)
 - [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/251) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (9 months ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/XKNX/knx-frontend/pull/250) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (9 months ago)
 - [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/249) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (9 months ago)
