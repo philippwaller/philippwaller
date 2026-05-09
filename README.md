@@ -47,7 +47,7 @@
 
 #### ⭐ Recent Stars
 
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Uncensored, open-source alternative to AI video platforms — Free, unrestricted AI image &amp; video generation studio with 200&#43; models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. (2 days ago)
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted, open-source alternative to AI video platforms — Free, unrestricted AI image &amp; video generation studio with 200&#43; models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. (2 days ago)
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (1 month ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (1 month ago)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (2 months ago)
