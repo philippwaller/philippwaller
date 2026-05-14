@@ -60,10 +60,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [jkdevcode](https://github.com/jkdevcode)
 - [hidariako](https://github.com/hidariako)
 - [zunelyat](https://github.com/zunelyat)
 - [zowilyhter](https://github.com/zowilyhter)
 - [yupyanyo](https://github.com/yupyanyo)
-- [yolenatch](https://github.com/yolenatch)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
