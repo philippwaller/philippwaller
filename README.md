@@ -47,6 +47,7 @@
 
 #### ⭐ Recent Stars
 
+- [shi-314/esp32-spectra-e6](https://github.com/shi-314/esp32-spectra-e6) - ESP32 Firmware for Spectra E6 Displays (today)
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200&#43; models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. (1 week ago)
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (1 month ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (2 months ago)
@@ -56,7 +57,6 @@
 - [rednblkx/HAP-ESPHome](https://github.com/rednblkx/HAP-ESPHome) - Apple HomeKit for ESPHome - Alpha WIP (6 months ago)
 - [AppForce1/lilygo-t5-47-plus-esphome](https://github.com/AppForce1/lilygo-t5-47-plus-esphome) -  (6 months ago)
 - [thomasloven/lovelace-auto-entities](https://github.com/thomasloven/lovelace-auto-entities) - 🔹Automatically populate the entities-list of lovelace cards (8 months ago)
-- [XKNX/knx-integration](https://github.com/XKNX/knx-integration) - Home Assistant KNX integration proxy repository (9 months ago)
 
 #### 👯 Check out some of my recent followers
 
