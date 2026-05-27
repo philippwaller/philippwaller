@@ -11,6 +11,7 @@
 
 #### 🌱 My latest projects
 
+- [philippwaller/esphome_epaper_spectra6_133](https://github.com/philippwaller/esphome_epaper_spectra6_133) - A ESPHome display component for 13.3″ Spectra 6 e-paper panels.
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
 - [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - My dotfiles library
 - [philippwaller/brewfile](https://github.com/philippwaller/brewfile) - Homebrew packages that I frequently use
