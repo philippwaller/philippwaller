@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [docs: use stable release ref in YAML examples](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/5) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [chore: update pre-commit hooks to latest versions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/3) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: update release-please configuration](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/2) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [migrate injected facts to ansible_facts](https://github.com/robertdebock/ansible-role-users/pull/45) on [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) (5 months ago)
@@ -95,4 +96,3 @@
 - [Add config option &#34;AllowGroups&#34;](https://github.com/robertdebock/ansible-role-openssh/pull/10) on [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) (4 years ago)
 - [Replace &#34;wait_for&#34; by &#34;wait_for_connection&#34; module](https://github.com/robertdebock/ansible-role-reboot/pull/8) on [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) (4 years ago)
 - [Update locale requirements for Debian](https://github.com/robertdebock/ansible-role-locale/pull/7) on [robertdebock/ansible-role-locale](https://github.com/robertdebock/ansible-role-locale) (4 years ago)
-- [Add Internationalization Support ](https://github.com/hassio-addons/app-node-red/pull/1194) on [hassio-addons/app-node-red](https://github.com/hassio-addons/app-node-red) (4 years ago)
