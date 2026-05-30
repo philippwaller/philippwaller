@@ -22,6 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.1.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.1.0), today) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260527.1](https://github.com/home-assistant/frontend/releases/tag/20260527.1), 2 days ago) - :lollipop: Frontend for Home Assistant
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.0b0](https://github.com/home-assistant/core/releases/tag/2026.6.0b0), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 3 months ago) - The purpose of this role is to add users and groups on your system.
@@ -30,6 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add cmake source directory to VSCode settings](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/4) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [feat: readme anchors](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/3) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [migrate injected facts to ansible_facts](https://github.com/robertdebock/ansible-role-users/pull/45) on [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) (5 months ago)
 - [fix deprecated stages](https://github.com/biozz/ansible-pre-commit-hooks/pull/1) on [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) (5 months ago)
 - [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (9 months ago)
@@ -43,8 +46,6 @@
 - [Fix offset miscalculation in certain filter scenarios](https://github.com/XKNX/knx-frontend/pull/255) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (9 months ago)
 - [Group Monitor – New Features, Fixes &amp; Ongoing Refactoring](https://github.com/XKNX/knx-frontend/pull/253) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (10 months ago)
 - [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/251) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (10 months ago)
-- [Replace deprecated ESLint flag to remove warning](https://github.com/XKNX/knx-frontend/pull/250) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (10 months ago)
-- [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/249) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (10 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
@@ -62,10 +63,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [abdulrdeveloper](https://github.com/abdulrdeveloper)
 - [0xhustlerr](https://github.com/0xhustlerr)
 - [S4IL21](https://github.com/S4IL21)
 - [rodrigogalura](https://github.com/rodrigogalura)
 - [sanchezcpp](https://github.com/sanchezcpp)
+- [stefankoehne](https://github.com/stefankoehne)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
