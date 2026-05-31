@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [chore(scripts): replace bootstrap-venv.sh with unified setup script](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/7) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [docs(readme): add release-please markers](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/6) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [docs: use stable release ref in YAML examples](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/5) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [chore: update pre-commit hooks to latest versions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/3) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
@@ -95,4 +96,3 @@
 - [Add option to assign existing users to the docker privileged user group.](https://github.com/robertdebock/ansible-role-docker_ce/pull/12) on [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) (4 years ago)
 - [Add option &#39;unauthorized_keys&#39; to remove existing ssh keys.](https://github.com/robertdebock/ansible-role-users/pull/19) on [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) (4 years ago)
 - [Add config option &#34;AllowGroups&#34;](https://github.com/robertdebock/ansible-role-openssh/pull/10) on [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) (4 years ago)
-- [Replace &#34;wait_for&#34; by &#34;wait_for_connection&#34; module](https://github.com/robertdebock/ansible-role-reboot/pull/8) on [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) (4 years ago)
