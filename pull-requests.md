@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [fix(controller): harden low-level transfer guards and log invalid inputs](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/8) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [chore(scripts): replace bootstrap-venv.sh with unified setup script](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/7) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [docs(readme): add release-please markers](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/6) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [docs: use stable release ref in YAML examples](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/5) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
@@ -95,4 +96,3 @@
 - [Add option to assign existing users to the privileged docker user group.](https://github.com/robertdebock/ansible-role-docker/pull/2) on [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) (4 years ago)
 - [Add option to assign existing users to the docker privileged user group.](https://github.com/robertdebock/ansible-role-docker_ce/pull/12) on [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) (4 years ago)
 - [Add option &#39;unauthorized_keys&#39; to remove existing ssh keys.](https://github.com/robertdebock/ansible-role-users/pull/19) on [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) (4 years ago)
-- [Add config option &#34;AllowGroups&#34;](https://github.com/robertdebock/ansible-role-openssh/pull/10) on [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) (4 years ago)
