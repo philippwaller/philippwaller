@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [fix: properly override clear() to fix black screen on auto-clear](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/10) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci(release): provide explicit access token to release workflow](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/9) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [fix(controller): harden low-level transfer guards and log invalid inputs](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/8) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [chore(scripts): replace bootstrap-venv.sh with unified setup script](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/7) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
@@ -95,4 +96,3 @@
 - [fix: warm up package cache if Python is already installed](https://github.com/robertdebock/ansible-role-bootstrap/pull/57) on [robertdebock/ansible-role-bootstrap](https://github.com/robertdebock/ansible-role-bootstrap) (4 years ago)
 - [docs: update readme file](https://github.com/wallernetwork/docker-genisoimage/pull/1) on [wallernetwork/docker-genisoimage](https://github.com/wallernetwork/docker-genisoimage) (4 years ago)
 - [Add option to assign existing users to the privileged docker user group.](https://github.com/robertdebock/ansible-role-docker/pull/2) on [robertdebock/ansible-role-docker](https://github.com/robertdebock/ansible-role-docker) (4 years ago)
-- [Add option to assign existing users to the docker privileged user group.](https://github.com/robertdebock/ansible-role-docker_ce/pull/12) on [robertdebock/ansible-role-docker_ce](https://github.com/robertdebock/ansible-role-docker_ce) (4 years ago)
