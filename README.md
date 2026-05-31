@@ -22,18 +22,19 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.1.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.1.0), today) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260527.1](https://github.com/home-assistant/frontend/releases/tag/20260527.1), 2 days ago) - :lollipop: Frontend for Home Assistant
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.0b0](https://github.com/home-assistant/core/releases/tag/2026.6.0b0), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.1.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.1.0), 1 day ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260527.1](https://github.com/home-assistant/frontend/releases/tag/20260527.1), 3 days ago) - :lollipop: Frontend for Home Assistant
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.0b0](https://github.com/home-assistant/core/releases/tag/2026.6.0b0), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 3 months ago) - The purpose of this role is to add users and groups on your system.
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 9 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
 #### 🔨 My recent Pull Requests
 
-- [docs: use stable release ref in YAML examples](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/5) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [chore: update pre-commit hooks to latest versions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/3) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [ci: update release-please configuration](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/2) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [docs(readme): add release-please markers](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/6) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [docs: use stable release ref in YAML examples](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/5) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [chore: update pre-commit hooks to latest versions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/3) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [ci: update release-please configuration](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/2) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [migrate injected facts to ansible_facts](https://github.com/robertdebock/ansible-role-users/pull/45) on [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) (5 months ago)
 - [fix deprecated stages](https://github.com/biozz/ansible-pre-commit-hooks/pull/1) on [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) (5 months ago)
 - [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (9 months ago)
@@ -45,7 +46,6 @@
 - [Show only selectable sorting options in filters](https://github.com/XKNX/knx-frontend/pull/256) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (9 months ago)
 - [Update knx-frontend to 2025.8.6.52906](https://github.com/home-assistant/core/pull/150085) on [home-assistant/core](https://github.com/home-assistant/core) (9 months ago)
 - [Fix offset miscalculation in certain filter scenarios](https://github.com/XKNX/knx-frontend/pull/255) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (9 months ago)
-- [Group Monitor – New Features, Fixes &amp; Ongoing Refactoring](https://github.com/XKNX/knx-frontend/pull/253) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (10 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars

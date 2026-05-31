@@ -1,8 +1,9 @@
 #### 🔨 My recent Pull Requests
 
-- [docs: use stable release ref in YAML examples](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/5) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [chore: update pre-commit hooks to latest versions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/3) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [ci: update release-please configuration](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/2) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [docs(readme): add release-please markers](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/6) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [docs: use stable release ref in YAML examples](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/5) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [chore: update pre-commit hooks to latest versions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/3) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [ci: update release-please configuration](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/2) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [migrate injected facts to ansible_facts](https://github.com/robertdebock/ansible-role-users/pull/45) on [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) (5 months ago)
 - [fix deprecated stages](https://github.com/biozz/ansible-pre-commit-hooks/pull/1) on [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) (5 months ago)
 - [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (9 months ago)
@@ -95,4 +96,3 @@
 - [Add option &#39;unauthorized_keys&#39; to remove existing ssh keys.](https://github.com/robertdebock/ansible-role-users/pull/19) on [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) (4 years ago)
 - [Add config option &#34;AllowGroups&#34;](https://github.com/robertdebock/ansible-role-openssh/pull/10) on [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) (4 years ago)
 - [Replace &#34;wait_for&#34; by &#34;wait_for_connection&#34; module](https://github.com/robertdebock/ansible-role-reboot/pull/8) on [robertdebock/ansible-role-reboot](https://github.com/robertdebock/ansible-role-reboot) (4 years ago)
-- [Update locale requirements for Debian](https://github.com/robertdebock/ansible-role-locale/pull/7) on [robertdebock/ansible-role-locale](https://github.com/robertdebock/ansible-role-locale) (4 years ago)
