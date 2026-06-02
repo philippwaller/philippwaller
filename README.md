@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: add ESPHome version regression checks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/13) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [chore(main): release 0.1.2](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/12) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
 - [docs: improve quick start guide and clarify component import](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/11) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
 - [fix: properly override clear() to fix black screen on auto-clear](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/10) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
@@ -46,7 +47,6 @@
 - [fix deprecated stages](https://github.com/biozz/ansible-pre-commit-hooks/pull/1) on [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) (5 months ago)
 - [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (9 months ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (9 months ago)
-- [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (9 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
