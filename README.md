@@ -22,7 +22,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.0b4](https://github.com/home-assistant/core/releases/tag/2026.6.0b4), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.0](https://github.com/home-assistant/core/releases/tag/2026.6.0), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260527.4](https://github.com/home-assistant/frontend/releases/tag/20260527.4), today) - :lollipop: Frontend for Home Assistant
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.6.1.213802](https://github.com/XKNX/knx-frontend/releases/tag/2026.6.1.213802), 2 days ago) - Home Assistant Panel for managing the KNX integration
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.1.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.1.1), 3 days ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
