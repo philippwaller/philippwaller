@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [test: add C&#43;&#43; benchmarks and CI integration with Bencher](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/15) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [perf: optimize image draw throughput](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/14) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: add ESPHome version regression checks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/13) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [chore(main): release 0.1.2](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/12) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
@@ -95,4 +96,3 @@
 - [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/3) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
 - [ci: refactor Kubernetes version update workflow](https://github.com/philippwaller/helm-charts/pull/2) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
 - [ci: implement continuous integration pipeline](https://github.com/philippwaller/helm-charts/pull/1) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
-- [Add support for common package managers](https://github.com/robertdebock/ansible-role-update_package_cache/pull/1) on [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) (4 years ago)
