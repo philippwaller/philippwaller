@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [perf: optimize image draw throughput](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/14) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: add ESPHome version regression checks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/13) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [chore(main): release 0.1.2](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/12) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
 - [docs: improve quick start guide and clarify component import](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/11) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
@@ -95,4 +96,3 @@
 - [ci: refactor Kubernetes version update workflow](https://github.com/philippwaller/helm-charts/pull/2) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
 - [ci: implement continuous integration pipeline](https://github.com/philippwaller/helm-charts/pull/1) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
 - [Add support for common package managers](https://github.com/robertdebock/ansible-role-update_package_cache/pull/1) on [robertdebock/ansible-role-update_package_cache](https://github.com/robertdebock/ansible-role-update_package_cache) (4 years ago)
-- [feat: add option to restart the openssh service immediately](https://github.com/robertdebock/ansible-role-openssh/pull/11) on [robertdebock/ansible-role-openssh](https://github.com/robertdebock/ansible-role-openssh) (4 years ago)

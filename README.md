@@ -22,8 +22,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.0b4](https://github.com/home-assistant/core/releases/tag/2026.6.0b4), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260527.4](https://github.com/home-assistant/frontend/releases/tag/20260527.4), today) - :lollipop: Frontend for Home Assistant
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.0b3](https://github.com/home-assistant/core/releases/tag/2026.6.0b3), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.6.1.213802](https://github.com/XKNX/knx-frontend/releases/tag/2026.6.1.213802), 2 days ago) - Home Assistant Panel for managing the KNX integration
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.1.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.1.1), 3 days ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 3 months ago) - The purpose of this role is to add users and groups on your system.
@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [perf: optimize image draw throughput](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/14) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: add ESPHome version regression checks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/13) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [chore(main): release 0.1.2](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/12) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
 - [docs: improve quick start guide and clarify component import](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/11) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
@@ -46,7 +47,6 @@
 - [migrate injected facts to ansible_facts](https://github.com/robertdebock/ansible-role-users/pull/45) on [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) (5 months ago)
 - [fix deprecated stages](https://github.com/biozz/ansible-pre-commit-hooks/pull/1) on [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) (5 months ago)
 - [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (9 months ago)
-- [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (9 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
