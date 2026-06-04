@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [chore(main): release 0.1.3](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/35) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: rename workflow from CodSpeed to Benchmarks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/34) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [test: expand image rendering benchmark coverage](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/33) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: disable renovate update groups](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/26) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
@@ -95,4 +96,3 @@
 - [docs: update readme](https://github.com/philippwaller/helm-charts/pull/12) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
 - [refactor: update list of supported k8s version](https://github.com/philippwaller/helm-charts/pull/11) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
 - [feat: add k3s-traefik-config chart](https://github.com/philippwaller/helm-charts/pull/10) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
-- [feat: add helm-controller chart](https://github.com/philippwaller/helm-charts/pull/9) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
