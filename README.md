@@ -32,6 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore: disable esphome updates in Renovate configuration](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/18) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [chore: replace Dependabot with Renovate](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/17) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: run Bencher on manual dispatch](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/16) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [test: add C&#43;&#43; benchmarks and CI integration with Bencher](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/15) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [perf: optimize image draw throughput](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/14) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
@@ -45,8 +47,6 @@
 - [docs(readme): add release-please markers](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/6) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (5 days ago)
 - [docs: use stable release ref in YAML examples](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/5) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (5 days ago)
 - [chore: update pre-commit hooks to latest versions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/3) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (5 days ago)
-- [ci: update release-please configuration](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/2) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (5 days ago)
-- [migrate injected facts to ansible_facts](https://github.com/robertdebock/ansible-role-users/pull/45) on [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) (5 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars

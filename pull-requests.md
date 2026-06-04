@@ -1,5 +1,7 @@
 #### 🔨 My recent Pull Requests
 
+- [chore: disable esphome updates in Renovate configuration](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/18) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [chore: replace Dependabot with Renovate](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/17) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: run Bencher on manual dispatch](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/16) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [test: add C&#43;&#43; benchmarks and CI integration with Bencher](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/15) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [perf: optimize image draw throughput](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/14) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
@@ -94,5 +96,3 @@
 - [feat: add external-service helm chart](https://github.com/philippwaller/helm-charts/pull/6) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
 - [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/5) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
 - [feat: add inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/4) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
-- [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/3) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
-- [ci: refactor Kubernetes version update workflow](https://github.com/philippwaller/helm-charts/pull/2) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
