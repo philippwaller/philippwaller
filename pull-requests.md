@@ -1,5 +1,7 @@
 #### 🔨 My recent Pull Requests
 
+- [ci: disable renovate update groups](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/26) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [ci: preserve ESPHome-compatible dependency ranges](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/25) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: remove bencher](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/20) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [chore: disable esphome updates in Renovate configuration](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/18) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [chore: replace Dependabot with Renovate](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/17) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
@@ -94,5 +96,3 @@
 - [feat: add helm-controller chart](https://github.com/philippwaller/helm-charts/pull/9) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
 - [ci: reference reusable workflows via local path](https://github.com/philippwaller/helm-charts/pull/8) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
 - [ci: fix template generation for conformity check](https://github.com/philippwaller/helm-charts/pull/7) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
-- [feat: add external-service helm chart](https://github.com/philippwaller/helm-charts/pull/6) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
-- [build: update list of supported Kubernetes versions](https://github.com/philippwaller/helm-charts/pull/5) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
