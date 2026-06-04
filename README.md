@@ -22,16 +22,18 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.1.2](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.1.2), today) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.0](https://github.com/home-assistant/core/releases/tag/2026.6.0), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260527.4](https://github.com/home-assistant/frontend/releases/tag/20260527.4), 1 day ago) - :lollipop: Frontend for Home Assistant
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.6.1.213802](https://github.com/XKNX/knx-frontend/releases/tag/2026.6.1.213802), 3 days ago) - Home Assistant Panel for managing the KNX integration
-- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.1.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.1.1), 4 days ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 3 months ago) - The purpose of this role is to add users and groups on your system.
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 9 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
 #### 🔨 My recent Pull Requests
 
+- [ci: rename workflow from CodSpeed to Benchmarks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/34) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [test: expand image rendering benchmark coverage](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/33) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: disable renovate update groups](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/26) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: preserve ESPHome-compatible dependency ranges](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/25) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: remove bencher](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/20) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
@@ -45,8 +47,6 @@
 - [docs: improve quick start guide and clarify component import](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/11) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
 - [fix: properly override clear() to fix black screen on auto-clear](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/10) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
 - [ci(release): provide explicit access token to release workflow](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/9) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
-- [fix(controller): harden low-level transfer guards and log invalid inputs](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/8) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
-- [chore(scripts): replace bootstrap-venv.sh with unified setup script](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/7) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
