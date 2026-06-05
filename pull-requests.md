@@ -1,5 +1,7 @@
 #### 🔨 My recent Pull Requests
 
+- [ci: enable autoclosing for renovate dependency dashboard](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/40) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [perf: inline color_to_code function for optimized pixel mapping](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/39) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [chore: add shared AGENTS.md instructions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/38) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [perf: reduce draw_absolute_pixel_internal overhead in hot path](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/37) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [perf: optimize pixel writing and add benchmarks for draw pipeline](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/36) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
@@ -94,5 +96,3 @@
 - [feat: evaluate .ignore files during the change detection process](https://github.com/helm/chart-testing/pull/411) on [helm/chart-testing](https://github.com/helm/chart-testing) (4 years ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/18) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
 - [ci: fix broken pipeline](https://github.com/philippwaller/helm-charts/pull/17) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
-- [fix(external-service): bump chart version](https://github.com/philippwaller/helm-charts/pull/15) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
-- [ci: refactor integration pipeline](https://github.com/philippwaller/helm-charts/pull/13) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
