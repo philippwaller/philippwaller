@@ -6,9 +6,9 @@
 - [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) - A collection of pre-commit hooks, which are handy when using Ansible or Ansible Vault encryption. (5 months ago)
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) - The purpose of this role is to add users and groups on your system. (5 months ago)
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (9 months ago)
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (9 months ago)
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (9 months ago)
-- [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) - Convert voluptuous schemas to JSON (internal use of HA only) (11 months ago)
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (10 months ago)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (10 months ago)
+- [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) - Convert voluptuous schemas to JSON (internal use of HA only) (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -22,36 +22,36 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.1.2](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.1.2), today) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.0](https://github.com/home-assistant/core/releases/tag/2026.6.0), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260527.4](https://github.com/home-assistant/frontend/releases/tag/20260527.4), 1 day ago) - :lollipop: Frontend for Home Assistant
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.6.1.213802](https://github.com/XKNX/knx-frontend/releases/tag/2026.6.1.213802), 3 days ago) - Home Assistant Panel for managing the KNX integration
+- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.1.2](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.1.2), 1 day ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.0](https://github.com/home-assistant/core/releases/tag/2026.6.0), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260527.4](https://github.com/home-assistant/frontend/releases/tag/20260527.4), 2 days ago) - :lollipop: Frontend for Home Assistant
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.6.1.213802](https://github.com/XKNX/knx-frontend/releases/tag/2026.6.1.213802), 4 days ago) - Home Assistant Panel for managing the KNX integration
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 3 months ago) - The purpose of this role is to add users and groups on your system.
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 9 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
 #### 🔨 My recent Pull Requests
 
-- [chore(main): release 0.1.3](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/35) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [ci: rename workflow from CodSpeed to Benchmarks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/34) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [test: expand image rendering benchmark coverage](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/33) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [ci: disable renovate update groups](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/26) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [ci: preserve ESPHome-compatible dependency ranges](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/25) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [ci: remove bencher](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/20) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [chore: disable esphome updates in Renovate configuration](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/18) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [chore: replace Dependabot with Renovate](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/17) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [ci: run Bencher on manual dispatch](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/16) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [test: add C&#43;&#43; benchmarks and CI integration with Bencher](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/15) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
-- [perf: optimize image draw throughput](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/14) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
-- [ci: add ESPHome version regression checks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/13) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
-- [chore(main): release 0.1.2](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/12) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
-- [docs: improve quick start guide and clarify component import](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/11) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
-- [fix: properly override clear() to fix black screen on auto-clear](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/10) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
+- [chore: add shared AGENTS.md instructions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/38) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [perf: reduce draw_absolute_pixel_internal overhead in hot path](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/37) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [perf: optimize pixel writing and add benchmarks for draw pipeline](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/36) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [chore(main): release 0.1.3](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/35) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [ci: rename workflow from CodSpeed to Benchmarks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/34) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [test: expand image rendering benchmark coverage](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/33) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [ci: disable renovate update groups](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/26) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [ci: preserve ESPHome-compatible dependency ranges](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/25) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [ci: remove bencher](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/20) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [chore: disable esphome updates in Renovate configuration](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/18) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [chore: replace Dependabot with Renovate](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/17) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [ci: run Bencher on manual dispatch](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/16) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [test: add C&#43;&#43; benchmarks and CI integration with Bencher](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/15) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
+- [perf: optimize image draw throughput](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/14) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
+- [ci: add ESPHome version regression checks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/13) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
 
-- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems. (1 week ago)
+- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems. (2 weeks ago)
 - [OpenDisplay/Firmware](https://github.com/OpenDisplay/Firmware) - Open source display firmware for the NRF52840 and ESP32  (2 weeks ago)
 - [shi-314/esp32-spectra-e6](https://github.com/shi-314/esp32-spectra-e6) - ESP32 Firmware for Spectra E6 Displays (2 weeks ago)
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200&#43; models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. (4 weeks ago)
