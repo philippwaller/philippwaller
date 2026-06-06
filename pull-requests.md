@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [fix(display): keep ESPHome responsive during long draw operations](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/47) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: remove pre-push hooks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/46) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: limit pull request benchmarks to relevant file changes](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/45) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [docs(readme): fix formatting and link consistency](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/44) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
@@ -96,4 +97,3 @@
 - [Add field &#34;unique_id&#34; to &#34;config/entity_registry/list&#34; websocket response](https://github.com/home-assistant/core/pull/77476) on [home-assistant/core](https://github.com/home-assistant/core) (3 years ago)
 - [Table: Catch exception if multiSortMeta array is empty](https://github.com/primefaces/primeng/pull/11869) on [primefaces/primeng](https://github.com/primefaces/primeng) (3 years ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/23) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)
-- [ci: fix release pipeline by skip existing releases](https://github.com/philippwaller/helm-charts/pull/21) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (4 years ago)

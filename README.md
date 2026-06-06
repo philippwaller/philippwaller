@@ -32,6 +32,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(display): keep ESPHome responsive during long draw operations](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/47) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: remove pre-push hooks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/46) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: limit pull request benchmarks to relevant file changes](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/45) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [docs(readme): fix formatting and link consistency](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/44) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
@@ -46,7 +47,6 @@
 - [chore(main): release 0.1.3](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/35) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
 - [ci: rename workflow from CodSpeed to Benchmarks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/34) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
 - [test: expand image rendering benchmark coverage](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/33) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
-- [ci: disable renovate update groups](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/26) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
