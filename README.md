@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (today)
+- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (1 day ago)
 - [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) - A collection of pre-commit hooks, which are handy when using Ansible or Ansible Vault encryption. (5 months ago)
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) - The purpose of this role is to add users and groups on your system. (5 months ago)
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (9 months ago)
@@ -22,38 +22,38 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260527.5](https://github.com/home-assistant/frontend/releases/tag/20260527.5), today) - :lollipop: Frontend for Home Assistant
-- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.2.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.2.0), today) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.1](https://github.com/home-assistant/core/releases/tag/2026.6.1), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.6.1.213802](https://github.com/XKNX/knx-frontend/releases/tag/2026.6.1.213802), 6 days ago) - Home Assistant Panel for managing the KNX integration
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260527.5](https://github.com/home-assistant/frontend/releases/tag/20260527.5), 1 day ago) - :lollipop: Frontend for Home Assistant
+- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.2.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.2.0), 1 day ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.1](https://github.com/home-assistant/core/releases/tag/2026.6.1), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.6.1.213802](https://github.com/XKNX/knx-frontend/releases/tag/2026.6.1.213802), 1 week ago) - Home Assistant Panel for managing the KNX integration
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 3 months ago) - The purpose of this role is to add users and groups on your system.
 - [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) ([2.7.0](https://github.com/home-assistant-libs/voluptuous-serialize/releases/tag/2.7.0), 9 months ago) - Convert voluptuous schemas to JSON (internal use of HA only)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
 #### 🔨 My recent Pull Requests
 
-- [perf(framebuffer): speed up changed-region detection](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/50) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [ci: keep PR title lint checks from being skipped](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/49) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [feat(display): introduce deep sleep mode with automatic wake-up](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/48) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [fix(display): keep ESPHome responsive during long draw operations](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/47) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
-- [ci: remove pre-push hooks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/46) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
-- [ci: limit pull request benchmarks to relevant file changes](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/45) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
-- [docs(readme): fix formatting and link consistency](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/44) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
-- [ci: skip PR title lint for body edits](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/43) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
-- [docs(readme): add board package instructions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/42) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
-- [chore(python): centralize runtime version](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/41) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
-- [ci: enable autoclosing for renovate dependency dashboard](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/40) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
-- [perf: inline color_to_code function for optimized pixel mapping](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/39) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
-- [chore: add shared AGENTS.md instructions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/38) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
-- [perf: reduce draw_absolute_pixel_internal overhead in hot path](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/37) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
-- [perf: optimize pixel writing and add benchmarks for draw pipeline](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/36) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
+- [perf(framebuffer): speed up changed-region detection](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/50) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [ci: keep PR title lint checks from being skipped](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/49) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [feat(display): introduce deep sleep mode with automatic wake-up](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/48) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [fix(display): keep ESPHome responsive during long draw operations](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/47) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
+- [ci: remove pre-push hooks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/46) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
+- [ci: limit pull request benchmarks to relevant file changes](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/45) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
+- [docs(readme): fix formatting and link consistency](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/44) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
+- [ci: skip PR title lint for body edits](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/43) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
+- [docs(readme): add board package instructions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/42) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
+- [chore(python): centralize runtime version](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/41) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
+- [ci: enable autoclosing for renovate dependency dashboard](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/40) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
+- [perf: inline color_to_code function for optimized pixel mapping](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/39) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
+- [chore: add shared AGENTS.md instructions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/38) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
+- [perf: reduce draw_absolute_pixel_internal overhead in hot path](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/37) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
+- [perf: optimize pixel writing and add benchmarks for draw pipeline](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/36) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
 
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems. (2 weeks ago)
 - [OpenDisplay/Firmware](https://github.com/OpenDisplay/Firmware) - Open source display firmware for the NRF52840 and ESP32  (2 weeks ago)
-- [shi-314/esp32-spectra-e6](https://github.com/shi-314/esp32-spectra-e6) - ESP32 Firmware for Spectra E6 Displays (2 weeks ago)
+- [shi-314/esp32-spectra-e6](https://github.com/shi-314/esp32-spectra-e6) - ESP32 Firmware for Spectra E6 Displays (3 weeks ago)
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200&#43; models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. (1 month ago)
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (2 months ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (2 months ago)
