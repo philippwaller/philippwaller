@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (2 days ago)
+- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (today)
 - [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) - A collection of pre-commit hooks, which are handy when using Ansible or Ansible Vault encryption. (5 months ago)
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) - The purpose of this role is to add users and groups on your system. (5 months ago)
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (9 months ago)
@@ -32,6 +32,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(main): release 0.2.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/53) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [feat(display): expose component version via public API](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/52) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [perf(framebuffer): speed up changed-region detection](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/50) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
 - [ci: keep PR title lint checks from being skipped](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/49) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
 - [feat(display): introduce deep sleep mode with automatic wake-up](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/48) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
@@ -45,8 +47,6 @@
 - [ci: enable autoclosing for renovate dependency dashboard](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/40) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
 - [perf: inline color_to_code function for optimized pixel mapping](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/39) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
 - [chore: add shared AGENTS.md instructions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/38) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
-- [perf: reduce draw_absolute_pixel_internal overhead in hot path](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/37) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
-- [perf: optimize pixel writing and add benchmarks for draw pipeline](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/36) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (5 days ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars

@@ -1,5 +1,7 @@
 #### 🔨 My recent Pull Requests
 
+- [chore(main): release 0.2.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/53) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [feat(display): expose component version via public API](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/52) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [perf(framebuffer): speed up changed-region detection](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/50) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
 - [ci: keep PR title lint checks from being skipped](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/49) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
 - [feat(display): introduce deep sleep mode with automatic wake-up](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/48) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
@@ -95,5 +97,3 @@
 - [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
 - [refactor: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/30) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
 - [build: update list of supported kubernetes versions](https://github.com/philippwaller/helm-charts/pull/28) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
-- [ci: update supported k8s versions](https://github.com/philippwaller/helm-charts/pull/27) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
-- [ci: update node version](https://github.com/philippwaller/helm-charts/pull/26) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
