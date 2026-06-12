@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [refactor(display)!: align public API with refresh terminology](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/58) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [chore(main): release 0.3.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/57) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [fix(display)!: make clear only fill the framebuffer](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/55) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
 - [feat: add optional update check package](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/54) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
@@ -45,7 +46,6 @@
 - [docs(readme): fix formatting and link consistency](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/44) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (6 days ago)
 - [ci: skip PR title lint for body edits](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/43) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (6 days ago)
 - [docs(readme): add board package instructions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/42) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (6 days ago)
-- [chore(python): centralize runtime version](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/41) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (6 days ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars

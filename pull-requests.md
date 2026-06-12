@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [refactor(display)!: align public API with refresh terminology](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/58) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [chore(main): release 0.3.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/57) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [fix(display)!: make clear only fill the framebuffer](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/55) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
 - [feat: add optional update check package](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/54) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
@@ -97,4 +98,3 @@
 - [ci: refactor pipeline](https://github.com/philippwaller/helm-charts/pull/39) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
 - [feat: update inadyn helm chart](https://github.com/philippwaller/helm-charts/pull/38) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
 - [fix: change dependabot config file name](https://github.com/philippwaller/helm-charts/pull/32) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
-- [feat: add dependabot configuration](https://github.com/philippwaller/helm-charts/pull/31) on [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) (3 years ago)
