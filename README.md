@@ -8,7 +8,6 @@
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (9 months ago)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (10 months ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (10 months ago)
-- [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) - Convert voluptuous schemas to JSON (internal use of HA only) (1 year ago)
 
 #### 🌱 My latest projects
 
@@ -63,10 +62,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [BEPb](https://github.com/BEPb)
-- [0xhustlerr](https://github.com/0xhustlerr)
-- [S4IL21](https://github.com/S4IL21)
-- [rodrigogalura](https://github.com/rodrigogalura)
-- [sanchezcpp](https://github.com/sanchezcpp)
+- [blegdor](https://github.com/blegdor)
+- [devycyan](https://github.com/devycyan)
+- [hyuntayo](https://github.com/hyuntayo)
+- [kerryjanes](https://github.com/kerryjanes)
+- [annaveth](https://github.com/annaveth)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
