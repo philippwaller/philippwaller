@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (5 days ago)
+- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (today)
 - [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) - A collection of pre-commit hooks, which are handy when using Ansible or Ansible Vault encryption. (5 months ago)
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) - The purpose of this role is to add users and groups on your system. (5 months ago)
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) - :lollipop: Frontend for Home Assistant (9 months ago)
@@ -30,8 +30,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [ci: include ESPHome prereleases in PR compatibility checks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/62) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [refactor(display)!: align public API with refresh terminology](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/58) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
-- [chore(main): release 0.3.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/57) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
+- [chore(main): release 0.4.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/57) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 days ago)
 - [fix(display)!: make clear only fill the framebuffer](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/55) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (6 days ago)
 - [feat: add optional update check package](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/54) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (6 days ago)
 - [chore(main): release 0.3.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/53) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (6 days ago)
@@ -44,7 +45,6 @@
 - [ci: limit pull request benchmarks to relevant file changes](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/45) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
 - [docs(readme): fix formatting and link consistency](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/44) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
 - [ci: skip PR title lint for body edits](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/43) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
-- [docs(readme): add board package instructions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/42) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
