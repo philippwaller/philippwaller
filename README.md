@@ -21,6 +21,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.6.23.203726](https://github.com/XKNX/knx-frontend/releases/tag/2026.6.23.203726), today) - Home Assistant Panel for managing the KNX integration
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.6.4](https://github.com/home-assistant/core/releases/tag/2026.6.4), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260527.7](https://github.com/home-assistant/frontend/releases/tag/20260527.7), 4 days ago) - :lollipop: Frontend for Home Assistant
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.3.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.3.0), 2 weeks ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
@@ -61,10 +62,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [filzehoka](https://github.com/filzehoka)
 - [ZengjieRuan](https://github.com/ZengjieRuan)
 - [alejaranda](https://github.com/alejaranda)
 - [BEPb](https://github.com/BEPb)
 - [0xhustlerr](https://github.com/0xhustlerr)
-- [S4IL21](https://github.com/S4IL21)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
