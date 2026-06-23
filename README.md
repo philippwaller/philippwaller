@@ -62,9 +62,9 @@
 #### 👯 Check out some of my recent followers
 
 - [ZengjieRuan](https://github.com/ZengjieRuan)
-- [MarkoJovanovic261183](https://github.com/MarkoJovanovic261183)
 - [Michel66](https://github.com/Michel66)
 - [alejaranda](https://github.com/alejaranda)
 - [blegdor](https://github.com/blegdor)
+- [devycyan](https://github.com/devycyan)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
