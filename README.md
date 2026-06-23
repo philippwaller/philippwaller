@@ -62,9 +62,9 @@
 #### 👯 Check out some of my recent followers
 
 - [ZengjieRuan](https://github.com/ZengjieRuan)
-- [Michel66](https://github.com/Michel66)
 - [alejaranda](https://github.com/alejaranda)
 - [BEPb](https://github.com/BEPb)
 - [0xhustlerr](https://github.com/0xhustlerr)
+- [S4IL21](https://github.com/S4IL21)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
