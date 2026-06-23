@@ -64,7 +64,7 @@
 - [ZengjieRuan](https://github.com/ZengjieRuan)
 - [Michel66](https://github.com/Michel66)
 - [alejaranda](https://github.com/alejaranda)
-- [blegdor](https://github.com/blegdor)
-- [devycyan](https://github.com/devycyan)
+- [BEPb](https://github.com/BEPb)
+- [0xhustlerr](https://github.com/0xhustlerr)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
