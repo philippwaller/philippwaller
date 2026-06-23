@@ -62,10 +62,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [otosmane](https://github.com/otosmane)
 - [filzehoka](https://github.com/filzehoka)
 - [ZengjieRuan](https://github.com/ZengjieRuan)
 - [alejaranda](https://github.com/alejaranda)
 - [BEPb](https://github.com/BEPb)
-- [0xhustlerr](https://github.com/0xhustlerr)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
