@@ -62,10 +62,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [kynaderd](https://github.com/kynaderd)
+- [lynechic](https://github.com/lynechic)
 - [mirainiki](https://github.com/mirainiki)
 - [Wenyveo](https://github.com/Wenyveo)
 - [otosmane](https://github.com/otosmane)
-- [filzehoka](https://github.com/filzehoka)
-- [ZengjieRuan](https://github.com/ZengjieRuan)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
