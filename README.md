@@ -54,7 +54,7 @@
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems. (1 month ago)
 - [OpenDisplay/Firmware](https://github.com/OpenDisplay/Firmware) - Open source display firmware for the NRF52840 and ESP32  (1 month ago)
 - [shi-314/esp32-spectra-e6](https://github.com/shi-314/esp32-spectra-e6) - ESP32 Firmware for Spectra E6 Displays (1 month ago)
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200&#43; models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. (1 month ago)
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200&#43; models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. (1 month ago)
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (3 months ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (3 months ago)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (3 months ago)
