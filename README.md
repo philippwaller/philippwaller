@@ -66,6 +66,6 @@
 - [raviwijerathna1](https://github.com/raviwijerathna1)
 - [kynaderd](https://github.com/kynaderd)
 - [lynechic](https://github.com/lynechic)
-- [mirainiki](https://github.com/mirainiki)
+- [Wenyveo](https://github.com/Wenyveo)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
