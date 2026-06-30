@@ -64,8 +64,8 @@
 
 - [mezentsevs](https://github.com/mezentsevs)
 - [raviwijerathna1](https://github.com/raviwijerathna1)
-- [kynaderd](https://github.com/kynaderd)
-- [lynechic](https://github.com/lynechic)
-- [Wenyveo](https://github.com/Wenyveo)
+- [ZengjieRuan](https://github.com/ZengjieRuan)
+- [alejaranda](https://github.com/alejaranda)
+- [0xhustlerr](https://github.com/0xhustlerr)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
