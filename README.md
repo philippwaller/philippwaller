@@ -61,10 +61,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [uwuncyan](https://github.com/uwuncyan)
+- [yunawyner](https://github.com/yunawyner)
 - [neuslobe](https://github.com/neuslobe)
 - [mezentsevs](https://github.com/mezentsevs)
 - [raviwijerathna1](https://github.com/raviwijerathna1)
-- [ZengjieRuan](https://github.com/ZengjieRuan)
-- [alejaranda](https://github.com/alejaranda)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
