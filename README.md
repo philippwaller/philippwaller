@@ -61,10 +61,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [liliyahoa](https://github.com/liliyahoa)
 - [yoshican](https://github.com/yoshican)
 - [nerihamura](https://github.com/nerihamura)
 - [dokejaker](https://github.com/dokejaker)
 - [arkobyne](https://github.com/arkobyne)
-- [glesmyno](https://github.com/glesmyno)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
