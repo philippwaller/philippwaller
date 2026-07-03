@@ -48,6 +48,7 @@
 
 #### ⭐ Recent Stars
 
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server (today)
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (3 weeks ago)
 - [bitbank2/bb_epaper](https://github.com/bitbank2/bb_epaper) - A frustration-free library for working with all 24-pin eink panels (3 weeks ago)
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems. (1 month ago)
@@ -57,7 +58,6 @@
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (3 months ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (3 months ago)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (4 months ago)
-- [strongtz/i915-sriov-dkms](https://github.com/strongtz/i915-sriov-dkms) - dkms module of Linux i915 driver with SR-IOV support (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
