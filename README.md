@@ -65,7 +65,7 @@
 - [Nai64](https://github.com/Nai64)
 - [Shubh2-0](https://github.com/Shubh2-0)
 - [peterruler](https://github.com/peterruler)
-- [Batool110313](https://github.com/Batool110313)
 - [hidankimi](https://github.com/hidankimi)
+- [yoshican](https://github.com/yoshican)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
