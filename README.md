@@ -64,8 +64,8 @@
 
 - [Nai64](https://github.com/Nai64)
 - [peterruler](https://github.com/peterruler)
-- [hidankimi](https://github.com/hidankimi)
-- [yoshican](https://github.com/yoshican)
-- [nerihamura](https://github.com/nerihamura)
+- [mezentsevs](https://github.com/mezentsevs)
+- [raviwijerathna1](https://github.com/raviwijerathna1)
+- [ZengjieRuan](https://github.com/ZengjieRuan)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
