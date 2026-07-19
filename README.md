@@ -63,9 +63,9 @@
 #### 👯 Check out some of my recent followers
 
 - [Nai64](https://github.com/Nai64)
-- [peterruler](https://github.com/peterruler)
 - [mezentsevs](https://github.com/mezentsevs)
 - [raviwijerathna1](https://github.com/raviwijerathna1)
 - [ZengjieRuan](https://github.com/ZengjieRuan)
+- [0xhustlerr](https://github.com/0xhustlerr)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
