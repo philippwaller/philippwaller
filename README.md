@@ -21,8 +21,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.7.17.104339](https://github.com/XKNX/knx-frontend/releases/tag/2026.7.17.104339), 1 day ago) - Home Assistant Panel for managing the KNX integration
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260624.6](https://github.com/home-assistant/frontend/releases/tag/20260624.6), 2 days ago) - :lollipop: Frontend for Home Assistant
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.7.17.104339](https://github.com/XKNX/knx-frontend/releases/tag/2026.7.17.104339), 2 days ago) - Home Assistant Panel for managing the KNX integration
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260624.6](https://github.com/home-assistant/frontend/releases/tag/20260624.6), 3 days ago) - :lollipop: Frontend for Home Assistant
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.7.2](https://github.com/home-assistant/core/releases/tag/2026.7.2), 1 week ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.4.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.4.0), 2 weeks ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 5 months ago) - The purpose of this role is to add users and groups on your system.
@@ -53,7 +53,7 @@
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (1 month ago)
 - [bitbank2/bb_epaper](https://github.com/bitbank2/bb_epaper) - A frustration-free library for working with all 24-pin eink panels (1 month ago)
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems. (1 month ago)
-- [OpenDisplay/Firmware](https://github.com/OpenDisplay/Firmware) - Open source display firmware for the NRF52840 and ESP32  (1 month ago)
+- [OpenDisplay/Firmware](https://github.com/OpenDisplay/Firmware) - Open source display firmware for the NRF52840 and ESP32  (2 months ago)
 - [shi-314/esp32-spectra-e6](https://github.com/shi-314/esp32-spectra-e6) - ESP32 Firmware for Spectra E6 Displays (2 months ago)
 - [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200&#43; models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. (2 months ago)
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (3 months ago)
