@@ -21,9 +21,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.8.0b5](https://github.com/home-assistant/core/releases/tag/2026.8.0b5), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260729.4](https://github.com/home-assistant/frontend/releases/tag/20260729.4), today) - :lollipop: Frontend for Home Assistant
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.8.2.133643](https://github.com/XKNX/knx-frontend/releases/tag/2026.8.2.133643), 2 days ago) - Home Assistant Panel for managing the KNX integration
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.8.0b5](https://github.com/home-assistant/core/releases/tag/2026.8.0b5), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260729.4](https://github.com/home-assistant/frontend/releases/tag/20260729.4), 1 day ago) - :lollipop: Frontend for Home Assistant
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.8.2.133643](https://github.com/XKNX/knx-frontend/releases/tag/2026.8.2.133643), 3 days ago) - Home Assistant Panel for managing the KNX integration
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.4.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.4.0), 1 month ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 5 months ago) - The purpose of this role is to add users and groups on your system.
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
@@ -43,8 +43,8 @@
 - [perf(framebuffer): speed up changed-region detection](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/50) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 month ago)
 - [ci: keep PR title lint checks from being skipped](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/49) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 month ago)
 - [feat(display): introduce deep sleep mode with automatic wake-up](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/48) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 month ago)
-- [fix(display): keep ESPHome responsive during long draw operations](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/47) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 month ago)
-- [ci: remove pre-push hooks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/46) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 month ago)
+- [fix(display): keep ESPHome responsive during long draw operations](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/47) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
+- [ci: remove pre-push hooks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/46) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
@@ -55,7 +55,7 @@
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems. (2 months ago)
 - [OpenDisplay/Firmware](https://github.com/OpenDisplay/Firmware) - Open source display firmware for the NRF52840 and ESP32  (2 months ago)
 - [shi-314/esp32-spectra-e6](https://github.com/shi-314/esp32-spectra-e6) - ESP32 Firmware for Spectra E6 Displays (2 months ago)
-- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 500&#43; models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. (2 months ago)
+- [Anil-matcha/Open-Generative-AI](https://github.com/Anil-matcha/Open-Generative-AI) - Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 500&#43; models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed. (3 months ago)
 - [visioncortex/vtracer](https://github.com/visioncortex/vtracer) - Raster to Vector Graphics Converter (4 months ago)
 - [msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents) - A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. (4 months ago)
 - [max-sixty/worktrunk](https://github.com/max-sixty/worktrunk) - Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows (5 months ago)
