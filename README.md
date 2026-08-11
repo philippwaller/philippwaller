@@ -58,10 +58,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [badiranssen](https://github.com/badiranssen)
+- [RashidSaeedAlMazrouei18](https://github.com/RashidSaeedAlMazrouei18)
 - [ardaltunel](https://github.com/ardaltunel)
 - [Ali-hey-0](https://github.com/Ali-hey-0)
 - [Nai64](https://github.com/Nai64)
-- [mezentsevs](https://github.com/mezentsevs)
-- [raviwijerathna1](https://github.com/raviwijerathna1)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
