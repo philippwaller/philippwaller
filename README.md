@@ -19,9 +19,9 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260729.6](https://github.com/home-assistant/frontend/releases/tag/20260729.6), 4 days ago) - :lollipop: Frontend for Home Assistant
+- [home-assistant/frontend](https://github.com/home-assistant/frontend) ([20260729.6](https://github.com/home-assistant/frontend/releases/tag/20260729.6), 5 days ago) - :lollipop: Frontend for Home Assistant
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.4.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.4.0), 1 month ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
-- [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 5 months ago) - The purpose of this role is to add users and groups on your system.
+- [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 6 months ago) - The purpose of this role is to add users and groups on your system.
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
 #### 🔨 My recent Pull Requests
@@ -58,10 +58,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ElvinHasanov3d](https://github.com/ElvinHasanov3d)
 - [badiranssen](https://github.com/badiranssen)
 - [RashidSaeedAlMazrouei18](https://github.com/RashidSaeedAlMazrouei18)
 - [ardaltunel](https://github.com/ardaltunel)
 - [Ali-hey-0](https://github.com/Ali-hey-0)
-- [Nai64](https://github.com/Nai64)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
