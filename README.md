@@ -58,10 +58,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [Nisyalz01](https://github.com/Nisyalz01)
 - [Seo-yeonLee](https://github.com/Seo-yeonLee)
 - [9Michael-Cooley](https://github.com/9Michael-Cooley)
 - [KevinWong455](https://github.com/KevinWong455)
 - [ElvinHasanov3d](https://github.com/ElvinHasanov3d)
-- [badiranssen](https://github.com/badiranssen)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
