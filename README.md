@@ -58,10 +58,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [cambot86](https://github.com/cambot86)
+- [nordestediego](https://github.com/nordestediego)
 - [arn-c0de](https://github.com/arn-c0de)
 - [furkan012](https://github.com/furkan012)
 - [Sanghyun-0h](https://github.com/Sanghyun-0h)
-- [boomray](https://github.com/boomray)
-- [luisotakubanda](https://github.com/luisotakubanda)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
