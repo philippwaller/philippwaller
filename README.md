@@ -60,8 +60,8 @@
 
 - [azkaabds](https://github.com/azkaabds)
 - [Nisyalz01](https://github.com/Nisyalz01)
-- [Seo-yeonLee](https://github.com/Seo-yeonLee)
-- [9Michael-Cooley](https://github.com/9Michael-Cooley)
-- [KevinWong455](https://github.com/KevinWong455)
+- [badiranssen](https://github.com/badiranssen)
+- [RashidSaeedAlMazrouei18](https://github.com/RashidSaeedAlMazrouei18)
+- [Ali-hey-0](https://github.com/Ali-hey-0)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
