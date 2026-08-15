@@ -58,10 +58,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [azkaabds](https://github.com/azkaabds)
-- [Nisyalz01](https://github.com/Nisyalz01)
-- [badiranssen](https://github.com/badiranssen)
-- [RashidSaeedAlMazrouei18](https://github.com/RashidSaeedAlMazrouei18)
-- [Ali-hey-0](https://github.com/Ali-hey-0)
+- [arn-c0de](https://github.com/arn-c0de)
+- [furkan012](https://github.com/furkan012)
+- [Sanghyun-0h](https://github.com/Sanghyun-0h)
+- [boomray](https://github.com/boomray)
+- [luisotakubanda](https://github.com/luisotakubanda)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
