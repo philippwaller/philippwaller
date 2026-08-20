@@ -58,10 +58,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [dweatherston11](https://github.com/dweatherston11)
-- [cambot86](https://github.com/cambot86)
-- [nordestediego](https://github.com/nordestediego)
-- [furkan012](https://github.com/furkan012)
-- [Sanghyun-0h](https://github.com/Sanghyun-0h)
+- [Ali-hey-0](https://github.com/Ali-hey-0)
+- [Nai64](https://github.com/Nai64)
+- [mezentsevs](https://github.com/mezentsevs)
+- [raviwijerathna1](https://github.com/raviwijerathna1)
+- [ZengjieRuan](https://github.com/ZengjieRuan)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
