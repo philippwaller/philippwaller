@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [docs(readme): clarify differences to native epaper_spi support](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/97) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [chore(release): use minor bumps for pre-1.0 features](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/96) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [feat: confirm Seeed Studio T133A01 support](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/95) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: add restore-keys fallback for pre-commit hook cache](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/94) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
@@ -7,7 +8,7 @@
 - [fix(display): treat panel content as unknown until compare-mode baseline exists](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/90) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [fix(display): preserve change tracking and previous-frame baseline across sleep()](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/89) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [chore(renovate): group related dependency updates](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/81) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
-- [chore(main): release 0.4.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/77) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
+- [chore(main): release 0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/77) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
 - [feat: add board definition for Good Display ESP32-133C02 revision 2](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/75) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
 - [ci: add release channel selection to release please workflow](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/65) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
 - [ci: include ESPHome prereleases in PR compatibility checks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/62) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
@@ -98,4 +99,3 @@
 - [Add new sensor &#34;Preclimate Status&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/264) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 years ago)
 - [fix: Update README to correct markup](https://github.com/srvaroa/labeler/pull/130) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (2 years ago)
 - [fix: Improve documentation and refactor tests to cover regex with special characters](https://github.com/srvaroa/labeler/pull/129) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (2 years ago)
-- [feat: Add new type condition](https://github.com/srvaroa/labeler/pull/128) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (2 years ago)
