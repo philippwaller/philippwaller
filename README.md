@@ -24,6 +24,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(release): use minor bumps for pre-1.0 features](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/96) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [feat: confirm Seeed Studio T133A01 support](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/95) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: add restore-keys fallback for pre-commit hook cache](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/94) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [docs: register board guide for release updates](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/93) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [fix(display): treat panel content as unknown until compare-mode baseline exists](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/90) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
@@ -37,8 +39,6 @@
 - [chore(main): release 0.4.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/57) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
 - [fix(display)!: make clear only fill the framebuffer](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/55) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
 - [feat: add optional update check package](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/54) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
-- [chore(main): release 0.3.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/53) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
-- [feat(display): expose component version via public API](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/52) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars

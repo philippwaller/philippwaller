@@ -1,5 +1,7 @@
 #### 🔨 My recent Pull Requests
 
+- [chore(release): use minor bumps for pre-1.0 features](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/96) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [feat: confirm Seeed Studio T133A01 support](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/95) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [ci: add restore-keys fallback for pre-commit hook cache](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/94) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [docs: register board guide for release updates](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/93) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [fix(display): treat panel content as unknown until compare-mode baseline exists](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/90) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
@@ -97,5 +99,3 @@
 - [fix: Update README to correct markup](https://github.com/srvaroa/labeler/pull/130) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (2 years ago)
 - [fix: Improve documentation and refactor tests to cover regex with special characters](https://github.com/srvaroa/labeler/pull/129) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (2 years ago)
 - [feat: Add new type condition](https://github.com/srvaroa/labeler/pull/128) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (2 years ago)
-- [feat: Add support for Jinja templates](https://github.com/cgiesche/streamdeck-homeassistant/pull/218) on [cgiesche/streamdeck-homeassistant](https://github.com/cgiesche/streamdeck-homeassistant) (2 years ago)
-- [refactor: update CI workflow](https://github.com/philippwaller/ansible-role-qemu_guest_agent/pull/2) on [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) (2 years ago)
