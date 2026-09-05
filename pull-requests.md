@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [fix(display): preserve pending tracked changes during update](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/101) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [fix(display): preserve changes drawn during refresh](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/100) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [fix(display): track bulk framebuffer changes](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/99) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [fix(display): preserve changes drawn during refresh](https://github.com/jongdesteven/esphome-epaper-spectra6-133/pull/1) on [jongdesteven/esphome-epaper-spectra6-133](https://github.com/jongdesteven/esphome-epaper-spectra6-133) (today)
@@ -98,4 +99,3 @@
 - [Align configuration classes with Home Assistant standards](https://github.com/ReneNulschDE/mbapi2020/pull/270) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 years ago)
 - [Add new switch &#34;Preclimate&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/269) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 years ago)
 - [Remove Sensitive Information from Debug Report](https://github.com/ReneNulschDE/mbapi2020/pull/268) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 years ago)
-- [Update README.md to reflect changes from PR #264](https://github.com/ReneNulschDE/mbapi2020/pull/267) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 years ago)
