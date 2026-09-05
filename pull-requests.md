@@ -1,5 +1,8 @@
 #### 🔨 My recent Pull Requests
 
+- [fix(display): preserve changes drawn during refresh](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/100) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [fix(display): track bulk framebuffer changes](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/99) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [fix(display): preserve changes drawn during refresh](https://github.com/jongdesteven/esphome-epaper-spectra6-133/pull/1) on [jongdesteven/esphome-epaper-spectra6-133](https://github.com/jongdesteven/esphome-epaper-spectra6-133) (today)
 - [fix(display): keep partial refresh flow stable under periodic updates](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/98) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [docs(readme): clarify differences to native epaper_spi support](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/97) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [chore(release): use minor bumps for pre-1.0 features](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/96) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
@@ -96,6 +99,3 @@
 - [Add new switch &#34;Preclimate&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/269) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 years ago)
 - [Remove Sensitive Information from Debug Report](https://github.com/ReneNulschDE/mbapi2020/pull/268) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 years ago)
 - [Update README.md to reflect changes from PR #264](https://github.com/ReneNulschDE/mbapi2020/pull/267) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 years ago)
-- [Add new sensor &#34;Wiper Health&#34;](https://github.com/ReneNulschDE/mbapi2020/pull/265) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 years ago)
-- [Add new sensor &#34;Preclimate Status&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/264) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 years ago)
-- [fix: Update README to correct markup](https://github.com/srvaroa/labeler/pull/130) on [srvaroa/labeler](https://github.com/srvaroa/labeler) (2 years ago)

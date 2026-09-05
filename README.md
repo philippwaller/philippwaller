@@ -24,6 +24,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [fix(display): preserve changes drawn during refresh](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/100) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [fix(display): track bulk framebuffer changes](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/99) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [fix(display): preserve changes drawn during refresh](https://github.com/jongdesteven/esphome-epaper-spectra6-133/pull/1) on [jongdesteven/esphome-epaper-spectra6-133](https://github.com/jongdesteven/esphome-epaper-spectra6-133) (today)
 - [fix(display): keep partial refresh flow stable under periodic updates](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/98) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [docs(readme): clarify differences to native epaper_spi support](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/97) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [chore(release): use minor bumps for pre-1.0 features](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/96) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
@@ -36,9 +39,6 @@
 - [chore(main): release 0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/77) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
 - [feat: add board definition for Good Display ESP32-133C02 revision 2](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/75) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
 - [ci: add release channel selection to release please workflow](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/65) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
-- [ci: include ESPHome prereleases in PR compatibility checks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/62) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
-- [refactor(display)!: align public API with refresh terminology](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/58) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
-- [chore(main): release 0.4.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/57) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
