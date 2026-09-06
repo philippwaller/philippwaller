@@ -25,6 +25,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat(group-monitor): add ETS project upload action to the Group Monitor banner](https://github.com/XKNX/knx-frontend/pull/458) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [feat(group-monitor): create automation from telegram](https://github.com/XKNX/knx-frontend/pull/457) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [fix(display): preserve pending tracked changes during update](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/101) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [fix(display): preserve changes drawn during refresh](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/100) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
@@ -39,7 +40,6 @@
 - [fix(display): treat panel content as unknown until compare-mode baseline exists](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/90) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
 - [fix(display): preserve change tracking and previous-frame baseline across sleep()](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/89) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
 - [chore(renovate): group related dependency updates](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/81) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
-- [chore(main): release 0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/77) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 months ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars

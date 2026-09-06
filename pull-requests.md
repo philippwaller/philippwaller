@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [feat(group-monitor): add ETS project upload action to the Group Monitor banner](https://github.com/XKNX/knx-frontend/pull/458) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [feat(group-monitor): create automation from telegram](https://github.com/XKNX/knx-frontend/pull/457) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [fix(display): preserve pending tracked changes during update](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/101) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
 - [fix(display): preserve changes drawn during refresh](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/100) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
@@ -98,4 +99,3 @@
 - [feat(knx): enable sensor creation via API](https://github.com/home-assistant/core/pull/133979) on [home-assistant/core](https://github.com/home-assistant/core) (2 years ago)
 - [Add german translation for switch entities](https://github.com/ReneNulschDE/mbapi2020/pull/272) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 years ago)
 - [Align configuration classes with Home Assistant standards](https://github.com/ReneNulschDE/mbapi2020/pull/270) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 years ago)
-- [Add new switch &#34;Preclimate&#34; for hybrid and electric vehicles](https://github.com/ReneNulschDE/mbapi2020/pull/269) on [ReneNulschDE/mbapi2020](https://github.com/ReneNulschDE/mbapi2020) (2 years ago)
