@@ -1,5 +1,7 @@
 #### 🔨 My recent Pull Requests
 
+- [chore(main): release 0.5.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/104) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [refactor(update-check): improve reliability and observability](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/103) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [fix(controller): propagate partial cleanup failures](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/102) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [fix(controller): propagate partial cleanup failures](https://github.com/jongdesteven/esphome-epaper-spectra6-133/pull/2) on [jongdesteven/esphome-epaper-spectra6-133](https://github.com/jongdesteven/esphome-epaper-spectra6-133) (today)
 - [feat(group-monitor): add ETS project upload action to the Group Monitor banner](https://github.com/XKNX/knx-frontend/pull/458) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
@@ -97,5 +99,3 @@
 - [Enable KNX sensor setup with a schema-driven approach](https://github.com/home-assistant/core/pull/136293) on [home-assistant/core](https://github.com/home-assistant/core) (2 years ago)
 - [Fix TypeError in convert function when schema is not a class](https://github.com/home-assistant-libs/voluptuous-serialize/pull/140) on [home-assistant-libs/voluptuous-serialize](https://github.com/home-assistant-libs/voluptuous-serialize) (2 years ago)
 - [Add pre-commit hook for pylint](https://github.com/XKNX/xknx/pull/1630) on [XKNX/xknx](https://github.com/XKNX/xknx) (2 years ago)
-- [Add support for exposing and validating sensor-compatible DPT classes](https://github.com/XKNX/xknx/pull/1629) on [XKNX/xknx](https://github.com/XKNX/xknx) (2 years ago)
-- [feat(knx): enable sensor creation via API](https://github.com/home-assistant/core/pull/133979) on [home-assistant/core](https://github.com/home-assistant/core) (2 years ago)

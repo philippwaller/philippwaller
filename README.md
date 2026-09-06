@@ -25,6 +25,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [chore(main): release 0.5.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/104) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [refactor(update-check): improve reliability and observability](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/103) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [fix(controller): propagate partial cleanup failures](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/102) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
 - [fix(controller): propagate partial cleanup failures](https://github.com/jongdesteven/esphome-epaper-spectra6-133/pull/2) on [jongdesteven/esphome-epaper-spectra6-133](https://github.com/jongdesteven/esphome-epaper-spectra6-133) (today)
 - [feat(group-monitor): add ETS project upload action to the Group Monitor banner](https://github.com/XKNX/knx-frontend/pull/458) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
@@ -38,8 +40,6 @@
 - [chore(release): use minor bumps for pre-1.0 features](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/96) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
 - [feat: confirm Seeed Studio T133A01 support](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/95) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
 - [ci: add restore-keys fallback for pre-commit hook cache](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/94) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
-- [docs: register board guide for release updates](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/93) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
-- [fix(display): treat panel content as unknown until compare-mode baseline exists](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/90) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
