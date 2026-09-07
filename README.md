@@ -3,7 +3,7 @@
 #### 👷 Check out what I'm currently working on
 
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (today)
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (today)
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (1 day ago)
 - [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) - A collection of pre-commit hooks, which are handy when using Ansible or Ansible Vault encryption. (8 months ago)
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) - The purpose of this role is to add users and groups on your system. (8 months ago)
 
@@ -19,36 +19,36 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.5.0), today) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
+- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.5.0), 1 day ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 6 months ago) - The purpose of this role is to add users and groups on your system.
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
 #### 🔨 My recent Pull Requests
 
-- [chore(main): release 0.5.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/104) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [refactor(update-check): improve reliability and observability](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/103) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [fix(controller): propagate partial cleanup failures](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/102) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
-- [fix(controller): propagate partial cleanup failures](https://github.com/jongdesteven/esphome-epaper-spectra6-133/pull/2) on [jongdesteven/esphome-epaper-spectra6-133](https://github.com/jongdesteven/esphome-epaper-spectra6-133) (today)
-- [feat(group-monitor): add ETS project upload action to the Group Monitor banner](https://github.com/XKNX/knx-frontend/pull/458) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
-- [feat(group-monitor): create automation from telegram](https://github.com/XKNX/knx-frontend/pull/457) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
-- [fix(display): preserve pending tracked changes during update](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/101) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
-- [fix(display): preserve changes drawn during refresh](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/100) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
-- [fix(display): track bulk framebuffer changes](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/99) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
-- [fix(display): preserve changes drawn during refresh](https://github.com/jongdesteven/esphome-epaper-spectra6-133/pull/1) on [jongdesteven/esphome-epaper-spectra6-133](https://github.com/jongdesteven/esphome-epaper-spectra6-133) (1 day ago)
-- [fix(display): keep partial refresh flow stable under periodic updates](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/98) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
-- [docs(readme): clarify differences to native epaper_spi support](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/97) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
-- [chore(release): use minor bumps for pre-1.0 features](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/96) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
-- [feat: confirm Seeed Studio T133A01 support](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/95) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
-- [ci: add restore-keys fallback for pre-commit hook cache](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/94) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
+- [fix(display): power off panel during cancellation](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/105) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (today)
+- [chore(main): release 0.5.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/104) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [refactor(update-check): improve reliability and observability](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/103) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [fix(controller): propagate partial cleanup failures](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/102) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 day ago)
+- [fix(controller): propagate partial cleanup failures](https://github.com/jongdesteven/esphome-epaper-spectra6-133/pull/2) on [jongdesteven/esphome-epaper-spectra6-133](https://github.com/jongdesteven/esphome-epaper-spectra6-133) (1 day ago)
+- [feat(group-monitor): add ETS project upload action to the Group Monitor banner](https://github.com/XKNX/knx-frontend/pull/458) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
+- [feat(group-monitor): create automation from telegram](https://github.com/XKNX/knx-frontend/pull/457) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
+- [fix(display): preserve pending tracked changes during update](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/101) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
+- [fix(display): preserve changes drawn during refresh](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/100) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
+- [fix(display): track bulk framebuffer changes](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/99) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
+- [fix(display): preserve changes drawn during refresh](https://github.com/jongdesteven/esphome-epaper-spectra6-133/pull/1) on [jongdesteven/esphome-epaper-spectra6-133](https://github.com/jongdesteven/esphome-epaper-spectra6-133) (2 days ago)
+- [fix(display): keep partial refresh flow stable under periodic updates](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/98) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 days ago)
+- [docs(readme): clarify differences to native epaper_spi support](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/97) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
+- [chore(release): use minor bumps for pre-1.0 features](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/96) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
+- [feat: confirm Seeed Studio T133A01 support](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/95) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 days ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
 
-- [SaladTechnologies/terraform-provider-salad-cloud](https://github.com/SaladTechnologies/terraform-provider-salad-cloud) - SaladCloud Terraform provider (1 week ago)
+- [SaladTechnologies/terraform-provider-salad-cloud](https://github.com/SaladTechnologies/terraform-provider-salad-cloud) - SaladCloud Terraform provider (2 weeks ago)
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater (2 weeks ago)
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server (2 months ago)
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (2 months ago)
-- [bitbank2/bb_epaper](https://github.com/bitbank2/bb_epaper) - A frustration-free library for working with all 24-pin eink panels (2 months ago)
+- [bitbank2/bb_epaper](https://github.com/bitbank2/bb_epaper) - A frustration-free library for working with all 24-pin eink panels (3 months ago)
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems. (3 months ago)
 - [OpenDisplay/Firmware](https://github.com/OpenDisplay/Firmware) - Open source display firmware for the NRF52840 and ESP32  (3 months ago)
 - [shi-314/esp32-spectra-e6](https://github.com/shi-314/esp32-spectra-e6) - ESP32 Firmware for Spectra E6 Displays (3 months ago)
@@ -57,10 +57,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [chrisirhc](https://github.com/chrisirhc)
 - [cardentey](https://github.com/cardentey)
 - [Nai64](https://github.com/Nai64)
 - [mezentsevs](https://github.com/mezentsevs)
 - [raviwijerathna1](https://github.com/raviwijerathna1)
-- [ZengjieRuan](https://github.com/ZengjieRuan)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
