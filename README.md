@@ -25,7 +25,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Target PostgreSQL legacy rows uniquely](https://github.com/XKNX/knx-telegram-store/pull/67) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Skip oversized PostgreSQL notifications](https://github.com/XKNX/knx-telegram-store/pull/70) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Unwrap PostgreSQL legacy rows atomically](https://github.com/XKNX/knx-telegram-store/pull/67) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
 - [Evict expired buffered telegrams](https://github.com/XKNX/knx-telegram-store/pull/66) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
 - [Keep newest last-value telegrams](https://github.com/XKNX/knx-telegram-store/pull/65) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
 - [Flush buffered stores on close](https://github.com/XKNX/knx-telegram-store/pull/64) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
@@ -39,7 +40,6 @@
 - [Escape ETS XML telegram attributes](https://github.com/XKNX/knx-telegram-store/pull/56) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
 - [Fix base imports without SQLAlchemy](https://github.com/XKNX/knx-telegram-store/pull/55) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
 - [docs: prefer backend localizations in agent instructions](https://github.com/XKNX/knx-frontend/pull/464) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (5 days ago)
-- [feat(group-monitor): show filter counts relative to active facets](https://github.com/XKNX/knx-frontend/pull/461) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars

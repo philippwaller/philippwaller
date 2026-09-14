@@ -1,6 +1,7 @@
 #### 🔨 My recent Pull Requests
 
-- [Target PostgreSQL legacy rows uniquely](https://github.com/XKNX/knx-telegram-store/pull/67) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Skip oversized PostgreSQL notifications](https://github.com/XKNX/knx-telegram-store/pull/70) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Unwrap PostgreSQL legacy rows atomically](https://github.com/XKNX/knx-telegram-store/pull/67) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
 - [Evict expired buffered telegrams](https://github.com/XKNX/knx-telegram-store/pull/66) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
 - [Keep newest last-value telegrams](https://github.com/XKNX/knx-telegram-store/pull/65) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
 - [Flush buffered stores on close](https://github.com/XKNX/knx-telegram-store/pull/64) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
@@ -98,4 +99,3 @@
 - [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/251) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 year ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/XKNX/knx-frontend/pull/250) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 year ago)
 - [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/249) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 year ago)
-- [Add support for AI assistants beyond Copilot](https://github.com/XKNX/knx-frontend/pull/248) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 year ago)
