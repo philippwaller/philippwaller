@@ -44,6 +44,7 @@
 
 #### ⭐ Recent Stars
 
+- [marvin-w/ha-soniox](https://github.com/marvin-w/ha-soniox) - AI! Soniox HA Voice PE integration (today)
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) -  (today)
 - [knx-ai/xknx-editor](https://github.com/knx-ai/xknx-editor) - XKNX Editor to program and mange KNX devices (1 day ago)
 - [XKNX/xknxproject](https://github.com/XKNX/xknxproject) - ETS project parser written in python (1 day ago)
@@ -53,7 +54,6 @@
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (3 months ago)
 - [bitbank2/bb_epaper](https://github.com/bitbank2/bb_epaper) - A frustration-free library for working with all 24-pin eink panels (3 months ago)
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems. (3 months ago)
-- [OpenDisplay/Firmware](https://github.com/OpenDisplay/Firmware) - Open source display firmware for the NRF52840 and ESP32  (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
