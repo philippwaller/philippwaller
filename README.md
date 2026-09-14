@@ -25,25 +25,26 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Target PostgreSQL legacy rows uniquely](https://github.com/XKNX/knx-telegram-store/pull/67) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Evict expired buffered telegrams](https://github.com/XKNX/knx-telegram-store/pull/66) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Keep newest last-value telegrams](https://github.com/XKNX/knx-telegram-store/pull/65) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Flush buffered stores on close](https://github.com/XKNX/knx-telegram-store/pull/64) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Preserve MemoryStore delta rows](https://github.com/XKNX/knx-telegram-store/pull/63) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Propagate explicit buffered flush failures](https://github.com/XKNX/knx-telegram-store/pull/62) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Skip completed SQLite legacy unwrap scans](https://github.com/XKNX/knx-telegram-store/pull/61) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Publish lookup IDs after transaction commit](https://github.com/XKNX/knx-telegram-store/pull/60) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Preserve buffered batches during flush cancellation](https://github.com/XKNX/knx-telegram-store/pull/59) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Preserve URL characters in SQLite paths](https://github.com/XKNX/knx-telegram-store/pull/58) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Validate MCP pagination inputs](https://github.com/XKNX/knx-telegram-store/pull/57) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Escape ETS XML telegram attributes](https://github.com/XKNX/knx-telegram-store/pull/56) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Fix base imports without SQLAlchemy](https://github.com/XKNX/knx-telegram-store/pull/55) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
 - [docs: prefer backend localizations in agent instructions](https://github.com/XKNX/knx-frontend/pull/464) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (5 days ago)
 - [feat(group-monitor): show filter counts relative to active facets](https://github.com/XKNX/knx-frontend/pull/461) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
-- [fix(group-monitor): deduplicate equivalent timestamps](https://github.com/XKNX/knx-frontend/pull/460) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
-- [fix(display): power off panel during cancellation](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/105) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
-- [chore(main): release 0.5.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/104) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
-- [refactor(update-check): improve reliability and observability](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/103) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
-- [fix(controller): propagate partial cleanup failures](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/102) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
-- [fix(controller): propagate partial cleanup failures](https://github.com/jongdesteven/esphome-epaper-spectra6-133/pull/2) on [jongdesteven/esphome-epaper-spectra6-133](https://github.com/jongdesteven/esphome-epaper-spectra6-133) (1 week ago)
-- [feat(group-monitor): add ETS project upload action to the Group Monitor banner](https://github.com/XKNX/knx-frontend/pull/458) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
-- [feat(group-monitor): create automation from telegram](https://github.com/XKNX/knx-frontend/pull/457) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
-- [fix(display): preserve pending tracked changes during update](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/101) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
-- [fix(display): preserve changes drawn during refresh](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/100) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
-- [fix(display): track bulk framebuffer changes](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/99) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
-- [fix(display): preserve changes drawn during refresh](https://github.com/jongdesteven/esphome-epaper-spectra6-133/pull/1) on [jongdesteven/esphome-epaper-spectra6-133](https://github.com/jongdesteven/esphome-epaper-spectra6-133) (1 week ago)
-- [fix(display): keep partial refresh flow stable under periodic updates](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/98) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
 
+- [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) -  (today)
 - [knx-ai/xknx-editor](https://github.com/knx-ai/xknx-editor) - XKNX Editor to program and mange KNX devices (1 day ago)
 - [XKNX/xknxproject](https://github.com/XKNX/xknxproject) - ETS project parser written in python (1 day ago)
 - [SaladTechnologies/terraform-provider-salad-cloud](https://github.com/SaladTechnologies/terraform-provider-salad-cloud) - SaladCloud Terraform provider (3 weeks ago)
@@ -53,7 +54,6 @@
 - [bitbank2/bb_epaper](https://github.com/bitbank2/bb_epaper) - A frustration-free library for working with all 24-pin eink panels (3 months ago)
 - [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems. (3 months ago)
 - [OpenDisplay/Firmware](https://github.com/OpenDisplay/Firmware) - Open source display firmware for the NRF52840 and ESP32  (3 months ago)
-- [shi-314/esp32-spectra-e6](https://github.com/shi-314/esp32-spectra-e6) - ESP32 Firmware for Spectra E6 Displays (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
