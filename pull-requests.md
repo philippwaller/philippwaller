@@ -1,9 +1,9 @@
 #### 🔨 My recent Pull Requests
 
-- [docs: prefer backend localizations in agent instructions](https://github.com/XKNX/knx-frontend/pull/464) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 days ago)
-- [feat(group-monitor): show filter counts relative to active facets](https://github.com/XKNX/knx-frontend/pull/461) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (6 days ago)
-- [fix(group-monitor): deduplicate equivalent timestamps](https://github.com/XKNX/knx-frontend/pull/460) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (6 days ago)
-- [fix(display): power off panel during cancellation](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/105) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (6 days ago)
+- [docs: prefer backend localizations in agent instructions](https://github.com/XKNX/knx-frontend/pull/464) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (5 days ago)
+- [feat(group-monitor): show filter counts relative to active facets](https://github.com/XKNX/knx-frontend/pull/461) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
+- [fix(group-monitor): deduplicate equivalent timestamps](https://github.com/XKNX/knx-frontend/pull/460) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
+- [fix(display): power off panel during cancellation](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/105) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
 - [chore(main): release 0.5.1](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/104) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
 - [refactor(update-check): improve reliability and observability](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/103) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
 - [fix(controller): propagate partial cleanup failures](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/102) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 week ago)
