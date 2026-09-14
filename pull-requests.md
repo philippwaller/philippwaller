@@ -13,7 +13,7 @@
 - [Preserve URL characters in SQLite paths](https://github.com/XKNX/knx-telegram-store/pull/58) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
 - [Validate MCP pagination inputs](https://github.com/XKNX/knx-telegram-store/pull/57) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
 - [Escape ETS XML telegram attributes](https://github.com/XKNX/knx-telegram-store/pull/56) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
-- [Fix base imports without SQLAlchemy](https://github.com/XKNX/knx-telegram-store/pull/55) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
+- [Decouple base imports from SQLAlchemy](https://github.com/XKNX/knx-telegram-store/pull/55) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (today)
 - [docs: prefer backend localizations in agent instructions](https://github.com/XKNX/knx-frontend/pull/464) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (5 days ago)
 - [feat(group-monitor): show filter counts relative to active facets](https://github.com/XKNX/knx-frontend/pull/461) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [fix(group-monitor): deduplicate equivalent timestamps](https://github.com/XKNX/knx-frontend/pull/460) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
