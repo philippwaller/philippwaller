@@ -2,6 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [philippwaller/xknx-workspace](https://github.com/philippwaller/xknx-workspace) - Reproducible development workspace for XKNX and Home Assistant KNX projects (today)
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) -  (today)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (5 days ago)
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (1 week ago)
@@ -10,6 +11,7 @@
 
 #### 🌱 My latest projects
 
+- [philippwaller/xknx-workspace](https://github.com/philippwaller/xknx-workspace) - Reproducible development workspace for XKNX and Home Assistant KNX projects
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
 - [philippwaller/ansible-role-qemu_guest_agent](https://github.com/philippwaller/ansible-role-qemu_guest_agent) - Enhance your virtualization experience with the power of QEMU Guest Agent! ✨
 - [philippwaller/dotfiles](https://github.com/philippwaller/dotfiles) - My dotfiles library
@@ -59,10 +61,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [ThreadCrash](https://github.com/ThreadCrash)
 - [aramisjustin068](https://github.com/aramisjustin068)
 - [BEPb](https://github.com/BEPb)
 - [chrisirhc](https://github.com/chrisirhc)
 - [cardentey](https://github.com/cardentey)
-- [Nai64](https://github.com/Nai64)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
