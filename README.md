@@ -64,9 +64,9 @@
 #### 👯 Check out some of my recent followers
 
 - [aramisjustin068](https://github.com/aramisjustin068)
-- [BEPb](https://github.com/BEPb)
 - [chrisirhc](https://github.com/chrisirhc)
 - [cardentey](https://github.com/cardentey)
 - [Nai64](https://github.com/Nai64)
+- [mezentsevs](https://github.com/mezentsevs)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
