@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (today)
-- [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) -  (5 days ago)
-- [philippwaller/xknx-workspace](https://github.com/philippwaller/xknx-workspace) - Reproducible development workspace for XKNX and Home Assistant KNX projects (6 days ago)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (1 day ago)
+- [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) -  (6 days ago)
+- [philippwaller/xknx-workspace](https://github.com/philippwaller/xknx-workspace) - Reproducible development workspace for XKNX and Home Assistant KNX projects (1 week ago)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (1 week ago)
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (2 weeks ago)
 - [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) - A collection of pre-commit hooks, which are handy when using Ansible or Ansible Vault encryption. (8 months ago)
@@ -23,7 +23,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.9.3](https://github.com/home-assistant/core/releases/tag/2026.9.3), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.9.3](https://github.com/home-assistant/core/releases/tag/2026.9.3), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.5.0), 2 weeks ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) ([v0.11.2](https://github.com/XKNX/knx-telegram-store/releases/tag/v0.11.2), 1 month ago) - 
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 7 months ago) - The purpose of this role is to add users and groups on your system.
@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add additional DPT type values to KNX strings.json](https://github.com/home-assistant/core/pull/182736) on [home-assistant/core](https://github.com/home-assistant/core) (2 days ago)
+- [Add additional DPT type values to KNX strings.json](https://github.com/home-assistant/core/pull/182736) on [home-assistant/core](https://github.com/home-assistant/core) (3 days ago)
 - [Add Codecov coverage reporting](https://github.com/XKNX/knx-telegram-store/pull/73) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Skip oversized PostgreSQL notifications](https://github.com/XKNX/knx-telegram-store/pull/70) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Unwrap PostgreSQL legacy rows atomically](https://github.com/XKNX/knx-telegram-store/pull/67) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)

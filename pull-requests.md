@@ -1,6 +1,6 @@
 #### 🔨 My recent Pull Requests
 
-- [Add additional DPT type values to KNX strings.json](https://github.com/home-assistant/core/pull/182736) on [home-assistant/core](https://github.com/home-assistant/core) (2 days ago)
+- [Add additional DPT type values to KNX strings.json](https://github.com/home-assistant/core/pull/182736) on [home-assistant/core](https://github.com/home-assistant/core) (3 days ago)
 - [Add Codecov coverage reporting](https://github.com/XKNX/knx-telegram-store/pull/73) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Skip oversized PostgreSQL notifications](https://github.com/XKNX/knx-telegram-store/pull/70) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Unwrap PostgreSQL legacy rows atomically](https://github.com/XKNX/knx-telegram-store/pull/67) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
