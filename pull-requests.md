@@ -1,6 +1,6 @@
 #### 🔨 My recent Pull Requests
 
-- [Add additional DPT type values to KNX strings.json](https://github.com/home-assistant/core/pull/182736) on [home-assistant/core](https://github.com/home-assistant/core) (3 days ago)
+- [Add additional DPT type values to KNX strings.json](https://github.com/home-assistant/core/pull/182736) on [home-assistant/core](https://github.com/home-assistant/core) (4 days ago)
 - [Add Codecov coverage reporting](https://github.com/XKNX/knx-telegram-store/pull/73) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Skip oversized PostgreSQL notifications](https://github.com/XKNX/knx-telegram-store/pull/70) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Unwrap PostgreSQL legacy rows atomically](https://github.com/XKNX/knx-telegram-store/pull/67) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
@@ -16,7 +16,7 @@
 - [Validate MCP pagination inputs](https://github.com/XKNX/knx-telegram-store/pull/57) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Escape ETS XML telegram attributes](https://github.com/XKNX/knx-telegram-store/pull/56) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Decouple base imports from SQLAlchemy](https://github.com/XKNX/knx-telegram-store/pull/55) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
-- [docs: prefer backend localizations in agent instructions](https://github.com/XKNX/knx-frontend/pull/464) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
+- [docs: prefer backend localizations in agent instructions](https://github.com/XKNX/knx-frontend/pull/464) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
 - [feat(group-monitor): show filter counts relative to active facets](https://github.com/XKNX/knx-frontend/pull/461) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
 - [fix(group-monitor): deduplicate equivalent timestamps](https://github.com/XKNX/knx-frontend/pull/460) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
 - [fix(display): power off panel during cancellation](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/105) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (2 weeks ago)
