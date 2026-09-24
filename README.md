@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add KNX dashboard status translations](https://github.com/home-assistant/core/pull/183056) on [home-assistant/core](https://github.com/home-assistant/core) (today)
 - [Add KNX connection status to dashboard](https://github.com/XKNX/knx-frontend/pull/466) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Fix KNX telegram history timezone](https://github.com/home-assistant/core/pull/183052) on [home-assistant/core](https://github.com/home-assistant/core) (today)
 - [fix: add missing sort labels](https://github.com/XKNX/knx-frontend/pull/465) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
@@ -45,7 +46,6 @@
 - [Propagate explicit buffered flush failures](https://github.com/XKNX/knx-telegram-store/pull/62) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Skip completed SQLite legacy unwrap scans](https://github.com/XKNX/knx-telegram-store/pull/61) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Publish lookup IDs after transaction commit](https://github.com/XKNX/knx-telegram-store/pull/60) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
-- [Preserve buffered batches during flush cancellation](https://github.com/XKNX/knx-telegram-store/pull/59) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
