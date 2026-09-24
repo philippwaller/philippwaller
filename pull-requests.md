@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [fix: add missing sort labels](https://github.com/XKNX/knx-frontend/pull/465) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Add additional DPT type values to KNX strings.json](https://github.com/home-assistant/core/pull/182736) on [home-assistant/core](https://github.com/home-assistant/core) (5 days ago)
 - [Add Codecov coverage reporting](https://github.com/XKNX/knx-telegram-store/pull/73) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Skip oversized PostgreSQL notifications](https://github.com/XKNX/knx-telegram-store/pull/70) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
@@ -98,4 +99,3 @@
 - [Update knx-frontend to 2025.8.6.52906](https://github.com/home-assistant/core/pull/150085) on [home-assistant/core](https://github.com/home-assistant/core) (1 year ago)
 - [Fix offset miscalculation in certain filter scenarios](https://github.com/XKNX/knx-frontend/pull/255) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 year ago)
 - [Group Monitor – New Features, Fixes &amp; Ongoing Refactoring](https://github.com/XKNX/knx-frontend/pull/253) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 year ago)
-- [Update HA frontend from 20250702.3 to 20250731.0](https://github.com/XKNX/knx-frontend/pull/251) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 year ago)
