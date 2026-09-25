@@ -31,6 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add a KNX not-found and error page](https://github.com/XKNX/knx-frontend/pull/467) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Add KNX dashboard status translations](https://github.com/home-assistant/core/pull/183056) on [home-assistant/core](https://github.com/home-assistant/core) (1 day ago)
 - [Add KNX connection status to dashboard](https://github.com/XKNX/knx-frontend/pull/466) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
 - [Fix KNX telegram history timezone](https://github.com/home-assistant/core/pull/183052) on [home-assistant/core](https://github.com/home-assistant/core) (1 day ago)
@@ -45,7 +46,6 @@
 - [Preserve MemoryStore delta rows](https://github.com/XKNX/knx-telegram-store/pull/63) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Propagate explicit buffered flush failures](https://github.com/XKNX/knx-telegram-store/pull/62) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Skip completed SQLite legacy unwrap scans](https://github.com/XKNX/knx-telegram-store/pull/61) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
-- [Publish lookup IDs after transaction commit](https://github.com/XKNX/knx-telegram-store/pull/60) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars

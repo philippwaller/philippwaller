@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [feat: add a KNX not-found and error page](https://github.com/XKNX/knx-frontend/pull/467) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Add KNX dashboard status translations](https://github.com/home-assistant/core/pull/183056) on [home-assistant/core](https://github.com/home-assistant/core) (1 day ago)
 - [Add KNX connection status to dashboard](https://github.com/XKNX/knx-frontend/pull/466) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
 - [Fix KNX telegram history timezone](https://github.com/home-assistant/core/pull/183052) on [home-assistant/core](https://github.com/home-assistant/core) (1 day ago)
@@ -98,4 +99,3 @@
 - [Update knx-frontend to 2025.8.9.63154](https://github.com/home-assistant/core/pull/150323) on [home-assistant/core](https://github.com/home-assistant/core) (1 year ago)
 - [Add banner in group monitor when no ETS project is loaded &#43; various bugfixes](https://github.com/XKNX/knx-frontend/pull/258) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 year ago)
 - [Improve Group Monitor layout spacing and navbar behavior](https://github.com/XKNX/knx-frontend/pull/257) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 year ago)
-- [Show only selectable sorting options in filters](https://github.com/XKNX/knx-frontend/pull/256) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 year ago)
