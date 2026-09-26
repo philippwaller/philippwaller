@@ -50,6 +50,7 @@
 
 #### ⭐ Recent Stars
 
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100&#43; coding agents in parallel. Run any agent with your own subscription. (today)
 - [marvin-w/ha-soniox](https://github.com/marvin-w/ha-soniox) - AI! Soniox HA Voice PE integration (1 week ago)
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) -  (1 week ago)
 - [knx-ai/xknx-editor](https://github.com/knx-ai/xknx-editor) - XKNX Editor to program and mange KNX devices (1 week ago)
@@ -59,7 +60,6 @@
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server (2 months ago)
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (3 months ago)
 - [bitbank2/bb_epaper](https://github.com/bitbank2/bb_epaper) - A frustration-free library for working with all 24-pin eink panels (3 months ago)
-- [esphome/esphome](https://github.com/esphome/esphome) - ESPHome is a system to control your ESP32, ESP8266, BK72xx, RP2040 by simple yet powerful configuration files and control them remotely through Home Automation systems. (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
