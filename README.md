@@ -31,6 +31,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add agent skill for upgrading the homeassistant-frontend submodule](https://github.com/XKNX/knx-frontend/pull/469) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
+- [perf(build): enable babel-loader cache for builds and CI](https://github.com/XKNX/knx-frontend/pull/468) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [feat: add a KNX not-found and error page](https://github.com/XKNX/knx-frontend/pull/467) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
 - [Add KNX dashboard status translations](https://github.com/home-assistant/core/pull/183056) on [home-assistant/core](https://github.com/home-assistant/core) (2 days ago)
 - [Add KNX connection status to dashboard](https://github.com/XKNX/knx-frontend/pull/466) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
@@ -44,8 +46,6 @@
 - [Keep newest last-value telegrams](https://github.com/XKNX/knx-telegram-store/pull/65) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Flush buffered stores on close](https://github.com/XKNX/knx-telegram-store/pull/64) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [Preserve MemoryStore delta rows](https://github.com/XKNX/knx-telegram-store/pull/63) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
-- [Propagate explicit buffered flush failures](https://github.com/XKNX/knx-telegram-store/pull/62) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
-- [Skip completed SQLite legacy unwrap scans](https://github.com/XKNX/knx-telegram-store/pull/61) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (1 week ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
