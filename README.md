@@ -31,7 +31,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add agent skills for upgrades, Dependabot PRs and PR reviews](https://github.com/XKNX/knx-frontend/pull/469) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
+- [Add agent skills for setup, upgrades, Dependabot PRs and PR reviews](https://github.com/XKNX/knx-frontend/pull/469) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
 - [perf(build): enable babel-loader cache for builds and CI](https://github.com/XKNX/knx-frontend/pull/468) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
 - [feat: add a KNX not-found and error page](https://github.com/XKNX/knx-frontend/pull/467) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
 - [Add KNX dashboard status translations](https://github.com/home-assistant/core/pull/183056) on [home-assistant/core](https://github.com/home-assistant/core) (3 days ago)
