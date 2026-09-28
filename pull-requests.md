@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [Add KNX panel translation keys for future frontend adoption](https://github.com/home-assistant/core/pull/183479) on [home-assistant/core](https://github.com/home-assistant/core) (today)
 - [feat: add knx-tabs-subpage-data layout and use it for the project devices view](https://github.com/XKNX/knx-frontend/pull/470) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Add agent skills for setup, upgrades, Dependabot PRs and PR reviews](https://github.com/XKNX/knx-frontend/pull/469) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
 - [perf(build): enable babel-loader cache for builds and CI](https://github.com/XKNX/knx-frontend/pull/468) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
@@ -98,4 +99,3 @@
 - [fix deprecated stages](https://github.com/biozz/ansible-pre-commit-hooks/pull/1) on [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) (9 months ago)
 - [Refactor automation editor event naming for consistency](https://github.com/home-assistant/frontend/pull/26634) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (1 year ago)
 - [Replace deprecated ESLint flag to remove warning](https://github.com/home-assistant/frontend/pull/26630) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (1 year ago)
-- [Add show-automation-editor event for custom cards &amp; panels](https://github.com/home-assistant/frontend/pull/26613) on [home-assistant/frontend](https://github.com/home-assistant/frontend) (1 year ago)
