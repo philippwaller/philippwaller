@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [feat: add knx-tabs-subpage-data layout and use it for the project devices view](https://github.com/XKNX/knx-frontend/pull/470) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Add agent skills for setup, upgrades, Dependabot PRs and PR reviews](https://github.com/XKNX/knx-frontend/pull/469) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
 - [perf(build): enable babel-loader cache for builds and CI](https://github.com/XKNX/knx-frontend/pull/468) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
 - [feat: add a KNX not-found and error page](https://github.com/XKNX/knx-frontend/pull/467) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 days ago)
@@ -47,7 +48,6 @@
 - [Evict expired buffered telegrams](https://github.com/XKNX/knx-telegram-store/pull/66) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (2 weeks ago)
 - [Keep newest last-value telegrams](https://github.com/XKNX/knx-telegram-store/pull/65) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (2 weeks ago)
 - [Flush buffered stores on close](https://github.com/XKNX/knx-telegram-store/pull/64) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (2 weeks ago)
-- [Preserve MemoryStore delta rows](https://github.com/XKNX/knx-telegram-store/pull/63) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (2 weeks ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
