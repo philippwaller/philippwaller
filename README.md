@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [Sduniii/KoNfiX](https://github.com/Sduniii/KoNfiX) -  (today)
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100&#43; coding agents in parallel. Run any agent with your own subscription. (3 days ago)
 - [marvin-w/ha-soniox](https://github.com/marvin-w/ha-soniox) - AI! Soniox HA Voice PE integration (2 weeks ago)
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) -  (2 weeks ago)
@@ -61,7 +62,6 @@
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater (1 month ago)
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server (2 months ago)
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (3 months ago)
-- [bitbank2/bb_epaper](https://github.com/bitbank2/bb_epaper) - A frustration-free library for working with all 24-pin eink panels (3 months ago)
 
 #### 👯 Check out some of my recent followers
 
