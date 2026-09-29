@@ -1,5 +1,7 @@
 #### 🔨 My recent Pull Requests
 
+- [Add KNX project upload dialog translations for the loaded project](https://github.com/home-assistant/core/pull/183542) on [home-assistant/core](https://github.com/home-assistant/core) (today)
+- [feat(project-upload): show the currently loaded project in the import dialog](https://github.com/XKNX/knx-frontend/pull/471) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [test(gallery): verify PR preview comments](https://github.com/philippwaller/knx-frontend/pull/4) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
 - [Feat/gallery](https://github.com/philippwaller/knx-frontend/pull/3) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
 - [Add KNX panel translation keys for future frontend adoption](https://github.com/home-assistant/core/pull/183479) on [home-assistant/core](https://github.com/home-assistant/core) (1 day ago)
@@ -97,5 +99,3 @@
 - [docs: use stable release ref in YAML examples](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/5) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [chore: update pre-commit hooks to latest versions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/3) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [ci: update release-please configuration](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/2) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
-- [migrate injected facts to ansible_facts](https://github.com/robertdebock/ansible-role-users/pull/45) on [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) (9 months ago)
-- [fix deprecated stages](https://github.com/biozz/ansible-pre-commit-hooks/pull/1) on [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) (9 months ago)
