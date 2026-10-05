@@ -24,6 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.10.5.160528](https://github.com/XKNX/knx-frontend/releases/tag/2026.10.5.160528), today) - Home Assistant Panel for managing the KNX integration
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.0b0](https://github.com/home-assistant/core/releases/tag/2026.10.0b0), 5 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([external-service-1.0.9](https://github.com/philippwaller/helm-charts/releases/tag/external-service-1.0.9), 1 week ago) - Helm Chart Repository
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.5.0), 4 weeks ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
@@ -33,6 +34,8 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Add full application program definitions](https://github.com/XKNX/xknxproject/pull/658) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (today)
+- [Export catalog and space references per device, keep sibling spaces sharing a name](https://github.com/XKNX/xknxproject/pull/657) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (today)
 - [Add KNX project upload dialog translations for the loaded project](https://github.com/home-assistant/core/pull/183542) on [home-assistant/core](https://github.com/home-assistant/core) (6 days ago)
 - [feat(project-upload): show the currently loaded project in the import dialog](https://github.com/XKNX/knx-frontend/pull/471) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (6 days ago)
 - [test(gallery): verify PR preview comments](https://github.com/philippwaller/knx-frontend/pull/4) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 week ago)
@@ -46,8 +49,6 @@
 - [Add KNX connection status to dashboard](https://github.com/XKNX/knx-frontend/pull/466) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [Fix KNX telegram history timezone](https://github.com/home-assistant/core/pull/183052) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
 - [fix: add missing sort labels](https://github.com/XKNX/knx-frontend/pull/465) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
-- [Add additional DPT type values to KNX strings.json](https://github.com/home-assistant/core/pull/182736) on [home-assistant/core](https://github.com/home-assistant/core) (2 weeks ago)
-- [Add Codecov coverage reporting](https://github.com/XKNX/knx-telegram-store/pull/73) on [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) (3 weeks ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars

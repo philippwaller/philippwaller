@@ -1,5 +1,7 @@
 #### 🔨 My recent Pull Requests
 
+- [Add full application program definitions](https://github.com/XKNX/xknxproject/pull/658) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (today)
+- [Export catalog and space references per device, keep sibling spaces sharing a name](https://github.com/XKNX/xknxproject/pull/657) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (today)
 - [Add KNX project upload dialog translations for the loaded project](https://github.com/home-assistant/core/pull/183542) on [home-assistant/core](https://github.com/home-assistant/core) (6 days ago)
 - [feat(project-upload): show the currently loaded project in the import dialog](https://github.com/XKNX/knx-frontend/pull/471) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (6 days ago)
 - [test(gallery): verify PR preview comments](https://github.com/philippwaller/knx-frontend/pull/4) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 week ago)
@@ -97,5 +99,3 @@
 - [chore(scripts): replace bootstrap-venv.sh with unified setup script](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/7) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [docs(readme): add release-please markers](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/6) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [docs: use stable release ref in YAML examples](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/5) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
-- [chore: update pre-commit hooks to latest versions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/3) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
-- [ci: update release-please configuration](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/2) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
