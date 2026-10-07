@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test(gallery): install gallery for live preview validation](https://github.com/philippwaller/knx-frontend/pull/5) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [Add full application program definitions](https://github.com/XKNX/xknxproject/pull/658) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (2 days ago)
 - [Export catalog and space references per device, keep sibling spaces sharing a name](https://github.com/XKNX/xknxproject/pull/657) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (2 days ago)
 - [Add KNX project upload dialog translations for the loaded project](https://github.com/home-assistant/core/pull/183542) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
@@ -47,7 +48,6 @@
 - [Add KNX dashboard status translations](https://github.com/home-assistant/core/pull/183056) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
 - [Add KNX connection status to dashboard](https://github.com/XKNX/knx-frontend/pull/466) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [Fix KNX telegram history timezone](https://github.com/home-assistant/core/pull/183052) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
-- [fix: add missing sort labels](https://github.com/XKNX/knx-frontend/pull/465) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars

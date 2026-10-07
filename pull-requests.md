@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [test(gallery): install gallery for live preview validation](https://github.com/philippwaller/knx-frontend/pull/5) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [Add full application program definitions](https://github.com/XKNX/xknxproject/pull/658) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (2 days ago)
 - [Export catalog and space references per device, keep sibling spaces sharing a name](https://github.com/XKNX/xknxproject/pull/657) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (2 days ago)
 - [Add KNX project upload dialog translations for the loaded project](https://github.com/home-assistant/core/pull/183542) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
@@ -98,4 +99,3 @@
 - [fix(controller): harden low-level transfer guards and log invalid inputs](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/8) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [chore(scripts): replace bootstrap-venv.sh with unified setup script](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/7) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [docs(readme): add release-please markers](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/6) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
-- [docs: use stable release ref in YAML examples](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/5) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
