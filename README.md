@@ -2,12 +2,12 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (4 days ago)
+- [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (5 days ago)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (1 week ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (1 week ago)
 - [philippwaller/xknx-workspace](https://github.com/philippwaller/xknx-workspace) - Reproducible development workspace for XKNX and Home Assistant KNX projects (1 week ago)
-- [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) -  (2 weeks ago)
-- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (4 weeks ago)
+- [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) -  (3 weeks ago)
+- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (1 month ago)
 - [biozz/ansible-pre-commit-hooks](https://github.com/biozz/ansible-pre-commit-hooks) - A collection of pre-commit hooks, which are handy when using Ansible or Ansible Vault encryption. (9 months ago)
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) - The purpose of this role is to add users and groups on your system. (9 months ago)
 
@@ -24,7 +24,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.0b3](https://github.com/home-assistant/core/releases/tag/2026.10.0b3), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.0b3](https://github.com/home-assistant/core/releases/tag/2026.10.0b3), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([external-service-1.0.9](https://github.com/philippwaller/helm-charts/releases/tag/external-service-1.0.9), 1 week ago) - Helm Chart Repository
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.5.0), 1 month ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) ([v0.11.2](https://github.com/XKNX/knx-telegram-store/releases/tag/v0.11.2), 2 months ago) - 
@@ -33,8 +33,8 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add full application program definitions](https://github.com/XKNX/xknxproject/pull/658) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (1 day ago)
-- [Export catalog and space references per device, keep sibling spaces sharing a name](https://github.com/XKNX/xknxproject/pull/657) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (1 day ago)
+- [Add full application program definitions](https://github.com/XKNX/xknxproject/pull/658) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (2 days ago)
+- [Export catalog and space references per device, keep sibling spaces sharing a name](https://github.com/XKNX/xknxproject/pull/657) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (2 days ago)
 - [Add KNX project upload dialog translations for the loaded project](https://github.com/home-assistant/core/pull/183542) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
 - [feat(project-upload): show the currently loaded project in the import dialog](https://github.com/XKNX/knx-frontend/pull/471) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [test(gallery): verify PR preview comments](https://github.com/philippwaller/knx-frontend/pull/4) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 week ago)
