@@ -52,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [XKNX/knx-specifications](https://github.com/XKNX/knx-specifications) -  (today)
 - [Sduniii/KoNfiX](https://github.com/Sduniii/KoNfiX) -  (1 week ago)
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100&#43; coding agents in parallel. Run any agent with your own subscription. (1 week ago)
 - [marvin-w/ha-soniox](https://github.com/marvin-w/ha-soniox) - AI! Soniox HA Voice PE integration (3 weeks ago)
@@ -61,7 +62,6 @@
 - [SaladTechnologies/terraform-provider-salad-cloud](https://github.com/SaladTechnologies/terraform-provider-salad-cloud) - SaladCloud Terraform provider (1 month ago)
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater (1 month ago)
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server (3 months ago)
-- [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
