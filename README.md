@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve Gallery comparison and reduce CI time](https://github.com/philippwaller/knx-frontend/pull/11) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [Improve Gallery preview status comments](https://github.com/philippwaller/knx-frontend/pull/10) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [test(gallery): native rerun and persistent status comment](https://github.com/philippwaller/knx-frontend/pull/9) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [Use native workflow reruns for Gallery preview approval](https://github.com/philippwaller/knx-frontend/pull/8) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
@@ -47,7 +48,6 @@
 - [Feat/gallery](https://github.com/philippwaller/knx-frontend/pull/3) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 week ago)
 - [Add KNX panel translation keys for future frontend adoption](https://github.com/home-assistant/core/pull/183479) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
 - [feat: add knx-tabs-subpage-data layout and use it for the project devices view](https://github.com/XKNX/knx-frontend/pull/470) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
-- [Add agent skills for setup, upgrades, Dependabot PRs and PR reviews](https://github.com/XKNX/knx-frontend/pull/469) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
