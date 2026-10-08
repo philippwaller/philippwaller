@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [test: benchmark four Gallery browser-test shards](https://github.com/philippwaller/knx-frontend/pull/13) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [perf: reduce Gallery build time without reducing coverage](https://github.com/philippwaller/knx-frontend/pull/12) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [Improve Gallery comparison and reduce CI time](https://github.com/philippwaller/knx-frontend/pull/11) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [Improve Gallery preview status comments](https://github.com/philippwaller/knx-frontend/pull/10) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
@@ -98,4 +99,3 @@
 - [ci: run Bencher on manual dispatch](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/16) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [test: add C&#43;&#43; benchmarks and CI integration with Bencher](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/15) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [perf: optimize image draw throughput](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/14) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
-- [ci: add ESPHome version regression checks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/13) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)

@@ -33,6 +33,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [test: benchmark four Gallery browser-test shards](https://github.com/philippwaller/knx-frontend/pull/13) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [perf: reduce Gallery build time without reducing coverage](https://github.com/philippwaller/knx-frontend/pull/12) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [Improve Gallery comparison and reduce CI time](https://github.com/philippwaller/knx-frontend/pull/11) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [Improve Gallery preview status comments](https://github.com/philippwaller/knx-frontend/pull/10) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
@@ -47,7 +48,6 @@
 - [feat(project-upload): show the currently loaded project in the import dialog](https://github.com/XKNX/knx-frontend/pull/471) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [test(gallery): verify PR preview comments](https://github.com/philippwaller/knx-frontend/pull/4) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 week ago)
 - [Feat/gallery](https://github.com/philippwaller/knx-frontend/pull/3) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 week ago)
-- [Add KNX panel translation keys for future frontend adoption](https://github.com/home-assistant/core/pull/183479) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
