@@ -33,6 +33,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Improve Gallery preview status comments](https://github.com/philippwaller/knx-frontend/pull/10) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
+- [test(gallery): native rerun and persistent status comment](https://github.com/philippwaller/knx-frontend/pull/9) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
+- [Use native workflow reruns for Gallery preview approval](https://github.com/philippwaller/knx-frontend/pull/8) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [test(gallery): manual review of preview comment and component links](https://github.com/philippwaller/knx-frontend/pull/7) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [test(gallery): automated preview acceptance run](https://github.com/philippwaller/knx-frontend/pull/6) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
 - [test(gallery): install gallery for live preview validation](https://github.com/philippwaller/knx-frontend/pull/5) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
@@ -45,9 +48,6 @@
 - [Add KNX panel translation keys for future frontend adoption](https://github.com/home-assistant/core/pull/183479) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
 - [feat: add knx-tabs-subpage-data layout and use it for the project devices view](https://github.com/XKNX/knx-frontend/pull/470) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [Add agent skills for setup, upgrades, Dependabot PRs and PR reviews](https://github.com/XKNX/knx-frontend/pull/469) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
-- [perf(build): enable babel-loader cache for builds and CI](https://github.com/XKNX/knx-frontend/pull/468) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
-- [feat: add a KNX not-found and error page](https://github.com/XKNX/knx-frontend/pull/467) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
-- [Add KNX dashboard status translations](https://github.com/home-assistant/core/pull/183056) on [home-assistant/core](https://github.com/home-assistant/core) (2 weeks ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars

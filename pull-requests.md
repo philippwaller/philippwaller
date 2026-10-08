@@ -1,5 +1,8 @@
 #### 🔨 My recent Pull Requests
 
+- [Improve Gallery preview status comments](https://github.com/philippwaller/knx-frontend/pull/10) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
+- [test(gallery): native rerun and persistent status comment](https://github.com/philippwaller/knx-frontend/pull/9) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
+- [Use native workflow reruns for Gallery preview approval](https://github.com/philippwaller/knx-frontend/pull/8) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [test(gallery): manual review of preview comment and component links](https://github.com/philippwaller/knx-frontend/pull/7) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [test(gallery): automated preview acceptance run](https://github.com/philippwaller/knx-frontend/pull/6) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
 - [test(gallery): install gallery for live preview validation](https://github.com/philippwaller/knx-frontend/pull/5) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
@@ -96,6 +99,3 @@
 - [ci: add ESPHome version regression checks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/13) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [chore(main): release 0.1.2](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/12) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [docs: improve quick start guide and clarify component import](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/11) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
-- [fix: properly override clear() to fix black screen on auto-clear](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/10) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
-- [ci(release): provide explicit access token to release workflow](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/9) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
-- [fix(controller): harden low-level transfer guards and log invalid inputs](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/8) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
