@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Align Gallery validation and browser CI with Home Assistant](https://github.com/philippwaller/knx-frontend/pull/16) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [test(gallery): verify refactored build and preview workflow](https://github.com/philippwaller/knx-frontend/pull/15) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
 - [Isolate Gallery tooling and validation](https://github.com/philippwaller/knx-frontend/pull/14) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
 - [Resolve module arguments in texts and add the text parameter of communication objects](https://github.com/XKNX/xknxproject/pull/661) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (2 days ago)
@@ -48,7 +49,6 @@
 - [test(gallery): install gallery for live preview validation](https://github.com/philippwaller/knx-frontend/pull/5) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 days ago)
 - [Add full application program definitions](https://github.com/XKNX/xknxproject/pull/658) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (5 days ago)
 - [Export catalog and space references per device, keep sibling spaces sharing a name](https://github.com/XKNX/xknxproject/pull/657) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (5 days ago)
-- [Add KNX project upload dialog translations for the loaded project](https://github.com/home-assistant/core/pull/183542) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
