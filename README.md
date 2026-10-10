@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Align Gallery validation and browser CI with Home Assistant](https://github.com/philippwaller/knx-frontend/pull/16) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
+- [Align Gallery tooling and CI with Home Assistant](https://github.com/philippwaller/knx-frontend/pull/16) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
 - [test(gallery): verify refactored build and preview workflow](https://github.com/philippwaller/knx-frontend/pull/15) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
 - [Isolate Gallery tooling and validation](https://github.com/philippwaller/knx-frontend/pull/14) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
 - [Resolve module arguments in texts and add the text parameter of communication objects](https://github.com/XKNX/xknxproject/pull/661) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (2 days ago)
