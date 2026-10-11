@@ -2,7 +2,7 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [XKNX/xknxproject](https://github.com/XKNX/xknxproject) - ETS project parser written in python (2 days ago)
+- [XKNX/xknxproject](https://github.com/XKNX/xknxproject) - ETS project parser written in python (today)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (1 week ago)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (1 week ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (2 weeks ago)
@@ -34,7 +34,9 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Add a KNX component gallery with optional PR previews](https://github.com/XKNX/knx-frontend/pull/482) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
+- [[2/3] Validate Gallery browsers and production package isolation](https://github.com/XKNX/knx-frontend/pull/485) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
+- [[1/3] Add offline KNX component Gallery and authoring examples](https://github.com/XKNX/knx-frontend/pull/484) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
+- [[3/3] Publish approved Gallery previews through trusted Pages workflow](https://github.com/XKNX/knx-frontend/pull/482) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [test(gallery): final Pages and report lifecycle rehearsal](https://github.com/philippwaller/knx-frontend/pull/18) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
 - [test(gallery): final integration rehearsal on fork](https://github.com/philippwaller/knx-frontend/pull/17) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
 - [Align Gallery tooling and CI with Home Assistant](https://github.com/philippwaller/knx-frontend/pull/16) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
@@ -47,8 +49,6 @@
 - [Improve Gallery preview status comments](https://github.com/philippwaller/knx-frontend/pull/10) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 days ago)
 - [test(gallery): native rerun and persistent status comment](https://github.com/philippwaller/knx-frontend/pull/9) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 days ago)
 - [Use native workflow reruns for Gallery preview approval](https://github.com/philippwaller/knx-frontend/pull/8) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 days ago)
-- [test(gallery): manual review of preview comment and component links](https://github.com/philippwaller/knx-frontend/pull/7) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 days ago)
-- [test(gallery): automated preview acceptance run](https://github.com/philippwaller/knx-frontend/pull/6) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (4 days ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
