@@ -2,10 +2,10 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [XKNX/xknxproject](https://github.com/XKNX/xknxproject) - ETS project parser written in python (1 day ago)
+- [XKNX/xknxproject](https://github.com/XKNX/xknxproject) - ETS project parser written in python (2 days ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (1 week ago)
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (1 week ago)
-- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (1 week ago)
+- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (2 weeks ago)
 - [philippwaller/xknx-workspace](https://github.com/philippwaller/xknx-workspace) - Reproducible development workspace for XKNX and Home Assistant KNX projects (2 weeks ago)
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) -  (3 weeks ago)
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels. (1 month ago)
@@ -25,41 +25,41 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.1](https://github.com/home-assistant/core/releases/tag/2026.10.1), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([external-service-1.0.9](https://github.com/philippwaller/helm-charts/releases/tag/external-service-1.0.9), 1 week ago) - Helm Chart Repository
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.1](https://github.com/home-assistant/core/releases/tag/2026.10.1), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([external-service-1.0.9](https://github.com/philippwaller/helm-charts/releases/tag/external-service-1.0.9), 2 weeks ago) - Helm Chart Repository
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.5.0), 1 month ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) ([v0.11.2](https://github.com/XKNX/knx-telegram-store/releases/tag/v0.11.2), 2 months ago) - 
-- [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 7 months ago) - The purpose of this role is to add users and groups on your system.
+- [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 8 months ago) - The purpose of this role is to add users and groups on your system.
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/releases.md)
 
 #### 🔨 My recent Pull Requests
 
-- [Align Gallery tooling and CI with Home Assistant](https://github.com/philippwaller/knx-frontend/pull/16) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (today)
-- [test(gallery): verify refactored build and preview workflow](https://github.com/philippwaller/knx-frontend/pull/15) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
-- [Isolate Gallery tooling and validation](https://github.com/philippwaller/knx-frontend/pull/14) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
-- [Resolve module arguments in texts and add the text parameter of communication objects](https://github.com/XKNX/xknxproject/pull/661) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (2 days ago)
-- [test: benchmark four Gallery browser-test shards](https://github.com/philippwaller/knx-frontend/pull/13) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (2 days ago)
-- [perf: reduce Gallery build time without reducing coverage](https://github.com/philippwaller/knx-frontend/pull/12) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (2 days ago)
-- [Improve Gallery comparison and reduce CI time](https://github.com/philippwaller/knx-frontend/pull/11) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (2 days ago)
-- [Improve Gallery preview status comments](https://github.com/philippwaller/knx-frontend/pull/10) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (2 days ago)
-- [test(gallery): native rerun and persistent status comment](https://github.com/philippwaller/knx-frontend/pull/9) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (2 days ago)
-- [Use native workflow reruns for Gallery preview approval](https://github.com/philippwaller/knx-frontend/pull/8) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (2 days ago)
-- [test(gallery): manual review of preview comment and component links](https://github.com/philippwaller/knx-frontend/pull/7) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (2 days ago)
-- [test(gallery): automated preview acceptance run](https://github.com/philippwaller/knx-frontend/pull/6) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 days ago)
-- [test(gallery): install gallery for live preview validation](https://github.com/philippwaller/knx-frontend/pull/5) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 days ago)
-- [Add full application program definitions](https://github.com/XKNX/xknxproject/pull/658) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (5 days ago)
-- [Export catalog and space references per device, keep sibling spaces sharing a name](https://github.com/XKNX/xknxproject/pull/657) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (5 days ago)
+- [test(gallery): final Pages and report lifecycle rehearsal](https://github.com/philippwaller/knx-frontend/pull/18) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
+- [test(gallery): final integration rehearsal on fork](https://github.com/philippwaller/knx-frontend/pull/17) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
+- [Align Gallery tooling and CI with Home Assistant](https://github.com/philippwaller/knx-frontend/pull/16) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 day ago)
+- [test(gallery): verify refactored build and preview workflow](https://github.com/philippwaller/knx-frontend/pull/15) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (2 days ago)
+- [Isolate Gallery tooling and validation](https://github.com/philippwaller/knx-frontend/pull/14) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (2 days ago)
+- [Resolve module arguments in texts and add the text parameter of communication objects](https://github.com/XKNX/xknxproject/pull/661) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (3 days ago)
+- [test: benchmark four Gallery browser-test shards](https://github.com/philippwaller/knx-frontend/pull/13) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 days ago)
+- [perf: reduce Gallery build time without reducing coverage](https://github.com/philippwaller/knx-frontend/pull/12) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 days ago)
+- [Improve Gallery comparison and reduce CI time](https://github.com/philippwaller/knx-frontend/pull/11) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 days ago)
+- [Improve Gallery preview status comments](https://github.com/philippwaller/knx-frontend/pull/10) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 days ago)
+- [test(gallery): native rerun and persistent status comment](https://github.com/philippwaller/knx-frontend/pull/9) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 days ago)
+- [Use native workflow reruns for Gallery preview approval](https://github.com/philippwaller/knx-frontend/pull/8) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 days ago)
+- [test(gallery): manual review of preview comment and component links](https://github.com/philippwaller/knx-frontend/pull/7) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (3 days ago)
+- [test(gallery): automated preview acceptance run](https://github.com/philippwaller/knx-frontend/pull/6) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (4 days ago)
+- [test(gallery): install gallery for live preview validation](https://github.com/philippwaller/knx-frontend/pull/5) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (4 days ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
 
-- [XKNX/knx-specifications](https://github.com/XKNX/knx-specifications) -  (2 days ago)
+- [XKNX/knx-specifications](https://github.com/XKNX/knx-specifications) -  (3 days ago)
 - [Sduniii/KoNfiX](https://github.com/Sduniii/KoNfiX) -  (1 week ago)
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Superset is an agentic IDE to orchestrate 100&#43; coding agents in parallel. Run any agent with your own subscription. (2 weeks ago)
 - [marvin-w/ha-soniox](https://github.com/marvin-w/ha-soniox) - AI! Soniox HA Voice PE integration (3 weeks ago)
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) -  (3 weeks ago)
-- [knx-ai/xknx-editor](https://github.com/knx-ai/xknx-editor) - XKNX Editor to program and mange KNX devices (3 weeks ago)
-- [XKNX/xknxproject](https://github.com/XKNX/xknxproject) - ETS project parser written in python (3 weeks ago)
+- [knx-ai/xknx-editor](https://github.com/knx-ai/xknx-editor) - XKNX Editor to program and mange KNX devices (4 weeks ago)
+- [XKNX/xknxproject](https://github.com/XKNX/xknxproject) - ETS project parser written in python (4 weeks ago)
 - [SaladTechnologies/terraform-provider-salad-cloud](https://github.com/SaladTechnologies/terraform-provider-salad-cloud) - SaladCloud Terraform provider (1 month ago)
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater (1 month ago)
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server (3 months ago)
