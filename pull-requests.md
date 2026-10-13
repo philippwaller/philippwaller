@@ -1,5 +1,8 @@
 #### 🔨 My recent Pull Requests
 
+- [Document the KNX restart_device action](https://github.com/home-assistant/home-assistant.io/pull/49180) on [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) (today)
+- [Add device menu with restart and view telegrams to the project Devices tab](https://github.com/XKNX/knx-frontend/pull/490) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
+- [Add restart_device action to KNX](https://github.com/home-assistant/core/pull/186127) on [home-assistant/core](https://github.com/home-assistant/core) (today)
 - [[2/3] Validate Gallery browsers and production package isolation](https://github.com/XKNX/knx-frontend/pull/485) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
 - [[1/3] Add offline KNX component Gallery and authoring examples](https://github.com/XKNX/knx-frontend/pull/484) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
 - [[3/3] Publish approved Gallery previews through trusted Pages workflow](https://github.com/XKNX/knx-frontend/pull/482) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
@@ -96,6 +99,3 @@
 - [perf: inline color_to_code function for optimized pixel mapping](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/39) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [chore: add shared AGENTS.md instructions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/38) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [perf: reduce draw_absolute_pixel_internal overhead in hot path](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/37) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
-- [perf: optimize pixel writing and add benchmarks for draw pipeline](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/36) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
-- [chore(main): release 0.2.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/35) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
-- [ci: rename workflow from CodSpeed to Benchmarks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/34) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)

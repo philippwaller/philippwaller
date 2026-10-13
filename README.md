@@ -34,6 +34,9 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Document the KNX restart_device action](https://github.com/home-assistant/home-assistant.io/pull/49180) on [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) (today)
+- [Add device menu with restart and view telegrams to the project Devices tab](https://github.com/XKNX/knx-frontend/pull/490) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
+- [Add restart_device action to KNX](https://github.com/home-assistant/core/pull/186127) on [home-assistant/core](https://github.com/home-assistant/core) (today)
 - [[2/3] Validate Gallery browsers and production package isolation](https://github.com/XKNX/knx-frontend/pull/485) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
 - [[1/3] Add offline KNX component Gallery and authoring examples](https://github.com/XKNX/knx-frontend/pull/484) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
 - [[3/3] Publish approved Gallery previews through trusted Pages workflow](https://github.com/XKNX/knx-frontend/pull/482) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 days ago)
@@ -46,9 +49,6 @@
 - [test: benchmark four Gallery browser-test shards](https://github.com/philippwaller/knx-frontend/pull/13) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (5 days ago)
 - [perf: reduce Gallery build time without reducing coverage](https://github.com/philippwaller/knx-frontend/pull/12) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (5 days ago)
 - [Improve Gallery comparison and reduce CI time](https://github.com/philippwaller/knx-frontend/pull/11) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (5 days ago)
-- [Improve Gallery preview status comments](https://github.com/philippwaller/knx-frontend/pull/10) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (5 days ago)
-- [test(gallery): native rerun and persistent status comment](https://github.com/philippwaller/knx-frontend/pull/9) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (5 days ago)
-- [Use native workflow reruns for Gallery preview approval](https://github.com/philippwaller/knx-frontend/pull/8) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (5 days ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
