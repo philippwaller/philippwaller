@@ -1,5 +1,6 @@
 #### 🔨 My recent Pull Requests
 
+- [Fail KNX production builds when Rspack reports errors](https://github.com/XKNX/knx-frontend/pull/492) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Allow longer KNX binary sensor reset durations](https://github.com/home-assistant/core/pull/186288) on [home-assistant/core](https://github.com/home-assistant/core) (1 day ago)
 - [Use a Duration selector for KNX binary sensor reset](https://github.com/XKNX/knx-frontend/pull/491) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
 - [Document the KNX restart_device action](https://github.com/home-assistant/home-assistant.io/pull/49180) on [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) (1 day ago)
@@ -98,4 +99,3 @@
 - [docs(readme): add board package instructions](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/42) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [chore(python): centralize runtime version](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/41) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [ci: enable autoclosing for renovate dependency dashboard](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/40) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
-- [perf: inline color_to_code function for optimized pixel mapping](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/39) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)

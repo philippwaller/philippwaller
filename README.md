@@ -34,6 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
+- [Fail KNX production builds when Rspack reports errors](https://github.com/XKNX/knx-frontend/pull/492) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (today)
 - [Allow longer KNX binary sensor reset durations](https://github.com/home-assistant/core/pull/186288) on [home-assistant/core](https://github.com/home-assistant/core) (1 day ago)
 - [Use a Duration selector for KNX binary sensor reset](https://github.com/XKNX/knx-frontend/pull/491) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 day ago)
 - [Document the KNX restart_device action](https://github.com/home-assistant/home-assistant.io/pull/49180) on [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) (1 day ago)
@@ -48,7 +49,6 @@
 - [test(gallery): verify refactored build and preview workflow](https://github.com/philippwaller/knx-frontend/pull/15) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (5 days ago)
 - [Isolate Gallery tooling and validation](https://github.com/philippwaller/knx-frontend/pull/14) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (5 days ago)
 - [Resolve module arguments in texts and add the text parameter of communication objects](https://github.com/XKNX/xknxproject/pull/661) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (6 days ago)
-- [test: benchmark four Gallery browser-test shards](https://github.com/philippwaller/knx-frontend/pull/13) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (6 days ago)
 - [See more...](https://github.com/philippwaller/philippwaller/blob/main/pull-requests.md)
 
 #### ⭐ Recent Stars
