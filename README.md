@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) ([v0.15.2](https://github.com/XKNX/knx-telegram-store/releases/tag/v0.15.2), 1 day ago) - 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.2](https://github.com/home-assistant/core/releases/tag/2026.10.2), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) ([v0.15.2](https://github.com/XKNX/knx-telegram-store/releases/tag/v0.15.2), 2 days ago) - 
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.10.2](https://github.com/home-assistant/core/releases/tag/2026.10.2), 5 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([external-service-1.0.9](https://github.com/philippwaller/helm-charts/releases/tag/external-service-1.0.9), 3 weeks ago) - Helm Chart Repository
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.5.0), 1 month ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 8 months ago) - The purpose of this role is to add users and groups on your system.
@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fail KNX production builds when Rspack reports errors](https://github.com/XKNX/knx-frontend/pull/492) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (6 days ago)
+- [Fail KNX production builds when Rspack reports errors](https://github.com/XKNX/knx-frontend/pull/492) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [Allow longer KNX binary sensor reset durations](https://github.com/home-assistant/core/pull/186288) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
 - [Use a Duration selector for KNX binary sensor reset](https://github.com/XKNX/knx-frontend/pull/491) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [Document the KNX restart_device action](https://github.com/home-assistant/home-assistant.io/pull/49180) on [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) (1 week ago)

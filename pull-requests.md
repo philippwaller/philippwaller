@@ -1,6 +1,6 @@
 #### 🔨 My recent Pull Requests
 
-- [Fail KNX production builds when Rspack reports errors](https://github.com/XKNX/knx-frontend/pull/492) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (6 days ago)
+- [Fail KNX production builds when Rspack reports errors](https://github.com/XKNX/knx-frontend/pull/492) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [Allow longer KNX binary sensor reset durations](https://github.com/home-assistant/core/pull/186288) on [home-assistant/core](https://github.com/home-assistant/core) (1 week ago)
 - [Use a Duration selector for KNX binary sensor reset](https://github.com/XKNX/knx-frontend/pull/491) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 week ago)
 - [Document the KNX restart_device action](https://github.com/home-assistant/home-assistant.io/pull/49180) on [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) (1 week ago)
@@ -22,8 +22,8 @@
 - [test(gallery): native rerun and persistent status comment](https://github.com/philippwaller/knx-frontend/pull/9) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 week ago)
 - [Use native workflow reruns for Gallery preview approval](https://github.com/philippwaller/knx-frontend/pull/8) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 week ago)
 - [test(gallery): manual review of preview comment and component links](https://github.com/philippwaller/knx-frontend/pull/7) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 week ago)
-- [test(gallery): automated preview acceptance run](https://github.com/philippwaller/knx-frontend/pull/6) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 week ago)
-- [test(gallery): install gallery for live preview validation](https://github.com/philippwaller/knx-frontend/pull/5) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 week ago)
+- [test(gallery): automated preview acceptance run](https://github.com/philippwaller/knx-frontend/pull/6) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (2 weeks ago)
+- [test(gallery): install gallery for live preview validation](https://github.com/philippwaller/knx-frontend/pull/5) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (2 weeks ago)
 - [Add full application program definitions](https://github.com/XKNX/xknxproject/pull/658) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (2 weeks ago)
 - [Export catalog and space references per device, keep sibling spaces sharing a name](https://github.com/XKNX/xknxproject/pull/657) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (2 weeks ago)
 - [Add KNX project upload dialog translations for the loaded project](https://github.com/home-assistant/core/pull/183542) on [home-assistant/core](https://github.com/home-assistant/core) (3 weeks ago)
@@ -80,7 +80,7 @@
 - [chore(renovate): group related dependency updates](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/81) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (1 month ago)
 - [chore(main): release 0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/77) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 months ago)
 - [feat: add board definition for Good Display ESP32-133C02 revision 2](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/75) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 months ago)
-- [ci: add release channel selection to release please workflow](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/65) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (3 months ago)
+- [ci: add release channel selection to release please workflow](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/65) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [ci: include ESPHome prereleases in PR compatibility checks](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/62) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [refactor(display)!: align public API with refresh terminology](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/58) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
 - [chore(main): release 0.4.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/pull/57) on [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) (4 months ago)
