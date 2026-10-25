@@ -2,9 +2,9 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (today)
 - [XKNX/xknxproject](https://github.com/XKNX/xknxproject) - ETS project parser written in python (2 weeks ago)
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first. (3 weeks ago)
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) - Home Assistant Panel for managing the KNX integration (3 weeks ago)
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) - Helm Chart Repository (4 weeks ago)
 - [philippwaller/xknx-workspace](https://github.com/philippwaller/xknx-workspace) - Reproducible development workspace for XKNX and Home Assistant KNX projects (1 month ago)
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) -  (1 month ago)
