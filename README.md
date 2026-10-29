@@ -68,8 +68,8 @@
 
 - [aixisstudio](https://github.com/aixisstudio)
 - [BEPb](https://github.com/BEPb)
-- [aramisjustin068](https://github.com/aramisjustin068)
 - [chrisirhc](https://github.com/chrisirhc)
 - [cardentey](https://github.com/cardentey)
+- [mezentsevs](https://github.com/mezentsevs)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
