@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.11.2.195507](https://github.com/XKNX/knx-frontend/releases/tag/2026.11.2.195507), today) - Home Assistant Panel for managing the KNX integration
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0b3](https://github.com/home-assistant/core/releases/tag/2026.11.0b3), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.11.2.195507](https://github.com/XKNX/knx-frontend/releases/tag/2026.11.2.195507), 1 day ago) - Home Assistant Panel for managing the KNX integration
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0b3](https://github.com/home-assistant/core/releases/tag/2026.11.0b3), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) ([v0.15.2](https://github.com/XKNX/knx-telegram-store/releases/tag/v0.15.2), 2 weeks ago) - 
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([external-service-1.0.9](https://github.com/philippwaller/helm-charts/releases/tag/external-service-1.0.9), 1 month ago) - Helm Chart Repository
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.5.0), 1 month ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
@@ -36,11 +36,11 @@
 #### 🔨 My recent Pull Requests
 
 - [Fail KNX production builds when Rspack reports errors](https://github.com/XKNX/knx-frontend/pull/492) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
-- [Allow longer KNX binary sensor reset durations](https://github.com/home-assistant/core/pull/186288) on [home-assistant/core](https://github.com/home-assistant/core) (2 weeks ago)
-- [Use a Duration selector for KNX binary sensor reset](https://github.com/XKNX/knx-frontend/pull/491) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
-- [Document the KNX restart_device action](https://github.com/home-assistant/home-assistant.io/pull/49180) on [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) (2 weeks ago)
-- [Add device menu with restart and view telegrams to the project Devices tab](https://github.com/XKNX/knx-frontend/pull/490) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (2 weeks ago)
-- [Add restart_device action to KNX](https://github.com/home-assistant/core/pull/186127) on [home-assistant/core](https://github.com/home-assistant/core) (2 weeks ago)
+- [Allow longer KNX binary sensor reset durations](https://github.com/home-assistant/core/pull/186288) on [home-assistant/core](https://github.com/home-assistant/core) (3 weeks ago)
+- [Use a Duration selector for KNX binary sensor reset](https://github.com/XKNX/knx-frontend/pull/491) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 weeks ago)
+- [Document the KNX restart_device action](https://github.com/home-assistant/home-assistant.io/pull/49180) on [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) (3 weeks ago)
+- [Add device menu with restart and view telegrams to the project Devices tab](https://github.com/XKNX/knx-frontend/pull/490) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 weeks ago)
+- [Add restart_device action to KNX](https://github.com/home-assistant/core/pull/186127) on [home-assistant/core](https://github.com/home-assistant/core) (3 weeks ago)
 - [[2/3] Validate Gallery browsers and production package isolation](https://github.com/XKNX/knx-frontend/pull/485) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 weeks ago)
 - [[1/3] Add offline KNX component Gallery and authoring examples](https://github.com/XKNX/knx-frontend/pull/484) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 weeks ago)
 - [[3/3] Publish approved Gallery previews through trusted Pages workflow](https://github.com/XKNX/knx-frontend/pull/482) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 weeks ago)
