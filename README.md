@@ -56,7 +56,7 @@
 
 - [XKNX/knx-specifications](https://github.com/XKNX/knx-specifications) -  (3 weeks ago)
 - [Sduniii/KoNfiX](https://github.com/Sduniii/KoNfiX) -  (1 month ago)
-- [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev (formerly Superset) is an agentic IDE to orchestrate 100&#43; coding agents in parallel. Run any agent with your own subscription. (1 month ago)
+- [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions. (1 month ago)
 - [marvin-w/ha-soniox](https://github.com/marvin-w/ha-soniox) - AI! Soniox HA Voice PE integration (1 month ago)
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) -  (1 month ago)
 - [XKNX/xknx-editor](https://github.com/XKNX/xknx-editor) - XKNX Editor to program and mange KNX devices (1 month ago)
