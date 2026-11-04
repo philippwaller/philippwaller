@@ -1,6 +1,6 @@
 #### 🔭 Releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0b6](https://github.com/home-assistant/core/releases/tag/2026.11.0b6), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0](https://github.com/home-assistant/core/releases/tag/2026.11.0), today) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) ([2026.11.2.195507](https://github.com/XKNX/knx-frontend/releases/tag/2026.11.2.195507), 2 days ago) - Home Assistant Panel for managing the KNX integration
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) ([v0.15.2](https://github.com/XKNX/knx-telegram-store/releases/tag/v0.15.2), 2 weeks ago) - 
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([external-service-1.0.9](https://github.com/philippwaller/helm-charts/releases/tag/external-service-1.0.9), 1 month ago) - Helm Chart Repository
