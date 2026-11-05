@@ -67,10 +67,10 @@
 
 #### 👯 Check out some of my recent followers
 
+- [arielshakaramiro](https://github.com/arielshakaramiro)
 - [BEPb](https://github.com/BEPb)
 - [chrisirhc](https://github.com/chrisirhc)
 - [cardentey](https://github.com/cardentey)
 - [mezentsevs](https://github.com/mezentsevs)
-- [ZengjieRuan](https://github.com/ZengjieRuan)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
