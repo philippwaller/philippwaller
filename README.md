@@ -63,7 +63,7 @@
 - [XKNX/xknxproject](https://github.com/XKNX/xknxproject) - ETS project parser written in python (1 month ago)
 - [SaladTechnologies/terraform-provider-salad-cloud](https://github.com/SaladTechnologies/terraform-provider-salad-cloud) - SaladCloud Terraform provider (2 months ago)
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater (2 months ago)
-- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - The Unofficial and Awesome Home Assistant MCP Server (4 months ago)
+- [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. (4 months ago)
 
 #### 👯 Check out some of my recent followers
 
