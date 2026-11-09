@@ -25,8 +25,8 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0](https://github.com/home-assistant/core/releases/tag/2026.11.0), 4 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
-- [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) ([v0.15.2](https://github.com/XKNX/knx-telegram-store/releases/tag/v0.15.2), 2 weeks ago) - 
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.0](https://github.com/home-assistant/core/releases/tag/2026.11.0), 5 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) ([v0.15.2](https://github.com/XKNX/knx-telegram-store/releases/tag/v0.15.2), 3 weeks ago) - 
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([external-service-1.0.9](https://github.com/philippwaller/helm-charts/releases/tag/external-service-1.0.9), 1 month ago) - Helm Chart Repository
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.5.0), 2 months ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.1.8](https://github.com/robertdebock/ansible-role-users/releases/tag/6.1.8), 8 months ago) - The purpose of this role is to add users and groups on your system.
@@ -43,9 +43,9 @@
 - [[2/3] Validate Gallery browsers and production package isolation](https://github.com/XKNX/knx-frontend/pull/485) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 weeks ago)
 - [[1/3] Add offline KNX component Gallery and authoring examples](https://github.com/XKNX/knx-frontend/pull/484) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 weeks ago)
 - [[3/3] Publish approved Gallery previews through trusted Pages workflow](https://github.com/XKNX/knx-frontend/pull/482) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 weeks ago)
-- [test(gallery): final Pages and report lifecycle rehearsal](https://github.com/philippwaller/knx-frontend/pull/18) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (4 weeks ago)
-- [test(gallery): final integration rehearsal on fork](https://github.com/philippwaller/knx-frontend/pull/17) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (4 weeks ago)
-- [Align Gallery tooling and CI with Home Assistant](https://github.com/philippwaller/knx-frontend/pull/16) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (4 weeks ago)
+- [test(gallery): final Pages and report lifecycle rehearsal](https://github.com/philippwaller/knx-frontend/pull/18) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 month ago)
+- [test(gallery): final integration rehearsal on fork](https://github.com/philippwaller/knx-frontend/pull/17) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 month ago)
+- [Align Gallery tooling and CI with Home Assistant](https://github.com/philippwaller/knx-frontend/pull/16) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 month ago)
 - [test(gallery): verify refactored build and preview workflow](https://github.com/philippwaller/knx-frontend/pull/15) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 month ago)
 - [Isolate Gallery tooling and validation](https://github.com/philippwaller/knx-frontend/pull/14) on [philippwaller/knx-frontend](https://github.com/philippwaller/knx-frontend) (1 month ago)
 - [Resolve module arguments in texts and add the text parameter of communication objects](https://github.com/XKNX/xknxproject/pull/661) on [XKNX/xknxproject](https://github.com/XKNX/xknxproject) (1 month ago)
