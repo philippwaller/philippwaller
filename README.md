@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.1](https://github.com/home-assistant/core/releases/tag/2026.11.1), 1 day ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.1](https://github.com/home-assistant/core/releases/tag/2026.11.1), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) ([v0.15.2](https://github.com/XKNX/knx-telegram-store/releases/tag/v0.15.2), 3 weeks ago) - 
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([external-service-1.0.9](https://github.com/philippwaller/helm-charts/releases/tag/external-service-1.0.9), 1 month ago) - Helm Chart Repository
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.5.0), 2 months ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
@@ -34,7 +34,7 @@
 
 #### 🔨 My recent Pull Requests
 
-- [Fail KNX production builds when Rspack reports errors](https://github.com/XKNX/knx-frontend/pull/492) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (3 weeks ago)
+- [Fail KNX production builds when Rspack reports errors](https://github.com/XKNX/knx-frontend/pull/492) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 weeks ago)
 - [Allow longer KNX binary sensor reset durations](https://github.com/home-assistant/core/pull/186288) on [home-assistant/core](https://github.com/home-assistant/core) (4 weeks ago)
 - [Use a Duration selector for KNX binary sensor reset](https://github.com/XKNX/knx-frontend/pull/491) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 weeks ago)
 - [Document the KNX restart_device action](https://github.com/home-assistant/home-assistant.io/pull/49180) on [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) (4 weeks ago)
