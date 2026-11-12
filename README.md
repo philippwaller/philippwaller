@@ -25,7 +25,7 @@
 
 #### 🔭 Latest releases I've contributed to
 
-- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.1](https://github.com/home-assistant/core/releases/tag/2026.11.1), 2 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
+- [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.1](https://github.com/home-assistant/core/releases/tag/2026.11.1), 3 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) ([v0.15.2](https://github.com/XKNX/knx-telegram-store/releases/tag/v0.15.2), 3 weeks ago) - 
 - [philippwaller/helm-charts](https://github.com/philippwaller/helm-charts) ([external-service-1.0.9](https://github.com/philippwaller/helm-charts/releases/tag/external-service-1.0.9), 1 month ago) - Helm Chart Repository
 - [philippwaller/esphome-epaper-spectra6-133](https://github.com/philippwaller/esphome-epaper-spectra6-133) ([v0.5.0](https://github.com/philippwaller/esphome-epaper-spectra6-133/releases/tag/v0.5.0), 2 months ago) - A ESPHome display component for large-format 13.3″ Spectra 6 e-paper panels.
@@ -35,11 +35,11 @@
 #### 🔨 My recent Pull Requests
 
 - [Fail KNX production builds when Rspack reports errors](https://github.com/XKNX/knx-frontend/pull/492) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 weeks ago)
-- [Allow longer KNX binary sensor reset durations](https://github.com/home-assistant/core/pull/186288) on [home-assistant/core](https://github.com/home-assistant/core) (4 weeks ago)
-- [Use a Duration selector for KNX binary sensor reset](https://github.com/XKNX/knx-frontend/pull/491) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 weeks ago)
-- [Document the KNX restart_device action](https://github.com/home-assistant/home-assistant.io/pull/49180) on [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) (4 weeks ago)
-- [Add device menu with restart and view telegrams to the project Devices tab](https://github.com/XKNX/knx-frontend/pull/490) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (4 weeks ago)
-- [Add restart_device action to KNX](https://github.com/home-assistant/core/pull/186127) on [home-assistant/core](https://github.com/home-assistant/core) (4 weeks ago)
+- [Allow longer KNX binary sensor reset durations](https://github.com/home-assistant/core/pull/186288) on [home-assistant/core](https://github.com/home-assistant/core) (1 month ago)
+- [Use a Duration selector for KNX binary sensor reset](https://github.com/XKNX/knx-frontend/pull/491) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
+- [Document the KNX restart_device action](https://github.com/home-assistant/home-assistant.io/pull/49180) on [home-assistant/home-assistant.io](https://github.com/home-assistant/home-assistant.io) (1 month ago)
+- [Add device menu with restart and view telegrams to the project Devices tab](https://github.com/XKNX/knx-frontend/pull/490) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
+- [Add restart_device action to KNX](https://github.com/home-assistant/core/pull/186127) on [home-assistant/core](https://github.com/home-assistant/core) (1 month ago)
 - [[2/3] Validate Gallery browsers and production package isolation](https://github.com/XKNX/knx-frontend/pull/485) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
 - [[1/3] Add offline KNX component Gallery and authoring examples](https://github.com/XKNX/knx-frontend/pull/484) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
 - [[3/3] Publish approved Gallery previews through trusted Pages workflow](https://github.com/XKNX/knx-frontend/pull/482) on [XKNX/knx-frontend](https://github.com/XKNX/knx-frontend) (1 month ago)
@@ -58,8 +58,8 @@
 - [ParadevAI/Paradev](https://github.com/ParadevAI/Paradev) - Paradev is an open-source Codex App and Conductor alternative. Orchestrate an army coding agents in parallel with your own subscriptions. (1 month ago)
 - [marvin-w/ha-soniox](https://github.com/marvin-w/ha-soniox) - AI! Soniox HA Voice PE integration (1 month ago)
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) -  (1 month ago)
-- [XKNX/xknx-editor](https://github.com/XKNX/xknx-editor) - XKNX Editor to program and mange KNX devices (1 month ago)
-- [XKNX/xknxproject](https://github.com/XKNX/xknxproject) - ETS project parser written in python (1 month ago)
+- [XKNX/xknx-editor](https://github.com/XKNX/xknx-editor) - XKNX Editor to program and mange KNX devices (2 months ago)
+- [XKNX/xknxproject](https://github.com/XKNX/xknxproject) - ETS project parser written in python (2 months ago)
 - [SaladTechnologies/terraform-provider-salad-cloud](https://github.com/SaladTechnologies/terraform-provider-salad-cloud) - SaladCloud Terraform provider (2 months ago)
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater (2 months ago)
 - [homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp) - Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants. (4 months ago)
