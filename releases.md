@@ -1,5 +1,6 @@
 #### 🔭 Releases I've contributed to
 
+- [XKNX/xknxproject](https://github.com/XKNX/xknxproject) ([3.11.0](https://github.com/XKNX/xknxproject/releases/tag/3.11.0), today) - ETS project parser written in python
 - [robertdebock/ansible-role-users](https://github.com/robertdebock/ansible-role-users) ([6.2.1](https://github.com/robertdebock/ansible-role-users/releases/tag/6.2.1), 1 day ago) - The purpose of this role is to add users and groups on your system.
 - [home-assistant/core](https://github.com/home-assistant/core) ([2026.11.2](https://github.com/home-assistant/core/releases/tag/2026.11.2), 6 days ago) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [XKNX/knx-telegram-store](https://github.com/XKNX/knx-telegram-store) ([v0.16.0](https://github.com/XKNX/knx-telegram-store/releases/tag/v0.16.0), 1 week ago) - 
