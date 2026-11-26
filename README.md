@@ -70,8 +70,8 @@
 
 - [milksense](https://github.com/milksense)
 - [lxlynx](https://github.com/lxlynx)
-- [Git-FED](https://github.com/Git-FED)
 - [arielshakaramiro](https://github.com/arielshakaramiro)
 - [BEPb](https://github.com/BEPb)
+- [chrisirhc](https://github.com/chrisirhc)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
