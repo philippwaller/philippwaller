@@ -67,10 +67,10 @@
 
 #### 👯 Check out some of my recent followers
 
-- [milksense](https://github.com/milksense)
 - [lxlynx](https://github.com/lxlynx)
 - [arielshakaramiro](https://github.com/arielshakaramiro)
 - [BEPb](https://github.com/BEPb)
 - [chrisirhc](https://github.com/chrisirhc)
+- [cardentey](https://github.com/cardentey)
 
 ![](https://hit.yhype.me/github/profile?user_id=1090452)
